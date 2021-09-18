@@ -6,10 +6,10 @@
 
 import argparse
 import os
-from shutil import rmtree
 import sys
 import xml.etree.ElementTree as ET
 from datetime import timedelta
+from shutil import rmtree
 
 import requests
 import requests_cache
