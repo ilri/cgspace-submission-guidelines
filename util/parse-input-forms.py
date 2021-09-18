@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.0
+# parse-input-forms.py v0.2.1
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
 import argparse
 import os
+from shutil import rmtree
 import sys
 import xml.etree.ElementTree as ET
 from datetime import timedelta
@@ -195,6 +196,11 @@ parser.add_argument(
     required=True,
 )
 parser.add_argument(
+    "--clean",
+    help="Clean output directory before building.",
+    action="store_true",
+)
+parser.add_argument(
     "-d",
     "--debug",
     help="Print debug messages.",
@@ -215,6 +221,12 @@ parser.add_argument(
     default="https://cgspace.cgiar.org/rest",
 )
 args = parser.parse_args()
+
+if args.clean:
+    if args.debug:
+        print(f"Cleaning terms output directory")
+
+    rmtree("content/terms")
 
 if args.debug:
     print(f"Opening {args.input_forms.name}")
