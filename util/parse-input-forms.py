@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.0.1
+# parse-input-forms.py v0.0.2
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -30,17 +30,14 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     requests_cache.remove_expired_responses()
 
     if args.debug:
-        if qualifier:
-            print(f"Looking up description for {schema}.{element}.{qualifier}.")
-        else:
-            print(f"Looking up description for {schema}.{element}.")
+        print(f"> Looking up description")
 
     url = f"{args.rest_base_url}/registries/schema/{schema}"
     request_headers = {"user-agent": "curl", "Accept": "application/json"}
     response = requests.get(url, headers=request_headers)
 
-    if args.debug and response.from_cache:
-        sys.stderr.write(Fore.YELLOW + "Request in cache.\n" + Fore.RESET)
+    if response.from_cache and args.debug:
+        sys.stdout.write(Fore.YELLOW + ">> Request in cache.\n" + Fore.RESET)
 
     # Schema exists in the registry (it should if it's in our input form!)
     if response.status_code == 200:
@@ -80,6 +77,20 @@ def parseInputForm(inputForm):
         except AttributeError:
             qualifier = False
 
+        if qualifier:
+            metadataField = f"{schema}.{element}.{qualifier}"
+            metadataFieldSlug = f"{schema}-{element}-{qualifier}"
+        else:
+            metadataField = f"{schema}.{element}"
+            metadataFieldSlug = f"{schema}-{element}"
+
+        if args.debug:
+            print(f"Processing {metadataField}")
+
+        # Create output directory for term
+        outputDirectory = f"content/terms/{metadataFieldSlug}"
+        os.makedirs(outputDirectory, mode=0o755, exist_ok=True)
+
         repeatable = field.find("./repeatable").text
         title = field.find("./label").text
 
@@ -89,8 +100,8 @@ def parseInputForm(inputForm):
         except AttributeError:
             vocabulary = False
 
-        if vocabulary:
-            print(f"controlled vocabulary: {vocabulary}")
+        if vocabulary and args.debug:
+            print(f"> Found controlled vocabulary: {vocabulary}")
 
         # Not using this yet, but could eventually say that the field is free
         # text if input type is onebox, or controlled if value is dropdown.
@@ -108,10 +119,12 @@ def parseInputForm(inputForm):
             # See: https://stackoverflow.com/a/6126846
             valuePairsName = valuePairs.attrib["value-pairs-name"]
 
-            exportValuePairs(root, valuePairsName)
+            exportValuePairs(root, valuePairsName, metadataFieldSlug)
 
         # Try to get the metadata field's description from the REST API
         description = getFieldDescription(schema, element, qualifier)
+        # We can theoretically fall back to the "hint" in the input-forms.xml,
+        # but they are really meant for editors, not developers.
         if description == "":
             try:
                 description = field.find("./hint").text
@@ -123,33 +136,29 @@ def parseInputForm(inputForm):
         else:
             required = False
 
-        if qualifier:
-            metadataField = f"{schema}.{element}.{qualifier}"
-        else:
-            metadataField = f"{schema}.{element}"
-
         if description:
-            print(f"{metadataField}, required: {required}, description: {description}")
+            print(f"> {metadataField}, required: {required}, description: {description}")
         else:
-            print(f"{metadataField}, required: {required}")
+            print(f"> {metadataField}, required: {required}")
 
 
-def exportValuePairs(inputFormsXmlRoot, valuePairsName):
+def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: str):
     if args.debug:
-        print(f"Exporting value-pairs for {valuePairsName}")
+        print(f"> Exporting value pairs: {valuePairsName}")
 
-    # Write value pairs controlled vocabulary to a file
-    # for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
-    #    print out!
+    with open(f'content/terms/{metadataFieldSlug}/vocabulary.txt', 'w') as f:
+        # Write value pairs to vocabulary.txt
+        for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
+            f.write(f'{value.text}\n')
 
 
 parser = argparse.ArgumentParser(
-    description="Query DSpace database for item metadata based on a list of DOIs in a text file."
+    description="Parse a DSpace input-forms.xml file to produce documentation about submission requirements."
 )
 parser.add_argument(
     "-d",
     "--debug",
-    help="Print debug messages to standard error (stderr).",
+    help="Print debug messages.",
     action="store_true",
 )
 parser.add_argument(
@@ -160,13 +169,6 @@ parser.add_argument(
     type=argparse.FileType("r"),
 )
 parser.add_argument(
-    "-o",
-    "--output-directory",
-    help="Output directory",
-    required=False,
-    default="submission-docs",
-)
-parser.add_argument(
     "-r",
     "--rest-base-url",
     help="DSpace REST API base URL.",
@@ -175,8 +177,8 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
-# Create output directory
-os.makedirs(args.output_directory, mode=0o755, exist_ok=True)
+if args.debug:
+    print(f"Opening {args.input_forms.name}")
 
 tree = ET.parse(args.input_forms)
 root = tree.getroot()
