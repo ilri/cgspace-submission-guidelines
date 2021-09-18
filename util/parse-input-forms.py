@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.1.0
+# parse-input-forms.py v0.2.0
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -99,8 +99,8 @@ def parseInputForm(inputForm):
         except AttributeError:
             vocabulary = False
 
-        if vocabulary and args.debug:
-            print(f"> Found controlled vocabulary: {vocabulary}")
+        if vocabulary:
+            exportControlledVocabularies(vocabulary, metadataFieldSlug)
 
         # Not using this yet, but could eventually say that the field is free
         # text if input type is onebox, or controlled if value is dropdown.
@@ -146,10 +146,11 @@ def parseInputForm(inputForm):
         indexLines.append(f"required: {required}\n")
         if vocabulary or valuePairs is not None:
             indexLines.append(f"vocabulary: '{metadataFieldSlug}.txt'\n")
+        # TODO: use some real date...?
         indexLines.append(f"date: '2019-05-04T00:00:00+00:00'\n")
         indexLines.append("---")
 
-        with open(f'content/terms/{metadataFieldSlug}/index.md', 'w') as f:
+        with open(f"content/terms/{metadataFieldSlug}/index.md", "w") as f:
             f.writelines(indexLines)
 
 
@@ -157,14 +158,41 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
     if args.debug:
         print(f"> Exporting value pairs: {valuePairsName}")
 
-    with open(f'content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt', 'w') as f:
+    with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         # Write value pairs to a text file
-        for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
-            f.write(f'{value.text}\n')
+        for value in root.findall(
+            f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'
+        ):
+            f.write(f"{value.text}\n")
+
+
+def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
+    if args.debug:
+        print(f"> Exporting controlled vocabulary: {vocabulary}")
+
+    # Open the controlled vocabulary file and read all node labels
+    controlledVocabularyTree = ET.parse(
+        f"{args.controlled_vocab_basedir}/{vocabulary}.xml"
+    )
+    controlledVocabularyRoot = controlledVocabularyTree.getroot()
+
+    # Create an empty list where we'll add all the controlled vocabulary labels
+    controlledVocabularyLines = []
+    for value in controlledVocabularyRoot.findall(".//isComposedBy/node"):
+        controlledVocabularyLines.append(f'{value.attrib["label"]}\n')
+
+    with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
+        f.writelines(controlledVocabularyLines)
 
 
 parser = argparse.ArgumentParser(
     description="Parse a DSpace input-forms.xml file to produce documentation about submission requirements."
+)
+parser.add_argument(
+    "-c",
+    "--controlled-vocab-basedir",
+    help="Path to DSpace 'controlled-vocabularies' directory.",
+    required=True,
 )
 parser.add_argument(
     "-d",
