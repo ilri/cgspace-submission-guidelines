@@ -1,0 +1,27 @@
+{
+  "name": "cgspace-submission-guidelines",
+  "version": "0.0.1",
+  "description": "Generate CGSpace submission guidelines documentation website.",
+  "scripts": {
+    "build:css": "sass --style expanded source/scss/style.scss assets/css/style.css.tmp && cleancss -O1 --format breakWith=lf --with-rebase assets/css/style.css.tmp -o assets/css/style.min.css",
+    "build:js": "uglifyjs node_modules/jquery/dist/jquery.slim.min.js node_modules/bootstrap/dist/js/bootstrap.min.js -o assets/js/bundle.min.js",
+    "build": "npm run build:css && npm run clean",
+    "clean": "rm assets/css/style.css.tmp assets/css/style.css.tmp.map"
+  },
+  "keywords": [
+    "CGIAR",
+    "CGSpace",
+    "dublincore",
+    "dcterms",
+    "metadata"
+  ],
+  "author": "Alan Orth",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "bootstrap": "^5.1.1",
+    "clean-css-cli": "^5.3.3",
+    "jquery": "^3.6.0",
+    "sass": "^1.41.1",
+    "uglify-js": "^3.14.2"
+  }
+}
