@@ -15,52 +15,6 @@ import requests_cache
 from colorama import Fore
 
 
-# def getFieldDescriptionBuggy(schema: str, element: str, qualifier: str) -> str:
-#    """Retrieve metadata field descriptions from the DSpace REST API one by one.
-#
-#    Buggy because of DSpace's incorrect handling of metadata fields that don't
-#    have qualifiers, see: https://github.com/DSpace/DSpace/issues/7946
-#    """
-#
-#    # enable transparent request cache with thirty day expiry
-#    expire_after = timedelta(days=30)
-#    # cache HTTP 200 responses
-#    requests_cache.install_cache("requests-cache", expire_after=expire_after)
-#
-#    # prune old cache entries
-#    requests_cache.remove_expired_responses()
-#
-#    if args.debug:
-#        if qualifier:
-#            print(f"Looking up description for {schema}.{element}.{qualifier}.")
-#
-#            url = f"{args.rest_base_url}/registries/schema/{schema}/metadata-fields/{element}/{qualifier}"
-#        else:
-#            print(f"Looking up description for {schema}.{element}.")
-#
-#            url = f"{args.rest_base_url}/registries/schema/{schema}/metadata-fields/{element}"
-#
-#    request_headers = {"user-agent": "curl", "Accept": "application/json"}
-#    response = requests.get(url, headers=request_headers)
-#
-#    if args.debug and response.from_cache:
-#        sys.stderr.write("Request in cache.\n")
-#
-#    # Metadata field exists in the schema registry
-#    if response.status_code == 200:
-#        # Metadata field has a description
-#        if response.json()["description"]:
-#            description = response.json()["description"]
-#        else:
-#            description = ""
-#    # Metadata field exists in the registry, but DSpace 6.3's REST API responds
-#    # HTTP 500 for some reason. Sigh...
-#    elif response.status_code == 500:
-#        description = ""
-#
-#    return description
-
-
 def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     """Retrieve metadata field descriptions from the DSpace REST API.
 
