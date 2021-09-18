@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.0.2
+# parse-input-forms.py v0.1.0
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -84,8 +84,7 @@ def parseInputForm(inputForm):
             metadataField = f"{schema}.{element}"
             metadataFieldSlug = f"{schema}-{element}"
 
-        if args.debug:
-            print(f"Processing {metadataField}")
+        print(f"Processing {metadataField}")
 
         # Create output directory for term
         outputDirectory = f"content/terms/{metadataFieldSlug}"
@@ -129,25 +128,37 @@ def parseInputForm(inputForm):
             try:
                 description = field.find("./hint").text
             except AttributeError:
-                description = False
+                description = ""
 
         if field.find("./required").text:
             required = True
         else:
             required = False
 
-        if description:
-            print(f"> {metadataField}, required: {required}, description: {description}")
-        else:
-            print(f"> {metadataField}, required: {required}")
+        # Create an empty list with lines we'll write to the term's index.md in
+        # TOML frontmatter format for Hugo.
+        indexLines = []
+        indexLines.append("---\n")
+        indexLines.append(f"title: '{title}'\n")
+        indexLines.append(f"field: '{metadataField}'\n")
+        indexLines.append(f"slug: '{metadataFieldSlug}'\n")
+        indexLines.append(f"description: '{description}'\n")
+        indexLines.append(f"required: {required}\n")
+        if vocabulary or valuePairs is not None:
+            indexLines.append(f"vocabulary: '{metadataFieldSlug}.txt'\n")
+        indexLines.append(f"date: '2019-05-04T00:00:00+00:00'\n")
+        indexLines.append("---")
+
+        with open(f'content/terms/{metadataFieldSlug}/index.md', 'w') as f:
+            f.writelines(indexLines)
 
 
 def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: str):
     if args.debug:
         print(f"> Exporting value pairs: {valuePairsName}")
 
-    with open(f'content/terms/{metadataFieldSlug}/vocabulary.txt', 'w') as f:
-        # Write value pairs to vocabulary.txt
+    with open(f'content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt', 'w') as f:
+        # Write value pairs to a text file
         for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
             f.write(f'{value.text}\n')
 
