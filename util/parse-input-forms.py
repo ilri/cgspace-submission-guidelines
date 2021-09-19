@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.4
+# parse-input-forms.py v0.2.5
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -143,7 +143,8 @@ def parseInputForm(inputForm):
         indexLines.append(f"title: '{title}'\n")
         indexLines.append(f"field: '{metadataField}'\n")
         indexLines.append(f"slug: '{metadataFieldSlug}'\n")
-        indexLines.append(f"description: '{description}'\n")
+        if description != title:
+            indexLines.append(f"description: '{description}'\n")
         indexLines.append(f"required: {required}\n")
         if vocabulary or valuePairs is not None:
             indexLines.append(f"vocabulary: '{metadataFieldSlug}.txt'\n")
