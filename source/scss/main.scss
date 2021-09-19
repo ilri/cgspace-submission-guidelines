@@ -1,0 +1,41 @@
+/*
+   From Bootstrap v5.0 sticky footer example
+   See:  https://getbootstrap.com/docs/5.0/examples/sticky-footer/
+*/
+
+$cgiar-gray: #636363;
+$cgiar-white: #FCFCFC;
+
+/*
+   Some styles inspired from the Dublin Core DCTERMS website, see:
+   https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+*/
+
+body {
+    /* for the "scroll spy" navbar feature */
+    position: relative;
+    color: $cgiar-gray;
+    background-color: $cgiar-white;
+}
+
+div.badge-required {
+    float: right;
+}
+
+td.field-name {
+    text-align: right;
+    font-weight: 700;
+}
+
+h1, h2 {
+    color: $primary;
+}
+
+.footer {
+  color: $cgiar-white;
+  background-color: $primary;
+
+  a, a:hover {
+    color: inherit;
+  }
+}
