@@ -1,0 +1,16 @@
+ar
+am
+zh
+en
+es
+de
+fr
+id
+it
+pt
+ja
+om
+sw
+tr
+vi
+other
