@@ -24,8 +24,12 @@
       <!-- main content is 10 columns on large devices, 12 on all others -->
       <main class="col-lg-10">
         <h1>CGSpace Submission Guidelines</h1>
-        <p class="lead">This page provides guidelines for programmatic content submission to CGSpace.</p>
+        <p class="lead">This page provides guidelines for programmatic content submission to <a href="https://cgspace.cgiar.org">CGSpace</a>.</p>
         <p>In this documentation we detail mandatory metadata, optional metadata, example controlled vocabularies, and provide technical information about CGSpace APIs.</p>
+        <p class="mb-0">See also:</p>
+        <ul>
+          <li><a href="https://agriculturalsemantics.github.io/cg-core/cgcore.html">CG Core Metadata Reference Guide</a></li>
+        </ul>
         <h2 id="required-metadata">Required Metadata</h2>
         <p>
         {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" true }}
