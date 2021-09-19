@@ -161,7 +161,9 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
 
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         # Write value pairs to a text file
-        for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
+        for value in root.findall(
+            f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'
+        ):
             if value.text is not None:
                 f.write(f"{value.text}\n")
 
