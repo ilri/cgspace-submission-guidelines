@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{ partial "head-meta.html" . }}
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{ $style := resources.Get "css/style.min.css" | resources.Fingerprint }}
+    <link href="{{ $style.Permalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
+
+    <link href="images/favicon.ico" rel="shortcut icon">
+    <link href="images/favicon-32x32.png" type="image/png" rel="icon" sizes="32x32">
+    <link href="images/apple-touch-icon.png" type="image/png" rel="apple-touch-icon" sizes="180x180">
+  </head>
+
+  <!-- body start is in main because it needs scrollspy only on home -->
+
+    {{ block "main" . }}
+    <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+
+    <footer class="footer mt-auto">
+      <div class="container">
+        <p class="mb-0 py-1">CGSpace Submission Guidelines<span class="float-end"><a href="#">Back to top</a></span></p>
+      </div>
+    </footer>
+    {{ $js := resources.Get "js/bundle.min.js" | resources.Fingerprint }}
+    <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" async></script>
+  </body>
+</html>

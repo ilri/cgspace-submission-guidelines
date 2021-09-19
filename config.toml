@@ -1,0 +1,14 @@
+title="CGSpace Submission Guidelines"
+baseURL="https://ilri.github.io/cgspace-submission-guidelines"
+languageCode = "en-us"
+enableRobotsTXT = true
+
+[permalinks]
+  terms = "/:slug/"
+
+[params]
+  # Site author
+  author = "Alan Orth"
+
+  # Description/subtitle for homepage
+  description = "Documenting metadata fields and controlled vocabularies for programmatic submission to CGSpace."
