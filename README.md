@@ -5,6 +5,8 @@ A set of scripts to read `input-forms.xml` from DSpace and generate documentatio
   <img width="600" alt="Screenshot of documentation website" src="screenshot.png">
 </p>
 
+You can see the website here: https://ilri.github.io/cgspace-submission-guidelines
+
 ## Requirements
 Requires the following on the host machine:
 
