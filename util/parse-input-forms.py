@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.2
+# parse-input-forms.py v0.2.3
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -161,10 +161,9 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
 
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         # Write value pairs to a text file
-        for value in root.findall(
-            f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'
-        ):
-            f.write(f"{value.text}\n")
+        for value in root.findall(f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'):
+            if value.text is not None:
+                f.write(f"{value.text}\n")
 
 
 def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
