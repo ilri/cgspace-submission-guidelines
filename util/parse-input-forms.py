@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.3
+# parse-input-forms.py v0.2.4
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -125,7 +125,7 @@ def parseInputForm(inputForm):
         description = getFieldDescription(schema, element, qualifier)
         # We can theoretically fall back to the "hint" in the input-forms.xml,
         # but they are really meant for editors, not developers.
-        if description == "":
+        if description is None or description == "":
             try:
                 description = field.find("./hint").text
             except AttributeError:
