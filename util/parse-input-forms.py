@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.1
+# parse-input-forms.py v0.2.2
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -226,7 +226,13 @@ if args.clean:
     if args.debug:
         print(f"Cleaning terms output directory")
 
-    rmtree("content/terms")
+    rmtree("content/terms", ignore_errors=True)
+
+if args.debug:
+    print(f"Creating terms output directory")
+# Make sure content directory exists. This is where we will deposit all the term
+# metadata and controlled vocabularies for Hugo to process.
+os.makedirs("content/terms", mode=0o755, exist_ok=True)
 
 if args.debug:
     print(f"Opening {args.input_forms.name}")
