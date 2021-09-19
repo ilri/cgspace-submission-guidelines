@@ -2,6 +2,7 @@ title="CGSpace Submission Guidelines"
 baseURL="https://ilri.github.io/cgspace-submission-guidelines"
 languageCode = "en-us"
 enableRobotsTXT = true
+publishDir = "docs"
 
 [permalinks]
   terms = "/:slug/"
