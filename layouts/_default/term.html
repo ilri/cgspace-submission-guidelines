@@ -3,7 +3,7 @@
           <thead>
             <tr class="table-secondary">
               <th colspan="2">
-                  {{- .Params.field | markdownify -}}
+                {{- .Params.field | markdownify -}}
                 {{- with .Params.required -}}
                 <div class="badge-required">
                   <span class="badge bg-primary">Required</span>
