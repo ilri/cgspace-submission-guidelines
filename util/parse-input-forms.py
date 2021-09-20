@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.5
+# parse-input-forms.py v0.2.6
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
 import argparse
 import os
+import re
 import sys
 import xml.etree.ElementTree as ET
 from datetime import timedelta
@@ -130,6 +131,12 @@ def parseInputForm(inputForm):
                 description = field.find("./hint").text
             except AttributeError:
                 description = ""
+        else:
+            # Delete some unneeded comments from the metadata description. I do
+            # this here as a bit of a hack, because I want to include some link
+            # to a vocab in the metadata registry, but I don't want them on the
+            # documentation page.
+            description = re.sub(r"\sSee.*?\.txt$", "", description)
 
         if field.find("./required").text:
             required = True
