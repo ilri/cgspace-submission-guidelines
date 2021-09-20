@@ -5,5 +5,6 @@ slug: 'cg-subject-alliancebiovciat'
 description: 'Combined subject terms for Alliance of Bioversity and CIAT.'
 required: False
 vocabulary: 'cg-subject-alliancebiovciat.txt'
+policy: 'Controlled, with values from vocabulary.'
 date: '2019-05-04T00:00:00+00:00'
 ---
