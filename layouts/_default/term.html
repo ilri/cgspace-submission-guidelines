@@ -23,6 +23,12 @@
               <td>{{ . | markdownify }}</td>
             </tr>
             {{ end }}
+            {{ with .Params.policy }}
+            <tr>
+              <td class="col-2 field-name">Policy</td>
+              <td>{{ . }}</td>
+            </tr>
+            {{ end }}
             {{ if .Params.vocabulary }}
             {{   with .Resources.GetMatch .Params.vocabulary }}
             <tr>

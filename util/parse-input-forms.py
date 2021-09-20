@@ -70,6 +70,22 @@ def parseInputForm(inputForm):
     )
 
     for field in submissionFormFields:
+        # Initialize all variables with every new iteration of the for loop so
+        # we are sure we are getting values for the current field.
+        schema = None
+        element = None
+        qualified = None
+        metadataField = None
+        metadataFieldSlug = None
+        repeatable = None
+        title = None
+        vocabulary = None
+        inputType = None
+        policy = None
+        valuePairs = None
+        description = None
+        required = None
+
         schema = field.find("./dc-schema").text
         element = field.find("./dc-element").text
 
@@ -122,6 +138,17 @@ def parseInputForm(inputForm):
 
             exportValuePairs(root, valuePairsName, metadataFieldSlug)
 
+        # Try to infer some sort of policy about the field based on the type of
+        # input and whether it uses value-pairs or a vocabulary.
+        if inputType == "onebox" and not vocabulary:
+            policy = "Free text."
+        elif inputType == "onebox" and vocabulary:
+            policy = "Free text, with suggested values from vocabulary."
+        elif inputType == "dropdown" and valuePairs is not None:
+            policy = "Controlled, with values from vocabulary."
+        elif inputType == "twobox" or inputType == "textarea":
+            policy = "Free text."
+
         # Try to get the metadata field's description from the REST API
         description = getFieldDescription(schema, element, qualifier)
         # We can theoretically fall back to the "hint" in the input-forms.xml,
@@ -155,6 +182,8 @@ def parseInputForm(inputForm):
         indexLines.append(f"required: {required}\n")
         if vocabulary or valuePairs is not None:
             indexLines.append(f"vocabulary: '{metadataFieldSlug}.txt'\n")
+        if policy is not None:
+            indexLines.append(f"policy: '{policy}'\n")
         # TODO: use some real date...?
         indexLines.append(f"date: '2019-05-04T00:00:00+00:00'\n")
         indexLines.append("---")
