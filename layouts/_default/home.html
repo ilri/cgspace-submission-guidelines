@@ -35,6 +35,11 @@
         <p>If you have questions/comments please contact Alan Orth at the International Livestock Research Institute (ILRI).</p>
         <h2 id="required-metadata">Required Metadata</h2>
         <p>
+        {{/* Note to future me: we need to use four ranges here, two for the */}}
+        {{/* required metadata and two for the optional metadata, because it */}}
+        {{/* is not possible to re-use Hugo's paginate object unless you use */}}
+        {{/* the same exact arguments each time.                             */}}
+
         {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" true }}
           <a class="btn btn-sm btn-outline-primary m-1" href="#{{ .Params.slug }}">{{ .Params.field }}</a>
         {{ end }}
