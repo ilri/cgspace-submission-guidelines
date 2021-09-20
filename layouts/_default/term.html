@@ -3,12 +3,12 @@
           <thead>
             <tr class="table-secondary">
               <th colspan="2">
-                  {{ .Params.field | markdownify }}
-                {{ with .Params.required }}
+                  {{- .Params.field | markdownify -}}
+                {{- with .Params.required -}}
                 <div class="badge-required">
                   <span class="badge bg-primary">Required</span>
                 </div>
-                {{ end }}
+                {{- end -}}
               </th>
             </tr>
           </thead>
