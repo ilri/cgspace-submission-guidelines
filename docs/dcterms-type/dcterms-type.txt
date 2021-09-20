@@ -1,0 +1,41 @@
+Abstract
+Audio
+Blog Post
+Book
+Book Chapter
+Brief
+Brochure
+Case Study
+Conference Paper
+Conference Proceedings
+Data Paper
+Dataset
+Equation
+Extension Material
+Image
+Infographic
+Internal Document
+Journal Article
+Journal Item
+Logo
+Manual
+Manuscript-unpublished
+Map
+Mobile Message
+News Item
+Newsletter
+Photo Report
+Poster
+Presentation
+Press Item
+Report
+Software
+Source Code
+Template
+Thesis
+Training Material
+Video
+Website
+Working Paper
+Wiki
+Other
