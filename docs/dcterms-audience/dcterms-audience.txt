@@ -1,10 +1,11 @@
-SCIENTISTS
-ACADEMICS
+Academicians
+Academics
 CGIAR
-DEVELOPMENT PRACTITIONERS
-DONORS
-EXTENSION
-FARMERS
-NGOS
-POLICY MAKERS
-GENERAL PUBLIC
+Development Practitioners
+Donors
+Extension
+Farmers
+General Public
+NGOs
+Policy Makers
+Scientists

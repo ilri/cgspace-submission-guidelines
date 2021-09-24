@@ -1,17 +1,81 @@
-AFAR
-AMHARA
-ANDHRA PRADESH
-BENISHANGUL-GUMUZ
-BIHAR
-GAMBELA
-HARARI
-KARNATAKA
-MADHYA PRADESH
-MAHARASHTRA
-NAGALAND
-OROMIA
-SNNPR
-SOMALI
-TIGRAY
-UTTAR PRADESH
-UTTARAKHAND
+Alberta
+An Giang
+Andhra Pradesh
+Ashanti
+Assam
+Badulla
+Bali
+Balochistan
+Bamako
+Bihar
+British Columbia
+Cajamarca
+California
+Cauca
+Chhattisgarh
+Dakar
+Delaware
+Florida
+Gampaha
+Gandaki
+Guanajuato
+Gujarat
+Haryana
+Helmand
+Himachal Pradesh
+Houaphan
+Iowa
+Iringa
+Jambi
+Jharkhand
+Kaabong
+Kalimantan
+Kampala
+Kandal
+Karnali
+Karnataka
+Kasungu
+Kerala
+Khon Kaen
+Kunduz
+Kwazulu-Natal
+Lima
+Limpopo
+Madhya Pradesh
+Maharashtra
+Maputo
+Masvingo
+Meghalaya
+Mendoza
+Missouri
+Nabeul
+Nagaland
+Nebraska
+New South Wales
+New York
+Odisha
+Osh
+Pando
+Punjab
+Queensland
+Rajasthan
+Rajshahi
+Riau
+Sabah
+Sahel
+Salyan
+Sindh
+South Australia
+Sulawesi
+Tamil Nadu
+Telangana
+Texas
+Tigray
+Turkana
+Uttar Pradesh
+Uttarakhand
+Victoria
+Washington
+West Bengal
+Western Cape
+Yogyakarta
