@@ -28,13 +28,17 @@
         <p class="lead">This page provides guidelines for programmatic content submission to <a href="https://cgspace.cgiar.org">CGSpace</a>.</p>
         <p>In this documentation we list metadata and bitstream requirements, provide controlled vocabularies, and share technical information about the CGSpace REST API.</p>
         <h2 id="metadata">Metadata</h2>
-        <p>CGSpace currently uses metadata fields from three schemas:</p>
+        <p>CGSpace currently uses fields from the following three metadata schemas:</p>
         <ul>
           <li><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3">Dublin Core Elements</a> with the <code>dc</code> namespace prefix. These were <a href="http://www.dlib.org/dlib/July95/07weibel.html">originally designated in 1995</a> and are considered deprecated and superseded by Dublin Core Terms. Due to legacy code in the DSpace software we must still use some of these (see these <a href="https://alanorth.github.io/cgspace-notes/cgspace-cgcorev2-migration/#out-of-scope">notes from CGSpace's migration to CG Core v2</a> for more information).</li>
           <li><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-2">Dublin Core Terms</a> with the <code>dcterms</code> namespace prefix. These contain the original Dublin Core Terms and add others. As of 2008 these supercede the original Dublin Core Elements.</li>
           <li><a href="https://agriculturalsemantics.github.io/cg-core/cgcore.html">CG Core v2</a> with the <code>cg</code> namespace prefix. This is a living specification that is not yet finalized, but <a href="https://github.com/AgriculturalSemantics/cg-core/">consensus has been reached</a> on a number of fields.</li>
         </ul>
-        <p>Metadata submitted to CGSpace should be encoded in UTF-8 to ensure correct representation of international characters.</p>
+        <p>General guidelines for metadata submission to CGSpace:</p>
+        <ul>
+          <li><strong>Encoding</strong>: metadata should be encoded in UTF-8 to ensure correct representation of international characters.</li>
+          <li><strong>Applicability</strong>: metadata should describe what the item is, <em>not what it isn't</em>. If a metadata field is not applicable you should not use it. Do not enter "N/A"!</li>
+        </ul>
         <h3 id="required-metadata">Required Metadata</h3>
         <p>
         {{/* Note to future me: we need to use four ranges here, two for the */}}
