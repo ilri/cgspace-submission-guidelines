@@ -2,7 +2,7 @@
 title: 'Subregion'
 field: 'cg.coverage.subregion'
 slug: 'cg-coverage-subregion'
-description: 'Province, state, or other type of sub-national administrative region where data was collected or the focus of the research described in the information product.'
+description: 'Province, state, or other type of sub-national administrative region where data was collected or the focus of the research described in the information product. These should ideally come from the ISO 3166-2 subdivisions list.'
 required: False
 vocabulary: 'cg-coverage-subregion.txt'
 policy: 'Free text, with suggested values from vocabulary.'
