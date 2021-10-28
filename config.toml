@@ -3,6 +3,7 @@ baseURL="https://ilri.github.io/cgspace-submission-guidelines"
 languageCode = "en-us"
 enableRobotsTXT = true
 publishDir = "docs"
+disablePathToLower = true
 
 [permalinks]
   terms = "/:slug/"
