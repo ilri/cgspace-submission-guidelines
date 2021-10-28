@@ -18,10 +18,10 @@
     
     <item>
       <title>Accessibility status (required)</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessrights/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessRights/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessrights/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessRights/</guid>
       <description></description>
     </item>
     
@@ -126,10 +126,10 @@
     
     <item>
       <title>CGIAR Action Areas</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionarea/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionArea/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionarea/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionArea/</guid>
       <description></description>
     </item>
     
@@ -144,10 +144,10 @@
     
     <item>
       <title>CGIAR Impact Areas</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactarea/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactArea/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactarea/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactArea/</guid>
       <description></description>
     </item>
     
@@ -198,10 +198,10 @@
     
     <item>
       <title>Citation (required)</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographiccitation/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographicCitation/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographiccitation/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographicCitation/</guid>
       <description></description>
     </item>
     
@@ -252,10 +252,10 @@
     
     <item>
       <title>Grey literature</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-howpublished/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-howpublished/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</guid>
       <description></description>
     </item>
     
@@ -477,10 +477,10 @@
     
     <item>
       <title>Review status</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewstatus/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewstatus/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</guid>
       <description></description>
     </item>
     
@@ -495,10 +495,10 @@
     
     <item>
       <title>Series/Report name</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-ispartof/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-ispartof/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</guid>
       <description></description>
     </item>
     
