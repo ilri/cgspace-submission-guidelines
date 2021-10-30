@@ -5,7 +5,7 @@
   "scripts": {
     "build:css": "sass --style expanded source/scss/style.scss assets/css/style.css.tmp && cleancss -O1 --format breakWith=lf --with-rebase assets/css/style.css.tmp -o assets/css/style.min.css",
     "build:js": "uglifyjs node_modules/jquery/dist/jquery.slim.min.js node_modules/bootstrap/dist/js/bootstrap.min.js -o assets/js/bundle.min.js",
-    "build": "npm run build:css && npm run clean",
+    "build": "npm run build:css && npm run build:js && npm run clean",
     "clean": "rm assets/css/style.css.tmp assets/css/style.css.tmp.map"
   },
   "keywords": [
