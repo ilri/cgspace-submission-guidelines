@@ -27,6 +27,11 @@ td.field-name {
     font-weight: 700;
 }
 
+/* Override Bootstrap's top border on tbody */
+.table>:not(:first-child) {
+    border-top: 2px solid $secondary;
+}
+
 h1, h2, h3 {
     color: $primary;
 }
