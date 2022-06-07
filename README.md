@@ -10,15 +10,15 @@ You can see the website here: https://ilri.github.io/cgspace-submission-guidelin
 ## Requirements
 Requires the following on the host machine:
 
-- Python 3.7+ and pipenv
+- Python 3.9+ and [poetry](https://python-poetry.org/)
 - Node.js and npm
 - Hugo
 
 ## Preparation
-Initialize the Python virtual environment with pipenv:
+Initialize the Python virtual environment with poetry:
 
 ```console
-$ pipenv install
+$ poetry install --no-root
 ```
 
 Install dependencies with npm and build the static CSS and JavaScript assets:
@@ -32,7 +32,7 @@ $ npm run build
 Make sure the Python virtual environment is active and then run `parse-input-forms.py` to extract and process the DSpace metadata and controlled vocabularies:
 
 ```console
-$ pipenv shell
+$ poetry shell
 $ ./util/parse-input-forms.py -i ~/src/git/DSpace/dspace/config/input-forms.xml -c ~/src/git/DSpace/dspace/config/controlled-vocabularies --clean
 ```
 
