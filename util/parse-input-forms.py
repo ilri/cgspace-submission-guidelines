@@ -32,7 +32,7 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     requests_cache.remove_expired_responses()
 
     if args.debug:
-        print(f"> Looking up description")
+        print("> Looking up description")
 
     url = f"{args.rest_base_url}/registries/schema/{schema}"
     request_headers = {"user-agent": "curl", "Accept": "application/json"}
@@ -185,7 +185,7 @@ def parseInputForm(inputForm):
         if policy is not None:
             indexLines.append(f"policy: '{policy}'\n")
         # TODO: use some real date...?
-        indexLines.append(f"date: '2019-05-04T00:00:00+00:00'\n")
+        indexLines.append("date: '2019-05-04T00:00:00+00:00'\n")
         indexLines.append("---")
 
         with open(f"content/terms/{metadataFieldSlug}/index.md", "w") as f:
@@ -262,12 +262,12 @@ args = parser.parse_args()
 
 if args.clean:
     if args.debug:
-        print(f"Cleaning terms output directory")
+        print("Cleaning terms output directory")
 
     rmtree("content/terms", ignore_errors=True)
 
 if args.debug:
-    print(f"Creating terms output directory")
+    print("Creating terms output directory")
 # Make sure content directory exists. This is where we will deposit all the term
 # metadata and controlled vocabularies for Hugo to process.
 os.makedirs("content/terms", mode=0o755, exist_ok=True)
