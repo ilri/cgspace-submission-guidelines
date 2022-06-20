@@ -74,7 +74,7 @@ def parseInputForm(inputForm):
         # we are sure we are getting values for the current field.
         schema = None
         element = None
-        qualified = None
+        qualifier = None
         metadataField = None
         metadataFieldSlug = None
         repeatable = None
