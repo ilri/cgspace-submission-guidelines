@@ -3,6 +3,7 @@ Abdallah Bari: 0000-0001-6918-2736
 Abdoul Aziz Niane: 0000-0003-0873-4394
 Abdul Majid: 0000-0002-6158-6389
 Abdulai Jalloh: 0000-0002-7227-142X
+Abdulfatai Tijjani: 0000-0002-0793-9059
 Abdulkarim Seid: 0000-0002-9468-2641
 Abdullahi Bala: 0000-0003-1361-1786
 Abebe Menkir: 0000-0002-5907-9177
@@ -233,6 +234,7 @@ Chetan Patokar: 0000-0003-0121-9365
 Chiara Villani: 0000-0001-9750-3867
 Chibueze Stanley Nwachukwu: 0000-0002-6000-4404
 Chiedozie Egesi: 0000-0002-9063-2727
+Chinyere Ekine-Dzivenu: 0000-0002-8526-435X
 Chris Dickens: 0000-0002-4251-7767
 Chris Heyes: 0000-0001-5254-493X
 Chris Jones: 0000-0001-9096-9728
@@ -281,7 +283,6 @@ Danielle Aduke Adekunle: 0000-0002-9818-9141
 Danilo Pezo: 0000-0001-5345-5314
 Danny Hunter: 0000-0002-4267-595X
 Daryakhan Akbarzai: 0000-0002-6566-9501
-David Ramirez: 0000-0003-4546-9745
 David Abreu: 0000-0002-5495-6900
 David Brown: 0000-0003-2859-1618
 David Chikoye: 0000-0002-6047-9821
@@ -293,6 +294,7 @@ David Ojo: 0000-0003-3575-0912
 David Parsons: 0000-0002-1393-8431
 David Pelster: 0000-0002-0461-7855
 David Puerta: 0000-0001-5992-1697
+David Ramirez: 0000-0003-4546-9745
 David Shearer: 0000-0001-7334-4208
 David Shoch: 0000-0003-0213-761X
 David Wiberg: 0000-0001-9515-1538
@@ -339,9 +341,9 @@ E J Parkes: 0000-0003-4063-1483
 EBENEZER OBENG-BIO: 0000-0002-7796-0419
 Edgar Twine: 0000-0001-7561-1584
 Edidah Ampaire: 0000-0003-3679-8360
-Edward Carey: 0000-0003-1007-2529
 Edward Baars: 0000-0003-3015-1291
 Edward Boamah: 0000-0001-7912-7909
+Edward Carey: 0000-0003-1007-2529
 Edward Kanju: 0000-0002-0413-1302
 Ehsan Dulloo: 0000-0001-5567-8220
 Eileen Bogweh Nchanji: 0000-0002-6859-0962
@@ -489,6 +491,7 @@ HARUN MURITHI: 0000-0003-1113-8729
 Hassan Machlab: 0000-0003-0182-2762
 Hauke Dahl: 0000-0001-5359-4664
 Helena Nery Alves Pinto: 0000-0001-9639-1234
+Helena Shilomboleni: 0000-0002-9875-6484
 Henry Juarez: 0000-0002-8535-7089
 Henry Kiara: 0000-0001-9578-1636
 Henry Musa Kpaka: 0000-0002-7480-2933
@@ -544,6 +547,7 @@ James Garrett: 0000-0003-4676-7859
 James Giles: 0000-0003-1899-9206
 James Hansen: 0000-0002-8599-7895
 James Legg: 0000-0003-4140-3757
+James Prendergast: 0000-0001-8916-018X
 James Quilty: 0000-0001-6794-7037
 Jamleck Osiemo: 0000-0002-4382-032X
 Jan de Leeuw: 0000-0002-2005-4351
@@ -899,10 +903,10 @@ Mohsin Hafeez: 0000-0003-4115-2994
 Monica Carvajal-Yepes: 0000-0003-2709-7909
 Morag Ferguson: 0000-0002-7763-5173
 Morufat Balogun: 0000-0001-8770-5529
-Moses Thuita: 0000-0002-6731-9492
 Moses Adeolu Adebayo: 0000-0001-8192-3883
 Moses Matovu: 0000-0001-7019-1015
 Moses Nyine: 0000-0002-8409-7588
+Moses Thuita: 0000-0002-6731-9492
 Moses Waswa: 0000-0002-1520-8416
 Mouldi Gamoun: 0000-0003-3714-7674
 Mounir Louhaichi: 0000-0002-4543-7631
@@ -1035,7 +1039,6 @@ Pennan Chinnasamy: 0000-0002-3184-2134
 Pepijn van Oort: 0000-0001-7617-5382
 Perle LATRE DE LATE: 0000-0003-3871-6277
 Pete Smith: 0000-0002-3784-1124
-Peter Setimela: 0000-0001-7316-4514
 Peter Asafo-Adjei: 0000-0002-0441-0627
 Peter Ellis: 0000-0001-7933-8298
 Peter G. Ballantyne: 0000-0001-9346-2893
@@ -1043,6 +1046,7 @@ Peter Kulakow: 0000-0002-7574-2645
 Peter Läderach: 0000-0001-8708-6318
 Peter NEUENSCHWANDER: 0000-0003-0580-0376
 Peter Potapov: 0000-0003-3977-0021
+Peter Setimela: 0000-0001-7316-4514
 Peter Wenzl: 0000-0003-4657-8468
 Peter Woodbury: 0000-0003-3954-7639
 Petra Schmitter: 0000-0002-3826-7224
@@ -1101,12 +1105,12 @@ Renee Bullock: 0000-0001-9561-0394
 Reta Duguma: 0000-0002-5660-7720
 Ricardo Labarta: 0000-0003-3517-8768
 Riccardo Grigoletto: 0000-0001-8502-0200
-Richard Ogwal-Omara: 0000-0001-6452-416X
 Richard Appoh: 0000-0003-4678-5088
 Richard Asare: 0000-0001-6798-7821
 Richard Coe: 0000-0002-9240-1463
 Richard Conant: 0000-0001-7315-2476
 Richard Houghton: 0000-0002-3298-7028
+Richard Ogwal-Omara: 0000-0001-6452-416X
 Richard Preziosi: 0000-0003-0468-6655
 Richard Thomas: 0000-0002-8009-5681
 Richardson Okechukwu: 0000-0001-5335-4855
@@ -1282,8 +1286,8 @@ Tayo Olukotun: 0000-0003-1589-3318
 Tek Sapkota: 0000-0001-5311-0586
 Teodardo Calles: 0000-0003-1929-5534
 Teresa Borelli: 0000-0002-6405-1339
-Tesfamicheal Wossen: 0000-0003-3793-7078
 Tesfamicheal Wossen Assfaw: 0000-0002-3672-2676
+Tesfamicheal Wossen: 0000-0003-3793-7078
 Tesfaye Getachew Mengistu: 0000-0002-0544-6314
 tesleem bello: 0000-0002-9657-0504
 Thai Minh: 0000-0002-8345-6825
