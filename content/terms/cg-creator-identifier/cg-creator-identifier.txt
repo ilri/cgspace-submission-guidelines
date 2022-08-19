@@ -275,6 +275,7 @@ Daniel Ariza-Suarez: 0000-0002-1871-3514
 Daniel Coyne: 0000-0002-2030-6328
 Daniel G. Debouck: 0000-0002-7618-9570
 Daniel Jiménez: 0000-0003-4218-4306
+Daniel Masiga: 0000-0001-7513-0887
 Daniel M. Villegas: 0000-0001-6801-3332
 Daniel Ortiz-Gonzalo: 0000-0002-5517-1785
 Daniel Van Rooijen: 0000-0002-7220-1130
@@ -738,6 +739,7 @@ Lewis Machida: 0000-0002-0012-3997
 Lieven Claessens: 0000-0003-2961-8990
 Likimyelesh Nigussie: 0000-0002-6380-743X
 Lilian Rojas Mendoza: 0000-0002-7935-1924
+Lillian Wambua: 0000-0003-3632-7411
 Lisa-Maria Rebelo: 0000-0002-8785-7810
 LIVIA STAVOLONE: 0000-0002-0691-1302
 Liza Debevec: 0000-0001-6757-7435
@@ -786,7 +788,7 @@ Manuele Tamò: 0000-0002-5863-7421
 Marc Corbeels: 0000-0002-8084-9287
 Marc Schut: 0000-0002-3361-4581
 Marcel Silvius: 0000-0003-3955-2809
-Marcela Alejandra Vallejo Quintero: 0000-0002-0462-4668
+Marcela Quintero: 0000-0001-8107-7744
 Marcela Santaella: 0000-0002-6443-6570
 Marcelo Precoppe: 0000-0002-7937-5782
 Maren Radeny: 0000-0001-6470-8372
@@ -1087,6 +1089,7 @@ Rajesh Manoharan: 0000-0003-0003-473X
 Rajindra Puri: 0000-0002-3442-8537
 Ralf Kiese: 0000-0002-2814-4888
 Ram C Bastakoti: 0000-0003-2456-5420
+Ram Dhulipala: 0000-0002-9720-3247
 Ram Sharma: 0000-0002-7785-363X
 Ramesh PS Verma: 0000-0002-2621-2015
 Ranajit Bandyopadhyay: 0000-0003-2422-4298
@@ -1109,6 +1112,7 @@ Richard Appoh: 0000-0003-4678-5088
 Richard Asare: 0000-0001-6798-7821
 Richard Coe: 0000-0002-9240-1463
 Richard Conant: 0000-0001-7315-2476
+Richard Dooso Oloo: 0000-0002-6004-3729
 Richard Houghton: 0000-0002-3298-7028
 Richard Ogwal-Omara: 0000-0001-6452-416X
 Richard Preziosi: 0000-0003-0468-6655
