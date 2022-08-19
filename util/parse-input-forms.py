@@ -196,13 +196,22 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
     if args.debug:
         print(f"> Exporting value pairs: {valuePairsName}")
 
+    # Create an empty list to hold our value pairs. We will append them here and
+    # then deduplicate them.
+    valuePairs = []
+
+    for value in root.findall(
+        f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'
+    ):
+        if value.text is not None:
+            # Check if this value was already added
+            if value.text not in valuePairs:
+                valuePairs.append(value.text)
+
+    # Write value pairs to a text file
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
-        # Write value pairs to a text file
-        for value in root.findall(
-            f'.//value-pairs[@value-pairs-name="{valuePairsName}"]/pair/stored-value'
-        ):
-            if value.text is not None:
-                f.write(f"{value.text}\n")
+        for value in valuePairs:
+            f.write(f"{value}\n")
 
 
 def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
