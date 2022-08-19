@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.6
+# parse-input-forms.py v0.2.7
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
@@ -12,6 +12,7 @@ import xml.etree.ElementTree as ET
 from datetime import timedelta
 from shutil import rmtree
 
+import icu
 import requests
 import requests_cache
 from colorama import Fore
@@ -230,8 +231,12 @@ def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
         if value.attrib["label"] not in controlledVocabularyLines:
             controlledVocabularyLines.append(f'{value.attrib["label"]}')
 
+    # Sort the list using a UTF-8 locale so we can handle diacritics properly
+    # See: https://stackoverflow.com/questions/1097908/how-do-i-sort-unicode-strings-alphabetically-in-python
+    collator = icu.Collator.createInstance(icu.Locale('en_US.UTF-8'))
+
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
-        for value in controlledVocabularyLines:
+        for value in sorted(controlledVocabularyLines, key=collator.getSortKey):
             f.write(f"{value}\n")
 
 
