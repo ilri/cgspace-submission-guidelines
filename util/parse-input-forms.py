@@ -227,10 +227,12 @@ def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
     # Create an empty list where we'll add all the controlled vocabulary labels
     controlledVocabularyLines = []
     for value in controlledVocabularyRoot.findall(".//isComposedBy/node"):
-        controlledVocabularyLines.append(f'{value.attrib["label"]}\n')
+        if value.attrib["label"] not in controlledVocabularyLines:
+            controlledVocabularyLines.append(f'{value.attrib["label"]}')
 
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
-        f.writelines(controlledVocabularyLines)
+        for value in controlledVocabularyLines:
+            f.write(f"{value}\n")
 
 
 parser = argparse.ArgumentParser(
