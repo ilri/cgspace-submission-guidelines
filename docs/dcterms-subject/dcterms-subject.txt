@@ -44,10 +44,10 @@ agroforesteria
 agroforestry
 agroindustrial complexes
 agroindustrial sector
+agronomía
 agronomic characters
 agronomic practices
 agronomy
-agronomía
 agropastoral systems
 aleyrodidae
 alimentación de los animales
@@ -57,6 +57,10 @@ almacenamiento
 almidón
 aluminio
 aluminium
+análisis
+análisis de costos y beneficios
+análisis económico
+análisis estadístico
 analysis
 analytical methods
 anatomía de la planta
@@ -81,10 +85,6 @@ anthracnosis
 antibodies
 antigens
 antimicrobial resistance
-análisis
-análisis de costos y beneficios
-análisis económico
-análisis estadístico
 aplicación de abonos
 apomixis
 appropriate technology
@@ -120,11 +120,11 @@ bioenergy
 biofuels
 biogas
 biogeography
+biología del suelo
 biological control
 biological preservation
 biological resources
 biology
-biología del suelo
 biomasa
 biomass
 biotechnology
@@ -389,8 +389,9 @@ drying
 drylands
 earthworms
 east coast fever
-ecology
 ecología
+ecology
+economía
 economic analysis
 economic aspects
 economic development
@@ -399,7 +400,6 @@ economic impact
 economic situation
 economic value
 economics
-economía
 ecosistema
 ecosystem services
 ecosystems
@@ -421,8 +421,8 @@ enfermedades fungosas
 enriquecimiento de los alimentos
 ensayos de variedades
 enterprises
-entomology
 entomología
+entomology
 entorno socioeconómico
 environment
 environmental degradation
@@ -437,8 +437,8 @@ equipment
 equity
 erinnyis ello
 erosion
-erosion control
 erosión
+erosion control
 establecimiento de plantas
 estudios de casos prácticos
 ethnic groups
@@ -455,8 +455,8 @@ ewes
 experimentation
 explotación en pequeña escala
 exports
-extension activities
 extensión
+extension activities
 fallow
 fallow systems
 farm area
@@ -537,6 +537,7 @@ forestry policies
 forests
 forrajes
 fortificación de alimentos
+fósforo
 freezing
 freshwater
 frijol
@@ -550,7 +551,6 @@ fungi
 fungicides
 fusarium
 fusarium oxysporum
-fósforo
 ganadería
 ganado
 ganado bovino
@@ -572,6 +572,7 @@ genetic resistance
 genetic resources
 genetic transformation
 genetic variation
+genética
 genetics
 genomas
 genomes
@@ -579,7 +580,6 @@ genomics
 genotipos
 genotype environment interaction
 genotypes
-genética
 geographical distribution
 geographical information systems
 germination
@@ -628,6 +628,7 @@ herbicides
 heritability
 heterosis
 hibridación
+híbridos
 hierro
 high yielding varieties
 highlands
@@ -645,7 +646,6 @@ hybridization
 hybrids
 hydrology
 hyparrhenia rufa
-híbridos
 identification
 illegal logging
 immune response
@@ -761,6 +761,7 @@ logging
 losses
 lumbricidae
 lymphocytes
+maíz
 maize
 malaria
 malawi
@@ -791,7 +792,6 @@ materia orgánica del suelo
 materiales de enseñanza
 materiales de propagación
 mathematical models
-maíz
 mealybugs
 measurement
 meat
@@ -809,12 +809,13 @@ metastigmata
 methane
 methodology
 methods
+métodos
 mice
 micosis
 micronutrients
 micropropagation
-microsatellites
 microsatélites
+microsatellites
 migration
 milk
 milk production
@@ -848,7 +849,6 @@ musa (bananas)
 mycorrhizae
 mycoses
 mycotoxins
-métodos
 national parks
 natural enemies
 natural resources
@@ -861,8 +861,8 @@ nigeria
 nitrogen
 nitrogen fertilizers
 nitrogen fixation
-nitrous oxide
 nitrógeno
+nitrous oxide
 nodulation
 nongovernmental organizations
 nontimber forest products
@@ -891,6 +891,7 @@ oryza sativa
 ownership
 oxisoles
 paisaje
+países en desarrollo
 palm oils
 panicum
 panicum maximum
@@ -917,7 +918,6 @@ pathogenicity
 pathogens
 patogenicidad
 payment schemes
-países en desarrollo
 pcr
 peatlands
 pennisetum glaucum
@@ -1037,12 +1037,12 @@ pythium
 quality
 quantitative trait loci
 radopholus similis
+raíces
 rain
 rain forests
 rainfed farming
 ralstonia solanacearum
 rangelands
-raíces
 recurrent selection
 recursos genéticos
 recursos genéticos vegetales
@@ -1146,6 +1146,7 @@ silage
 silviculture
 silvopastoral systems
 simulation models
+síntomas
 sistemas agropascícolas
 sistemas de cultivo
 sistemas de explotación
@@ -1239,13 +1240,12 @@ swine
 symptoms
 systems
 systems analysis
-síntomas
 tagosodes orizicolus
 taninos
 tannins
 tapioca
-taxonomy
 taxonomía
+taxonomy
 teaching materials
 techniques
 technological changes

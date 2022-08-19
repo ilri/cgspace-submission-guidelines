@@ -156,6 +156,7 @@ Beatrice Ekesa: 0000-0002-2630-258X
 Bedru B. Balana: 0000-0002-7344-5743
 Bekele A. Shiferaw: 0000-0002-3645-320X
 Bekele Hundie Kotu: 0000-0001-5788-6461
+Béla Teeken: 0000-0002-3150-1532
 Beliyou Haile: 0000-0003-4949-6740
 Bello Abolore: 0000-0002-8871-6163
 Ben Lukuyu: 0000-0002-9374-3553
@@ -197,7 +198,6 @@ Bruno RAPIDEL: 0000-0003-0288-5650
 Bryan Carlson: 0000-0002-9098-356X
 Bui Tan Yen: 0000-0002-3899-5811
 Byron Reyes: 0000-0003-2672-9636
-Béla Teeken: 0000-0002-3150-1532
 Caitlin Corner-Dolloff: 0000-0002-7322-9442
 Camila Bonilla Cedrez: 0000-0002-7774-365X
 Canon Norris Savala Engoke: 0000-0002-9667-2324
@@ -220,7 +220,9 @@ Catherine Njuguna: 0000-0002-8175-5178
 Catherine Pfeifer: 0000-0001-9738-8758
 Cathy Farnworth: 0000-0002-2263-865X
 Cecile Grenier: 0000-0001-5390-8344
+Cécile M. Godde: 0000-0002-7165-3012
 Celine Aubert: 0000-0001-6284-4821
+Céline Termote: 0000-0003-3217-0226
 Chandrashekhar Biradar: 0000-0002-9532-9452
 Chao Ning: 0000-0001-8247-1700
 Charity Mutegi: 0000-0002-3188-0480
@@ -267,8 +269,6 @@ Constance L McDermott: 0000-0002-5238-0936
 Cristina Arias-Navarro: 0000-0002-5125-4962
 Cristobal Verdugo: 0000-0002-8418-4219
 Cynthia McDougall: 0000-0001-8038-1402
-Cécile M. Godde: 0000-0002-7165-3012
-Céline Termote: 0000-0003-3217-0226
 Dagmawi melaku: 0000-0003-0000-3220
 Daniel Amariles: 0000-0003-2120-7847
 Daniel Ariza-Suarez: 0000-0002-1871-3514
@@ -276,6 +276,7 @@ Daniel Coyne: 0000-0002-2030-6328
 Daniel G. Debouck: 0000-0002-7618-9570
 Daniel Jiménez: 0000-0003-4218-4306
 Daniel M. Villegas: 0000-0001-6801-3332
+Daniel Masiga: 0000-0001-7513-0887
 Daniel Ortiz-Gonzalo: 0000-0002-5517-1785
 Daniel Van Rooijen: 0000-0002-7220-1130
 Daniela Miteva: 0000-0002-9123-646X
@@ -581,6 +582,7 @@ Jenny Ordonez: 0000-0002-7038-2804
 Jenyfer Jimenez: 0000-0001-8149-6615
 Jeremy Bird: 0000-0003-2239-6504
 Jeroen Huising: 0000-0002-5567-5289
+Jérôme Duminil: 0000-0002-2500-824X
 Jeske van de Gevel: 0000-0002-9637-9099
 Jessica Bogard: 0000-0001-5503-5284
 Jessica Evelyn Raneri: 0000-0002-1687-6504
@@ -631,6 +633,7 @@ Jorge Luis Luna Meléndez: 0000-0002-3341-1039
 Jorge Luna: 0000-0002-9541-1181
 Jorge Sellare: 0000-0002-4445-0252
 Jose J. De Vega: 0000-0003-2847-5158
+José Jaumer Ricaurte Oyola: 0000-0002-0128-299X
 Jose Polania: 0000-0002-1186-0503
 Joseph Fargione: 0000-0002-0636-5380
 Joseph M. Sandro: 0000-0002-8311-2299
@@ -639,7 +642,6 @@ Josephine Udunma Agogbua: 0000-0001-6317-1227
 Josey Kamanda: 0000-0001-5537-8922
 Joshua Okonya: 0000-0002-9874-5021
 Josiane Nikiema: 0000-0001-8802-0564
-José Jaumer Ricaurte Oyola: 0000-0002-0128-299X
 Juan Andrés Cardoso Arango: 0000-0002-0252-4655
 Juan David Lobaton: 0000-0001-8369-3831
 Juan De la Hoz: 0000-0002-5584-7511
@@ -662,7 +664,6 @@ Junhui Li: 0000-0001-5636-1348
 Justin Adams: 0000-0002-6214-9850
 Justine Vansynghel: 0000-0002-4250-7016
 Jutta Werner: 0000-0001-9960-2105
-Jérôme Duminil: 0000-0002-2500-824X
 Kai Sonder: 0000-0001-9672-5361
 Kakhramon Djumaboev: 0000-0002-0061-3603
 Kalanithy Vairavamoorthy: 0000-0001-9239-4059
@@ -738,6 +739,7 @@ Lewis Machida: 0000-0002-0012-3997
 Lieven Claessens: 0000-0003-2961-8990
 Likimyelesh Nigussie: 0000-0002-6380-743X
 Lilian Rojas Mendoza: 0000-0002-7935-1924
+Lillian Wambua: 0000-0003-3632-7411
 Lisa-Maria Rebelo: 0000-0002-8785-7810
 LIVIA STAVOLONE: 0000-0002-0691-1302
 Liza Debevec: 0000-0001-6757-7435
@@ -786,13 +788,15 @@ Manuele Tamò: 0000-0002-5863-7421
 Marc Corbeels: 0000-0002-8084-9287
 Marc Schut: 0000-0002-3361-4581
 Marcel Silvius: 0000-0003-3955-2809
-Marcela Alejandra Vallejo Quintero: 0000-0002-0462-4668
+Marcela Quintero: 0000-0001-8107-7744
 Marcela Santaella: 0000-0002-6443-6570
 Marcelo Precoppe: 0000-0002-7937-5782
 Maren Radeny: 0000-0001-6470-8372
 Margaret Lukuyu: 0000-0001-8403-6411
 Margaret Thiongo: 0000-0002-2332-0977
 Margaret Worthington: 0000-0001-8019-165X
+María Alejandra García: 0000-0002-4292-7889
+María Alejandra García: 0000-0002-5245-3488
 Maria Egwakhide: 0000-0002-1634-5922
 Maria Fernanda Alvarez: 0000-0003-1104-6306
 Maria Garruccio: 0000-0002-3207-6996
@@ -815,8 +819,8 @@ Marius R.M. Ekué: 0000-0002-5829-6321
 Mark Lundy: 0000-0002-5241-3777
 Markus Amann: 0000-0002-1963-0972
 Markus Steffens: 0000-0002-2593-0971
-Marloes Mul: 0000-0001-9469-3909
 Marlène Elias: 0000-0001-8835-5348
+Marloes Mul: 0000-0001-9469-3909
 Marshall Makate: 0000-0002-2005-2970
 Marta Kozicka: 0000-0002-2323-3689
 Martha Del Río: 0000-0002-0879-0292
@@ -830,16 +834,14 @@ martina kyallo: 0000-0003-2837-5325
 Martínez-Barón, D.: 0000-0003-2317-8760
 Marwa Ali: 0000-0001-5436-3243
 Mary Nyasimi: 0000-0001-5728-3388
-María Alejandra García: 0000-0002-4292-7889
-María Alejandra García: 0000-0002-5245-3488
 Masafumi Tamura: 0000-0002-1688-4168
 Masahito Ueyama: 0000-0002-4000-4888
 Mateete Bekunda: 0000-0001-7297-9383
 Mathayo Mpanda Mathew: 0000-0001-6533-064X
 Mathieu Ouedraogo: 0000-0001-6581-6287
 Mathieu Rouard: 0000-0003-0284-1885
-Mats Soderstrom: 0000-0003-3927-4394
 Mats Söderström: 0000-0001-9946-0979
+Mats Soderstrom: 0000-0003-3927-4394
 Matthew McCartney: 0000-0001-6342-2815
 Matthias Jaeger: 0000-0001-9920-2750
 Matthias Jager: 0000-0003-1059-3949
@@ -856,6 +858,7 @@ Meike S. Andersson: 0000-0002-5028-7770
 Meine van Noordwijk: 0000-0002-7791-4703
 Mekonnen Feyissa: 0000-0001-6655-2105
 Melaku Gedil: 0000-0002-6258-6014
+Mélanie Blanchard: 0000-0002-5166-8719
 Melanie Correll: 0000-0002-2432-6107
 Mercy Lungaho: 0000-0001-8867-8155
 Mercy Mutua: 0000-0003-2899-0678
@@ -926,7 +929,6 @@ Murat Sartas: 0000-0001-7331-4201
 Mustapha El Bouhssini: 0000-0001-8945-3126
 Mykola Gusti: 0000-0002-2576-9217
 Myles Oelofse: 0000-0001-5497-7747
-Mélanie Blanchard: 0000-0002-5166-8719
 Nadhem Mtimet: 0000-0003-3125-2828
 Nadia Bergamini: 0000-0002-1221-9443
 Nadine Andrieu: 0000-0001-9558-9302
@@ -1087,6 +1089,7 @@ Rajesh Manoharan: 0000-0003-0003-473X
 Rajindra Puri: 0000-0002-3442-8537
 Ralf Kiese: 0000-0002-2814-4888
 Ram C Bastakoti: 0000-0003-2456-5420
+Ram Dhulipala: 0000-0002-9720-3247
 Ram Sharma: 0000-0002-7785-363X
 Ramesh PS Verma: 0000-0002-2621-2015
 Ranajit Bandyopadhyay: 0000-0003-2422-4298
@@ -1109,6 +1112,7 @@ Richard Appoh: 0000-0003-4678-5088
 Richard Asare: 0000-0001-6798-7821
 Richard Coe: 0000-0002-9240-1463
 Richard Conant: 0000-0001-7315-2476
+Richard Dooso Oloo: 0000-0002-6004-3729
 Richard Houghton: 0000-0002-3298-7028
 Richard Ogwal-Omara: 0000-0001-6452-416X
 Richard Preziosi: 0000-0003-0468-6655
