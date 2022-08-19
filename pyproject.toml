@@ -6,7 +6,7 @@ authors = ["Alan Orth <alan.orth@gmail.com>"]
 license = "GPL-3.0-only"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.10"
 colorama = "^0.4.4"
 requests = "^2.27.1"
 requests-cache = "^0.9.4"
