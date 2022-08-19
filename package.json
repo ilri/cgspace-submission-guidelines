@@ -4,7 +4,7 @@
   "description": "Generate CGSpace submission guidelines documentation website.",
   "scripts": {
     "build:css": "sass --style expanded source/scss/style.scss assets/css/style.css.tmp && cleancss -O1 --format breakWith=lf --with-rebase assets/css/style.css.tmp -o assets/css/style.min.css",
-    "build:js": "uglifyjs node_modules/jquery/dist/jquery.slim.min.js node_modules/bootstrap/dist/js/bootstrap.min.js -o assets/js/bundle.min.js",
+    "build:js": "terser --compress passes=2 --mangle --comments \"/^!/\" --output assets/js/bundle.min.js node_modules/bootstrap/dist/js/bootstrap.min.js node_modules/jquery/dist/jquery.slim.min.js",
     "build": "npm run build:css && npm run build:js && npm run clean",
     "clean": "rm assets/css/style.css.tmp assets/css/style.css.tmp.map"
   },
@@ -18,10 +18,10 @@
   "author": "Alan Orth",
   "license": "GPL-3.0-only",
   "devDependencies": {
-    "bootstrap": "^5.1.3",
-    "clean-css-cli": "^5.4.1",
+    "bootstrap": "^5.2.0",
+    "clean-css-cli": "^5.6.1",
     "jquery": "^3.6.0",
-    "sass": "^1.42.1",
-    "uglify-js": "^3.16.1"
+    "sass": "^1.54.2",
+    "terser": "^5.14.2"
   }
 }
