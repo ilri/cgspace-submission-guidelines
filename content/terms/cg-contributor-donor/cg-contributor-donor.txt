@@ -53,9 +53,9 @@ Asahi Glass Foundation
 Asian Development Bank
 Asociación de Guardianes de Papa Nativa del Centro del Perú
 Assam Livestock Development Agency
+Associação para o Fomento à Pesquisa de Melhoramento de Forrageiras
 Association for Strengthening Agricultural Research in Eastern and Central Africa
 Association nationale de la recherche et de la technologie
-Associação para o Fomento à Pesquisa de Melhoramento de Forrageiras
 Atkinson Center for a Sustainable Future
 Atlantic Philanthropies
 Australian Aid
@@ -246,8 +246,6 @@ Friedrich-Loeffler-Institut
 Frontiers in Arctic Marine Monitoring
 Fulbright Foundation
 Fund for International Development
-Fundamental Research Funds for the Central Universities
-Fundamental Scientific Research
 Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro
 Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco
 Fundação de Amparo à Pesquisa do Estado de Goiás
@@ -256,6 +254,8 @@ Fundação de Amparo à Pesquisa do Estado de São Paulo, Brazil
 Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro, Brazil
 Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul, Brazil
 Fundação de Estudos Agrários Luiz de Queiroz
+Fundamental Research Funds for the Central Universities
+Fundamental Scientific Research
 Future Earth
 Gatsby Charitable Foundation
 General Mills
@@ -450,6 +450,9 @@ Mercator Foundation Switzerland
 Merck
 Michigan Blueberry Growers Association
 Minera Poderosa, Peru
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Tunisia
+Ministère de l'Enseignement Supérieur et de la Recherche, Senegal
+Ministère des Affaires Étrangères et Européennes, France
 Ministerio de Agricultura y Riego, Perú
 Ministerio de Desarrollo e Inclusión Social, Perú
 Ministerio de Economía y Competitividad
@@ -506,9 +509,6 @@ Ministry of Science and Innovation, Spain
 Ministry of Science and Technology, India
 Ministry of Science, Innovation and Universities, Spain
 Ministry of Transport and Communications, Finland
-Ministère de l'Enseignement Supérieur et de la Recherche Scientifique, Tunisia
-Ministère de l'Enseignement Supérieur et de la Recherche, Senegal
-Ministère des Affaires Étrangères et Européennes, France
 Minnesota Department of Agriculture
 Mississippi Soybean Promotion Board
 Mitacs Globalink
@@ -645,11 +645,12 @@ Roslin Foundation
 Rotary Foundation
 Royal Society, United Kingdom
 Royal Zoological Society of Scotland
+Rübel Foundation
 Rufford Foundation
 Rural Development Administration, Republic of Korea
 Rwanda Bureau of Standards
-Rübel Foundation
 Saint Louis Zoo
+São Paulo Research Foundation
 Sasakawa Africa Association
 Scaling Up Nutrition
 Schlumberger Foundation
@@ -697,7 +698,6 @@ Swiss National Science Foundation
 Swiss Programme for Research on Global Issues for Development
 Syngenta Foundation for Sustainable Agriculture
 Syngenta Seeds SAS
-São Paulo Research Foundation
 Tamil Nadu Forest Department
 Tanzania Bureau of Standards
 Tanzania Commission for Science and Technology

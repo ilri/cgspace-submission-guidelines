@@ -14,8 +14,8 @@ Africa, Caribbean and Pacific Young Professionals' Network
 African Agricultural Technology Foundation
 African Development Bank
 African Plant Nutrition Institute
-African Union Interafrican Bureau for Animal Resources
 African Union
+African Union Interafrican Bureau for Animal Resources
 Aga Khan University
 Agence Française de Développement
 Agence Nationale de l'Aviation Civile et de la Météorologie
@@ -87,6 +87,7 @@ California State University
 Can Tho University
 Cardiff University
 CARE
+Cáritas Estelí
 Catholic Relief Services
 Center for International Forestry Research
 Center for Public Health and Ecosystem Research, Vietnam
@@ -104,6 +105,7 @@ Centre National de Recherche Agronomique, Cote d'Ivoire
 Centre National de Recherche appliquée au Développement Rural, Madagascar
 Centre Suisse de Recherches Scientifiques en Côte d'Ivoire
 Centro Agronómico Tropical de Investigación y Enseñanza
+CGIAR
 CGIAR Challenge Program on Water and Food
 CGIAR Consortium Board
 CGIAR Consortium Office
@@ -119,16 +121,16 @@ CGIAR Research Program for Managing and Sustaining Crop Collections
 CGIAR Research Program on Agriculture for Nutrition and Health
 CGIAR Research Program on Aquatic Agricultural Systems
 CGIAR Research Program on Climate Change, Agriculture and Food Security
-CGIAR Research Program on Dryland Cereals and Legumes
 CGIAR Research Program on Dryland Cereals
+CGIAR Research Program on Dryland Cereals and Legumes
 CGIAR Research Program on Dryland Systems
 CGIAR Research Program on Fish
 CGIAR Research Program on Forests, Trees and Agroforestry
-CGIAR Research Program on Grain Legumes and Dryland Cereals
 CGIAR Research Program on Grain Legumes
+CGIAR Research Program on Grain Legumes and Dryland Cereals
 CGIAR Research Program on Integrated Systems for the Humid Tropics
-CGIAR Research Program on Livestock and Fish
 CGIAR Research Program on Livestock
+CGIAR Research Program on Livestock and Fish
 CGIAR Research Program on Maize
 CGIAR Research Program on Policies, Institutions, and Markets
 CGIAR Research Program on Rice
@@ -139,7 +141,6 @@ CGIAR Standing Panel on Impact Assessment
 CGIAR System Management Office
 CGIAR System Organization
 CGIAR System-wide Genetic Resources Programme
-CGIAR
 Charles Darwin University
 Chatham House
 Cheikh Anta Diop University
@@ -177,7 +178,6 @@ Crops for the Future
 Cultural Practice
 Czech Academy of Sciences
 Czech University of Life Sciences
-Cáritas Estelí
 Danish Institute of Agricultural Sciences
 Deakin University
 Debre Berhan Agricultural Research Center, Ethiopia
@@ -218,8 +218,8 @@ Ethiopian Institute of Agricultural Research
 Ethiopian Veterinary Association
 Euro-Mediterranean Center on Climate Change
 European Bioinformatics Institute
-European Commission for the Control of Foot-and-Mouth Disease
 European Commission
+European Commission for the Control of Foot-and-Mouth Disease
 European Cooperative Programme for Crop Genetic Resources Networks
 European Cooperative Programme for Plant Genetic Resources
 European Cooperative Programme for the Conservation and Exchange of Crop Genetic Resources
@@ -304,8 +304,8 @@ Institut de Recherche Agricole pour le Développement, Cameroon
 Institut de Recherche Agronomique de Guinée
 Institut de Recherche en Écologie Tropicale, Gabon
 Institut de Recherche pour le Développement
-Institut de Recherche pour le Développement, France
 Institut de Recherche pour le développement, France
+Institut de Recherche pour le Développement, France
 Institut des Régions Arides, Tunisia
 Institut des Sciences Agronomiques du Burundi
 Institut des Sciences Agronomiques du Rwanda
@@ -322,22 +322,22 @@ Institut Togolais de Recherche Agronomique
 Institute for Agricultural and Fisheries Research, Belgium
 Institute for Agricultural Research, Nigeria
 Institute for Development, Ecology, Conservation and Cooperation, Italy
+Institute of Agricultural Research
 Institute of Agricultural Research and Training, Nigeria
 Institute of Agricultural Research for Development, Cameroon
-Institute of Agricultural Research
 Institute of Agricultural Research, Nigeria
 Institute of Agricultural Sciences, Switzerland
 Institute of Development Studies, United Kingdom
 Institute of Tropical Medicine, Antwerp
+Instituto de Investigação Agrária de Moçambique
+Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia
 Instituto de Investigaciones Agropecuarias, Chile
 Instituto de Investigaciones de la Amazonia Peruana
-Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia
-Instituto de Investigação Agrária de Moçambique
 Instituto de Manejo e Certificação Florestal e Agrícola, Brazil
 Instituto Interamericano de Cooperación para la Agricultura
 Instituto Nacional de Innovación Agraria, Peru
-Instituto Nacional de Investigaciones Agropecuarias, Ecuador
 Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Spain
+Instituto Nacional de Investigaciones Agropecuarias, Ecuador
 Instituto Nacional de Pesquisas da Amazonia, Brazil
 Instituto Nacional de Tecnología Agropecuaria, Argentina
 Inter-American Development Bank
@@ -608,8 +608,8 @@ Rakuno Gakuen University
 Research Institute of Organic Agriculture, Switzerland
 Rhine-Waal University of Applied Sciences
 RIKEN Center for Sustainable Resource Science, Japan
-Rivers State University of Science and Technology
 Rivers State University
+Rivers State University of Science and Technology
 Rockefeller Foundation
 Ross University
 Rothamsted Research
@@ -630,6 +630,7 @@ Rwanda Agriculture and Animal Resources Development Board
 Rwanda Agriculture Board
 Rwebitaba Zonal Agricultural Research and Development Institute, Uganda
 Saint Louis University
+São Paulo State University
 Savanna Agricultural Research Institute, Ghana
 Save the Children
 SBC4D
@@ -676,7 +677,6 @@ Swiss Tropical and Public Health Institute
 Swisscontact
 Syecomp Business Services Ltd
 Syngenta Foundation for Sustainable Agriculture
-São Paulo State University
 Taita Taveta University
 Tamil Nadu Agricultural University
 Tanzania Agricultural Research Institute
@@ -719,8 +719,8 @@ United States Forest Service
 United States Geological Survey
 Universidad Austral de Chile
 Universidad de Antioquia
-Universidad de Costa Rica
 Universidad de Córdoba
+Universidad de Costa Rica
 Universidad de la República, Uruguay
 Universidad de los Andes
 Universidad del Cauca
@@ -746,6 +746,46 @@ Universidade Federal do Rio de Janeiro
 Universidade Federal do Rio Grande do Sul
 Universidade Federal Rural de Pernambuco
 Universitat Autònoma de Barcelona
+Universität Hannover
+Universität Hohenheim
+Universität Kassel
+Université Catholique de Bukavu
+Université Catholique de Louvain
+Université Catholique du Graben
+Université Cheikh Anta Diop
+Université d'Abomey Calavi
+Université d'Agriculture de Kétou
+Université d'Aix-Marseille
+Université de Bordeaux
+Université de Dakar
+Université de Douala
+Université de Dschang
+Université de Kinshasa
+Université de Kisangani
+Université de Liège
+Université de Lomé
+Université de Montpellier
+Université de Ngaoundéré
+Université de Ouagadougou
+Université de Parakou
+Université de Paris-Saclay
+Université de Thiès
+Université de Toulouse
+Université de Yaoundé
+Université de Yaoundé I
+Université du Bénin
+Université Evangélique en Afrique
+Université Félix Houphouët-Boigny
+Université Gaston Berger
+Université Grenoble Alpes
+Université Libre de Bruxelles
+Université Marien Ngouabi
+Université Nangui Abrogoua
+Université Nationale d'Agriculture, Bénin
+Université Nationale des Sciences Technologies Ingénierie et Mathématiques d'Abomey
+Université Nazi Boni de Bobo-Dioulasso
+Université Norbert Zongo
+Université Officielle de Bukavu
 University College, Cork
 University College, London
 University for Development Studies
@@ -832,8 +872,8 @@ University of Lausanne
 University of Leeds
 University of Leicester
 University of Leuven
-University of Liverpool
 University of Liège
+University of Liverpool
 University of London
 University of Maiduguri
 University of Malawi
@@ -868,6 +908,7 @@ University of Prince Edward Island
 University of Queensland
 University of Reading
 University of Rwanda
+University of São Paulo
 University of Saskatchewan
 University of Sassari
 University of Sheffield
@@ -880,7 +921,6 @@ University of Stirling
 University of Strathclyde
 University of Sussex
 University of Sydney
-University of São Paulo
 University of Tasmania
 University of Tehran
 University of Tennessee
@@ -908,60 +948,20 @@ University of York
 University of Zambia
 University of Zimbabwe
 University of Zurich
-Universität Hannover
-Universität Hohenheim
-Universität Kassel
-Université Catholique de Bukavu
-Université Catholique de Louvain
-Université Catholique du Graben
-Université Cheikh Anta Diop
-Université d'Abomey Calavi
-Université d'Agriculture de Kétou
-Université d'Aix-Marseille
-Université de Bordeaux
-Université de Dakar
-Université de Douala
-Université de Dschang
-Université de Kinshasa
-Université de Kisangani
-Université de Liège
-Université de Lomé
-Université de Montpellier
-Université de Ngaoundéré
-Université de Ouagadougou
-Université de Parakou
-Université de Paris-Saclay
-Université de Thiès
-Université de Toulouse
-Université de Yaoundé I
-Université de Yaoundé
-Université du Bénin
-Université Evangélique en Afrique
-Université Félix Houphouët-Boigny
-Université Gaston Berger
-Université Grenoble Alpes
-Université Libre de Bruxelles
-Université Marien Ngouabi
-Université Nangui Abrogoua
-Université Nationale d'Agriculture, Bénin
-Université Nationale des Sciences Technologies Ingénierie et Mathématiques d'Abomey
-Université Nazi Boni de Bobo-Dioulasso
-Université Norbert Zongo
-Université Officielle de Bukavu
 Uppsala University
 Usomi Limited
 USTADI Foundation
 Utrecht University
 Vaal University of Technology
 Values for Development Limited
+Vétérinaires Sans Frontières
 Vietnam Academy of Agricultural Sciences
 Vietnam National Institute of Veterinary Research
-Vietnam National University of Agriculture
 Vietnam National University
+Vietnam National University of Agriculture
 Virginia Polytechnic Institute and State University
 Volunteer Efforts for Development Concerns, Uganda
 Vrije Universiteit Amsterdam
-Vétérinaires Sans Frontières
 Wageningen University and Research Centre
 Washington State University
 Washington University
