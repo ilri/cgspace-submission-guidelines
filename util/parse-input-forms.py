@@ -233,7 +233,7 @@ def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
 
     # Sort the list using a UTF-8 locale so we can handle diacritics properly
     # See: https://stackoverflow.com/questions/1097908/how-do-i-sort-unicode-strings-alphabetically-in-python
-    collator = icu.Collator.createInstance(icu.Locale('en_US.UTF-8'))
+    collator = icu.Collator.createInstance(icu.Locale("en_US.UTF-8"))
 
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         for value in sorted(controlledVocabularyLines, key=collator.getSortKey):
