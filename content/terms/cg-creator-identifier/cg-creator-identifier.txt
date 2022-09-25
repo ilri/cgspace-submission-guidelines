@@ -275,6 +275,7 @@ Daniel Ariza-Suarez: 0000-0002-1871-3514
 Daniel Coyne: 0000-0002-2030-6328
 Daniel G. Debouck: 0000-0002-7618-9570
 Daniel Jiménez: 0000-0003-4218-4306
+Daniel Korir: 0000-0002-1356-8039
 Daniel M. Villegas: 0000-0001-6801-3332
 Daniel Masiga: 0000-0001-7513-0887
 Daniel Ortiz-Gonzalo: 0000-0002-5517-1785
@@ -452,6 +453,7 @@ Ghislain Tepa-Yotto: 0000-0002-9650-8313
 Giacomo Rambaldi: 0000-0002-3634-6949
 Gift Ndengu: 0000-0002-3445-6298
 Gil Gram: 0000-0002-9401-2621
+Gilbert Kibet-Rono: 0000-0001-8043-5423
 Gillian Galford: 0000-0003-2192-7385
 Gina Kennedy: 0000-0002-5232-2250
 Giriraj Amarnath: 0000-0002-7390-9800
@@ -505,6 +507,7 @@ HO VAN CHIEN: 0000-0002-5195-2314
 Hu Suk Lee: 0000-0002-8731-9836
 Hugo Valin: 0000-0002-0618-773X
 Hung Nguyen-Viet: 0000-0003-1549-2733
+Hussein Abkallo: 0000-0002-5594-4418
 hyeladi gaya: 0000-0002-3350-0453
 I.K. Amegbor: 0000-0002-6134-5534
 Iain Wright: 0000-0002-6216-5308
@@ -606,10 +609,12 @@ John Benzie: 0000-0001-9599-8683
 John Eiver Belalcazar Martinez: 0000-0002-4418-2526
 John Gachohi: 0000-0001-9854-7490
 John Gibson: 0000-0003-0371-2401
+John Goopy: 0000-0001-7177-1310
 John Herbert Ainembabazi: 0000-0001-6700-4522
 John Hillier: 0000-0002-0221-8383
 JOHN IKEORGU: 0000-0003-4767-7062
 John Ingram: 0000-0001-9365-1889
+John Juma: 0000-0002-1481-5337
 John Muyonga: 0000-0002-5598-1462
 John Ocampo: 0000-0002-2720-7824
 John Porter: 0000-0002-0777-3028
@@ -817,6 +822,7 @@ Marion de Vries: 0000-0002-0221-389X
 Marion Syndonia Bret-Harte: 0000-0001-5151-3947
 Marius R.M. Ekué: 0000-0002-5829-6321
 Mark Lundy: 0000-0002-5241-3777
+Mark van Wijk: 0000-0003-0728-8839
 Markus Amann: 0000-0002-1963-0972
 Markus Steffens: 0000-0002-2593-0971
 Marlène Elias: 0000-0001-8835-5348
@@ -871,6 +877,7 @@ Michael Batte: 0000-0002-6793-2967
 Michael Baum: 0000-0002-8248-6088
 Michael Carter: 0000-0003-0960-9181
 MICHAEL GOMEZ SELVARAJ: 0000-0003-2394-0399
+Michael Graham: 0000-0002-1189-8640
 Michael Haertel: 0000-0002-0436-2725
 Michael Halewood: 0000-0001-5122-3990
 Michael Kidoido: 0000-0003-1813-6267
@@ -948,6 +955,7 @@ Ngonidzashe Chirinda: 0000-0002-4213-6294
 Ngowenani Nohayi: 0000-0002-8676-4559
 Nguyen Hong Son: 0000-0003-4462-1450
 Nhamo: 0000-0002-1182-6014
+Nicholas Svitek: 0000-0002-4539-5806
 Nicklas Forsell: 0000-0002-4984-3231
 Nicola Francesconi: 0000-0002-7590-1140
 Nicolas Guilpart: 0000-0003-3804-0211
@@ -1233,6 +1241,7 @@ Solomon Desta: 0000-0001-5761-209X
 Solomon Mwendia: 0000-0002-3203-8770
 Sonal Henson: 0000-0002-2002-5462
 Songporne Tongruksawattana: 0000-0003-1016-823X
+Sonja Leitner: 0000-0002-1276-8071
 Sonja Vermeulen: 0000-0001-6242-9513
 Sophia Huyer: 0000-0001-6267-8667
 Soroush Parsa: 0000-0002-6891-6352
@@ -1347,6 +1356,7 @@ VINCENT JOHNSON: 0000-0001-7874-178X
 Vincent Vadez: 0000-0003-2014-0281
 Viola Di Cori: 0000-0002-2352-5630
 Vishnu Pandey: 0000-0001-5258-7446
+Vishvanath Nene: 0000-0001-7066-4169
 Vivek Shankar: 0000-0002-8320-4871
 Vivian Bernau: 0000-0002-2393-8101
 Viviana Ceccarelli: 0000-0003-2160-9483

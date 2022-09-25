@@ -21,7 +21,6 @@ Logo
 Manual
 Manuscript-unpublished
 Map
-Mobile Message
 News Item
 Newsletter
 Opinion Piece
