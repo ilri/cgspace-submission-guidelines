@@ -10,8 +10,8 @@ You can see the website here: https://ilri.github.io/cgspace-submission-guidelin
 ## Requirements
 Requires the following on the host machine:
 
-- Python 3.9+ and [poetry](https://python-poetry.org/)
-- Node.js and npm
+- Python 3.10+ and [poetry](https://python-poetry.org/)
+- Node.js v16 and npm
 - Hugo
 
 ## Preparation
