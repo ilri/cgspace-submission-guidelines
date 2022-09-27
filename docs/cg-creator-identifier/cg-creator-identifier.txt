@@ -80,6 +80,7 @@ Amare Tegbaru: 0000-0002-0692-9887
 Ambika Khadka: 0000-0001-5091-9515
 Amgad Elmahdi: 0000-0002-9420-6581
 amos Alakonya: 0000-0001-7710-499X
+Amos Lucky Mhone: 0000-0003-1795-7098
 Amos Omore: 0000-0001-9213-9891
 An Maria Omer Notenbaert: 0000-0002-6266-2240
 Ana Bedmar Villanueva: 0000-0002-7030-9981
@@ -99,6 +100,7 @@ Andrew Middleton: 0000-0002-6669-4805
 Andrew Mude: 0000-0003-4903-6613
 Andy Jarvis: 0000-0001-6543-0798
 Anette Engelund Friis: 0000-0002-0628-3668
+Angela Makumi: 0000-0003-3510-972X
 Anna Lacasta: 0000-0001-8381-9844
 Anna Müller: 0000-0003-3120-8560
 Anna Vittoria Carluccio: 0000-0001-6887-5792
@@ -119,6 +121,7 @@ Arega Alene: 0000-0002-2491-4603
 Ariella Helfgott: 0000-0002-3987-6304
 Arif Anwar: 0000-0002-3071-3197
 Armando Martinez-Valle: 0000-0001-9718-5520
+Arshnee Moodley: 0000-0002-6469-3948
 Arun Khatri-Chhetri: 0000-0002-3811-0462
 Asghar Hussain: 0000-0001-6689-2687
 Asha Nalunga: 0000-0001-5476-3087
@@ -741,6 +744,7 @@ Leo Kris Palao: 0000-0002-2485-0267
 Leocadio Sebastian: 0000-0002-5678-3847
 Leroy Mwanzia: 0000-0002-1107-6110
 Lewis Machida: 0000-0002-0012-3997
+Lian Thomas: 0000-0001-8447-1210
 Lieven Claessens: 0000-0003-2961-8990
 Likimyelesh Nigussie: 0000-0002-6380-743X
 Lilian Rojas Mendoza: 0000-0002-7935-1924
@@ -955,6 +959,7 @@ Ngonidzashe Chirinda: 0000-0002-4213-6294
 Ngowenani Nohayi: 0000-0002-8676-4559
 Nguyen Hong Son: 0000-0003-4462-1450
 Nhamo: 0000-0002-1182-6014
+Nicholas Ngwili: 0000-0002-3940-4438
 Nicholas Svitek: 0000-0002-4539-5806
 Nicklas Forsell: 0000-0002-4984-3231
 Nicola Francesconi: 0000-0002-7590-1140
@@ -1230,6 +1235,7 @@ Simon Ncho: 0000-0003-4532-1601
 Simone Passarelli: 0000-0002-1752-9918
 Simone Staiger: 0000-0002-3539-0817
 Sinh Dang-Xuan: 0000-0002-0522-7808
+Siobhan Mor: 0000-0003-0121-2016
 Sirak Bahta: 0000-0002-5728-2489
 Sisay Webshet: 0000-0002-0872-1019
 Slim Slim: 0000-0001-8294-0685
