@@ -726,6 +726,7 @@ Ioannis Vasileiou: 0000-0002-4572-7823
 Irene Okeyo: 0000-0001-7427-5937
 Irenie Chakoma: 0000-0002-8224-4513
 Irmgard Hoeschle-Zeledon: 0000-0002-2530-6554
+Irmgard Jordan: 0000-0002-8822-1021
 Isabel Lopez Noriega: 0000-0002-8272-8462
 Isabelle Baltenweck: 0000-0002-4147-5921
 Ismail Badraoui: 0000-0002-6332-8383
