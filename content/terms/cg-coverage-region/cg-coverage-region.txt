@@ -1,24 +1,39 @@
 ACP
 Africa
-Sub-Saharan Africa
+Americas
 Asia
+Australia and New Zealand
 Caribbean
 Central Africa
 Central America
 Central Asia
+Channel Islands
 East Asia
 Eastern Africa
+Eastern Asia
+Eastern Europe
 Europe
 Latin America
+Latin America and the Caribbean
+Melanesia
+Micronesia
+Middle Africa
 Middle East
-Northern Africa
 North America
+Northern Africa
+Northern America
+Northern Europe
+Oceania
 Pacific
-Southern Asia
-South-eastern Asia
-Southern Africa
+Polynesia
 Sahel
 South America
+South-eastern Asia
+Southern Africa
+Southern Asia
+Southern Europe
+Sub-Saharan Africa
+West and Central Africa
 Western Africa
 Western Asia
-West and Central Africa
+Western Europe

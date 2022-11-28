@@ -10,6 +10,7 @@ Abdulai Jalloh: 0000-0002-7227-142X
 Abdulfatai Tijjani: 0000-0002-0793-9059
 Abdulkarim Seid: 0000-0002-9468-2641
 Abdullahi Bala: 0000-0003-1361-1786
+Abdulmalik R.O: 0000-0002-4197-3453
 Abebe Menkir: 0000-0002-5907-9177
 Abena Ofosu: 0000-0002-9769-850X
 Abenet Yabowork: 0000-0001-7068-1348
@@ -74,7 +75,7 @@ Alejandro Ortega-Beltran: 0000-0003-3747-8094
 Alejandro Ruden: 0000-0003-0089-406X
 Alemayehu Lemma: 0000-0002-9172-8333
 Alemseged Tamiru Haile: 0000-0001-8647-2188
-Alessandra Galie: 0000-0001-9868-7733
+Alessandra Galiè: 0000-0001-9868-7733
 Alessandro Matese: 0000-0001-8244-2985
 Alessandro Pagano: 0000-0002-2511-9396
 Alex Costa: 0000-0002-2628-1176
@@ -178,6 +179,7 @@ Arnaud Chapuis: 0000-0002-7833-2641
 Arshnee Moodley: 0000-0002-6469-3948
 Arun Khatri-Chhetri: 0000-0002-3811-0462
 Arun Panemangalore Padiyar: 0000-0002-5271-8642
+Arwen Bailey: 0000-0002-2201-7474
 Asghar Hussain: 0000-0001-6689-2687
 Asha Nalunga: 0000-0001-5476-3087
 Ashraf Sbaay: 0000-0001-5678-7488
@@ -1374,6 +1376,7 @@ Omar E. Benites-Alfaro: 0000-0002-6852-9598
 OMOTAYO KAYODE ADENIYI: 0000-0002-6196-5805
 Omowumi Adewuyi: 0000-0002-3062-2885
 Onasanya O.O.: 0000-0003-0559-6723
+Onyango Kevin: 0000-0002-0196-4384
 Onyebuchim Evelyn Ohanwusi: 0000-0001-9449-3990
 Opeyemi Agbeleye: 0000-0002-7847-3356
 Osamu Ito: 0000-0001-6358-8970
@@ -1516,7 +1519,6 @@ Regina Kapinga: 0000-0002-6551-2942
 Regis Chikowo: 0000-0003-3047-359X
 Rein van der Hoek: 0000-0003-4528-7669
 Reiner Wassmann: 0000-0002-3249-3503
-Rekiya Abdulmalik: 0000-0002-4197-3453
 Renee Bullock: 0000-0001-9561-0394
 Reta Duguma: 0000-0002-5660-7720
 Rhys: 0000-0003-0213-5462
