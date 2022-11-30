@@ -4,7 +4,6 @@ Americas
 Asia
 Australia and New Zealand
 Caribbean
-Central Africa
 Central America
 Central Asia
 Channel Islands
@@ -24,7 +23,6 @@ Northern Africa
 Northern America
 Northern Europe
 Oceania
-Pacific
 Polynesia
 Sahel
 South America
