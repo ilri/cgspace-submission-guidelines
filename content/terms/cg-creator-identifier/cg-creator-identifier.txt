@@ -11,10 +11,12 @@ Abdulfatai Tijjani: 0000-0002-0793-9059
 Abdulkarim Seid: 0000-0002-9468-2641
 Abdullahi Bala: 0000-0003-1361-1786
 Abdulmalik R.O: 0000-0002-4197-3453
+Abdur Rehman Cheema: 0000-0003-0945-1986
 Abebe Menkir: 0000-0002-5907-9177
 Abena Ofosu: 0000-0002-9769-850X
 Abenet Yabowork: 0000-0001-7068-1348
 Abhishek Rathore: 0000-0001-6887-4095
+Abigael Otinga: 0000-0003-1624-2648
 Abigail Fallot: 0000-0002-7526-6917
 Abiodun Olalekan: 0000-0001-8260-7057
 Abou TOGOLA: 0000-0001-6155-8292
@@ -50,6 +52,7 @@ Adriana Guerreiro: 0000-0002-3380-3892
 Adriana Skendi: 0000-0002-7995-4741
 Adriana Tofiño Rivera: 0000-0001-7115-7169
 Afrina Choudhury: 0000-0003-1734-6238
+Afua Owusu: 0000-0001-6420-6663
 Agnes Padre: 0000-0002-8281-3325
 Agnes Quisumbing: 0000-0002-5429-1857
 Agostino Fricano: 0000-0003-3715-5834
@@ -110,6 +113,7 @@ Amanda De Filippo: 0000-0002-1536-3221
 Amaral Machaculeha Chibeba: 0000-0001-6019-4482
 Amare Haileslassie: 0000-0001-5237-9006
 Amare Tegbaru: 0000-0002-0692-9887
+Ambica Paliwal: 0000-0003-3207-5042
 Ambika Khadka: 0000-0001-5091-9515
 Amgad Elmahdi: 0000-0002-9420-6581
 amos Alakonya: 0000-0001-7710-499X
@@ -137,6 +141,7 @@ Andrej Varlagin: 0000-0002-2549-5236
 Andres Charry: 0000-0002-3304-3571
 Andressa Gutierrez: 0000-0003-2703-3040
 Andrew Challinor: 0000-0002-8551-6617
+Andrew Emmanuel Okem: 0000-0001-5449-7639
 Andrew Middleton: 0000-0002-6669-4805
 Andrew Mude: 0000-0003-4903-6613
 Andrew Mumbi Chisopo: 0000-0002-8646-9154
@@ -155,6 +160,8 @@ Anne Njoroge: 0000-0003-3464-9345
 Anne Rietveld: 0000-0002-9400-9473
 Annet Mulema: 0000-0003-4192-3939
 Anoj Kumar: 0000-0003-3986-161X
+Ansir Ilyas: 0000-0002-9612-9006
+Anthony Mwangi Kibe: 0000-0003-3876-0809
 Anthony Whitbread: 0000-0003-4840-7670
 Antoine Levesque: 0000-0003-2059-6318
 Antoine Lubobo Kanyenga: 0000-0003-0806-9304
@@ -178,6 +185,7 @@ Ariella Helfgott: 0000-0002-3987-6304
 Arif Anwar: 0000-0002-3071-3197
 Armando Martinez-Valle: 0000-0001-9718-5520
 Arnaud Chapuis: 0000-0002-7833-2641
+Arshad Muhammad: 0000-0002-5741-6248
 Arshnee Moodley: 0000-0002-6469-3948
 Arun Khatri-Chhetri: 0000-0002-3811-0462
 Arun Panemangalore Padiyar: 0000-0002-5271-8642
@@ -198,7 +206,9 @@ Athanasios Petsakos: 0000-0003-0224-4087
 Athanasios Ragkos: 0000-0002-7247-6118
 Athanasios Tsivelikas: 0000-0001-6267-5079
 Augusto Castro-Nunez: 0000-0001-9569-9042
+Aung Kyaw Kyaw: 0000-0003-4851-4716
 Avinandan Taron: 0000-0001-6512-482X
+Ayalew Assefa: 0000-0002-6287-5318
 Aymen Frija: 0000-0001-8379-9054
 Aynalem: 0000-0001-5914-0487
 Ayoub FOUZAI: 0000-0001-9947-4617
@@ -253,6 +263,7 @@ Bhesh Raj Thapa: 0000-0002-9336-3622
 Bia Carneiro: 0000-0002-7957-8694
 Biju George: 0000-0002-8427-3350
 Bimrew Asmare: 0000-0002-1262-6196
+Birgit Habermann: 0000-0001-7130-670X
 Birgit Müller: 0000-0001-8780-4420
 Birthe Paul: 0000-0002-5994-5354
 Bjoern Ole Sander: 0000-0002-7967-6147
@@ -271,11 +282,13 @@ Brigitte L. Maass: 0000-0002-6164-3515
 Brigitte Laliberte: 0000-0003-4546-4047
 Brigitte Uwimana: 0000-0001-7460-9001
 Bronson Griscom: 0000-0002-8496-7213
+BROUZIYNE Youssef: 0000-0001-6710-9527
 Bruce M Campbell: 0000-0002-0123-4859
 Bruno Locatelli: 0000-0003-2983-1644
 Bruno RAPIDEL: 0000-0003-0288-5650
 Bryan Carlson: 0000-0002-9098-356X
 Bui Tan Yen: 0000-0002-3899-5811
+Bunyod Holmatov: 0000-0001-9267-7008
 Burcu Yazici: 0000-0003-0329-3729
 Byron Reyes: 0000-0003-2672-9636
 CAHIT ERDOGAN: 0000-0002-4052-0233
@@ -371,6 +384,7 @@ conny almekinders: 0000-0001-9779-5150
 Constance L McDermott: 0000-0002-5238-0936
 CRISTIANO ROSSIGNOLI: 0000-0001-8220-7360
 Cristina Arias-Navarro: 0000-0002-5125-4962
+Cristobal Uauy: 0000-0002-9814-1770
 Cristobal Verdugo: 0000-0002-8418-4219
 Cunha: 0000-0003-4248-5117
 Cynthia McDougall: 0000-0001-8038-1402
@@ -380,12 +394,14 @@ Dagninet Amare: 0000-0002-0014-3074
 Daniel Amariles: 0000-0003-2120-7847
 Daniel Ariza-Suarez: 0000-0002-1871-3514
 Daniel Coyne: 0000-0002-2030-6328
+Daniel Escobar Carbonari: 0000-0002-7467-1101
 Daniel G. Debouck: 0000-0002-7618-9570
 Daniel Jiménez: 0000-0003-4218-4306
 Daniel Korir: 0000-0002-1356-8039
 Daniel M. Villegas: 0000-0001-6801-3332
 Daniel Masiga: 0000-0001-7513-0887
 Daniel Ortiz-Gonzalo: 0000-0002-5517-1785
+Daniel Ouso: 0000-0003-0994-2558
 Daniel Van Rooijen: 0000-0002-7220-1130
 Daniela MINERDI: 0000-0001-5191-0483
 Daniela Miteva: 0000-0002-9123-646X
@@ -431,6 +447,7 @@ Devendra Gauchan: 0000-0002-3607-8841
 Devra Ivy Jarvis: 0000-0002-9879-6515
 Dhanush Dinesh: 0000-0002-1976-0486
 Dharani Dhar Burra: 0000-0002-2638-3420
+Dhyey Bhatpuria: 0000-0003-0058-3595
 Diaa Al-Kenawy: 0000-0001-7737-6880
 DIANA CORDOBA: 0000-0003-4095-4274
 Diana Feliciano: 0000-0002-5466-4879
@@ -457,6 +474,7 @@ Dong-Gill Kim: 0000-0003-3084-2658
 DONTSOP NGUEZET Paul Martin: 0000-0001-5098-1853
 Dorcas Olubunmi Ibitoye: 0000-0002-3477-5723
 Dorcus Gemenet: 0000-0003-4901-1694
+Dr Akpoti Komlavi: 0000-0001-6435-5116
 Dr Andrea Fongar: 0000-0003-2084-1571
 Dr Jaindra Nath Tripathi, Ph.D.: 0000-0002-6366-917X
 Dr. Alice Karanja: 0000-0001-9095-4905
@@ -498,6 +516,7 @@ Elizabeth Cook: 0000-0001-6081-8363
 Elizabeth Hodson: 0000-0003-0959-6130
 Elizabeth Jane Poole: 0000-0002-8570-794X
 Elizabeth Kemigisha: 0000-0001-9137-8014
+Els Lecoutere: 0000-0002-1025-742X
 Emdad Hossain: 0000-0001-5077-8740
 Emelie Zonabend König: 0000-0002-9287-3364
 Emile FRISON: 0000-0003-2220-3100
@@ -511,6 +530,7 @@ EMMANUEL SANGODELE: 0000-0003-2815-2172
 Emmanuel WICKER: 0000-0003-0927-7404
 Endalkachew Wolde-meskel: 0000-0001-6433-0162
 Enoch Kikulwe: 0000-0003-2433-1704
+Enock Warinda: 0000-0003-2974-5527
 Enrico Bonaiuti: 0000-0002-4010-4141
 Enrique Fernández-Escalante: 0000-0001-9278-7151
 Eric G. Nartey: 0000-0002-1562-3628
@@ -536,9 +556,11 @@ Evan Girvetz: 0000-0002-1062-9764
 Evangelos Tziritis: 0000-0002-1694-6744
 Evans Nyaboga: 0000-0002-9467-975X
 Evelyn Clancy: 0000-0001-5212-6260
+Everisto Mapedza: 0000-0001-8334-3495
 EVERLYNE WOSULA: 0000-0001-5693-0889
 evert thomas: 0000-0002-7838-6228
 EZGI KURTULUS: 0000-0002-8735-8704
+F. Achemchem: 0000-0002-3298-1128
 F.L. Stoddard: 0000-0002-8097-5750
 Fabian Löw: 0000-0002-0632-890X
 Fabio Castro-Llanos: 0000-0001-5908-7225
@@ -571,7 +593,6 @@ Floriane Clement: 0000-0003-4195-222X
 Florine Lim: 0000-0002-9380-4993
 Folasade Abiola Adebayo: 0000-0001-8263-1735
 Fotso Kuate, A.: 0000-0002-5247-7519
-Fouad ACHEMCHEM: 0000-0002-3298-1128
 fpedrerosalcedo: 0000-0001-8486-3089
 Francesca Grazioli: 0000-0002-0289-5114
 Francesco Caracciolo: 0000-0001-9430-7529
@@ -671,12 +692,14 @@ Hafid Aberkane: 0000-0003-4092-389X
 hafssa kabbaj: 0000-0002-0778-4712
 Haile Desmae: 0000-0003-2612-9315
 Haile Selassie Okuku: 0000-0002-3077-4432
+Haileyesus Dejene: 0000-0002-2196-9334
 Hala Saber Khalil: 0000-0002-6236-6847
 Halim Nasery: 0000-0001-9210-6539
 Halima BENBOUZA: 0000-0002-1147-1321
 Halimat Akinde: 0000-0003-3363-0511
 Hallie Eakin: 0000-0001-8253-1320
 Hamid Hassaneian Khoshro: 0000-0002-1251-0388
+Hammad Gilani: 0000-0002-9439-640X
 Hampus Eriksson: 0000-0003-1199-6889
 Hannele Lindqvist-Kreuze: 0000-0002-6523-8824
 Hannes Gaisberger: 0000-0002-6023-1236
@@ -721,6 +744,7 @@ Ibrahim Dugje: 0000-0002-7672-1205
 Ibrahim Elsira: 0000-0002-6521-3563
 Ibrahim Mohammed: 0000-0001-5199-5528
 Iddo Dror: 0000-0002-0800-7456
+Idil Ires: 0000-0002-4274-6965
 Idowu P.A: 0000-0002-0227-3171
 Idupulapati M. Rao: 0000-0002-8381-9358
 IJEOMA AKAOGU: 0000-0002-8977-5237
@@ -729,6 +753,7 @@ Ikhothatseng Jacob Greffiths: 0000-0001-8600-873X
 ileogben sunday-adeoye: 0000-0002-5063-1965
 Ilse Köhler-Rollefson: 0000-0003-2817-2210
 Immaculate Omondi: 0000-0002-0967-1252
+Imran Nadeem: 0000-0002-5349-8186
 Indika Arulingam: 0000-0002-6995-238X
 ines bellil: 0000-0003-2718-3102
 Inge Van den Bergh: 0000-0001-5293-5252
@@ -755,6 +780,7 @@ Izabella Koziell: 0000-0003-4186-6970
 J. Jaime Gómez-Hernández: 0000-0002-0720-2196
 J. Musembi Mutuku: 0000-0002-3985-368X
 JABA JAGDISH: 0000-0002-4834-8845
+Jacob Emanuel Joseph: 0000-0002-0214-7298
 Jacob Midiwo: 0000-0002-1173-7820
 Jacob van Etten: 0000-0001-7554-2558
 Jacobo Arango: 0000-0002-4828-9398
@@ -769,9 +795,11 @@ James Cock: 0000-0001-9857-3568
 James Garrett: 0000-0003-4676-7859
 James Giles: 0000-0003-1899-9206
 James Hansen: 0000-0002-8599-7895
+James Kaoga: 0000-0002-8284-3145
 James Legg: 0000-0003-4140-3757
 James Prendergast: 0000-0001-8916-018X
 James Quilty: 0000-0001-6794-7037
+James Simmonds: 0000-0003-4936-1694
 Jamleck Osiemo: 0000-0002-4382-032X
 Jan de Leeuw: 0000-0002-2005-4351
 Jan Debaene: 0000-0003-3201-600X
@@ -784,6 +812,7 @@ JaneLee Waldock: 0000-0002-9031-4411
 Janelle Sylvester: 0000-0003-4576-9983
 Janila Pasupuleti: 0000-0003-2583-9630
 Janire Uribe-Asarta: 0000-0001-9175-3902
+Janneke Pieters: 0000-0002-4575-2295
 Jared Serem: 0000-0002-2960-257X
 Jari Pekka Tapani Valkonen: 0000-0002-3704-9911
 Jaroslav Dolezel: 0000-0002-6263-0492
@@ -824,6 +853,7 @@ Jessica Scott: 0000-0002-5106-1335
 Jesús Rodríguez De Luque: 0000-0002-8179-0109
 Jian Feng Liu: 0000-0003-1589-9605
 Jiang Li: 0000-0001-6298-2036
+Joab Osumba: 0000-0002-1728-9176
 Joana Abrantes: 0000-0002-8391-7134
 Joanna Joiner: 0000-0003-4278-1020
 Joanne Morris: 0000-0002-0068-0515
@@ -878,6 +908,7 @@ Jorge Luna: 0000-0002-9541-1181
 Jorge Sellare: 0000-0002-4445-0252
 Jose Antonio Hernandez: 0000-0001-7211-5147
 José Carlos Franco: 0000-0002-0898-3510
+José Francisco Valle: 0000-0003-0125-1373
 Jose J. De Vega: 0000-0003-2847-5158
 José Jaumer Ricaurte Oyola: 0000-0002-0128-299X
 Jose Polania: 0000-0002-1186-0503
@@ -892,6 +923,7 @@ Joshua Wesana: 0000-0003-1970-6241
 Josiane Nikiema: 0000-0001-8802-0564
 Juan Andrés Cardoso Arango: 0000-0002-0252-4655
 Juan Carlos Hernández Fonseca: 0000-0002-1915-3213
+Juan Carlos Sanchez: 0000-0002-4754-5599
 Juan David Lobaton: 0000-0001-8369-3831
 Juan F. De la Hoz: 0000-0002-5584-7511
 Juan Gabriel Pérez-Pérez: 0000-0002-8012-119X
@@ -929,6 +961,8 @@ Kamel Shideed: 0000-0002-2822-1097
 Kanako Suzuki: 0000-0001-9068-9080
 Kande M PAUL MATUNGULU: 0000-0001-5664-951X
 Kanoatkhon Umurzokova: 0000-0002-9101-3055
+Kanwal Waqar: 0000-0001-7266-0700
+Karen Enciso: 0000-0003-3264-6343
 Karen Grothe Villholth: 0000-0002-7552-6715
 Karen Marshall: 0000-0003-4197-1455
 Karim Barkaoui: 0000-0002-5787-3748
@@ -987,6 +1021,7 @@ Kuppannan Palanisami: 0000-0001-7330-7431
 Kwame Ogero: 0000-0002-5141-6781
 Kwesi Atta-Krah: 0000-0002-1242-9715
 Laamari Abdelali: 0000-0002-4776-4345
+Labisha Uprety: 0000-0002-5248-4698
 laila sbabou: 0000-0002-0948-4553
 Lal Muthuwatta: 0000-0002-5030-6003
 Lance W. Robinson: 0000-0002-5224-8644
@@ -1089,6 +1124,7 @@ Manabu Ishitani: 0000-0002-6950-4018
 Manish Pandey: 0000-0002-4101-6530
 Manish Roorkiwal: 0000-0001-6595-281X
 Manjurul Kairm: 0000-0003-4280-3568
+mansi tripathi: 0000-0003-1094-7313
 Mansoor Leh: 0000-0001-8865-767X
 MANUEL ANTONIO GASTELO BENAVIDES: 0000-0001-5329-555X
 Manuel Francisco Diaz Baca: 0000-0001-8996-5092
@@ -1142,9 +1178,11 @@ Mario Herrero: 0000-0002-7741-5090
 Mariola Acosta: 0000-0003-4456-1283
 Marion de Vries: 0000-0002-0221-389X
 Marion Syndonia Bret-Harte: 0000-0001-5151-3947
+Marit van den Berg: 0000-0002-2016-119X
 Marius R.M. Ekué: 0000-0002-5829-6321
 mark dubois: 0000-0002-8092-6465
 Mark Lundy: 0000-0002-5241-3777
+Mark Smith: 0000-0001-6632-4268
 Mark van Wijk: 0000-0003-0728-8839
 Markus Amann: 0000-0002-1963-0972
 Markus Steffens: 0000-0002-2593-0971
@@ -1168,6 +1206,7 @@ martina kyallo: 0000-0003-2837-5325
 Martínez-Barón, D.: 0000-0003-2317-8760
 Marvin Joel Gomez Cerna: 0000-0002-0770-7696
 Marwa Ali: 0000-0001-5436-3243
+Mary Kayano: 0000-0002-2516-295X
 Mary Lundeba: 0000-0001-8274-0800
 Mary Nyasimi: 0000-0001-5728-3388
 Maryline Filippi: 0000-0002-9323-1347
@@ -1178,6 +1217,7 @@ Mathayo Mpanda Mathew: 0000-0001-6533-064X
 Mathieu Guillevic: 0000-0002-0081-785X
 Mathieu Ouedraogo: 0000-0001-6581-6287
 Mathieu Rouard: 0000-0003-0284-1885
+Mats Lannerstad: 0000-0002-5116-3198
 Mats Söderström: 0000-0001-9946-0979
 Mats Soderstrom: 0000-0003-3927-4394
 Matthew Hamilton: 0000-0001-8098-8845
@@ -1282,6 +1322,7 @@ Mondher Khanfir: 0000-0001-5608-5945
 Monica Carvajal-Yepes: 0000-0003-2709-7909
 Monica Santayana: 0000-0003-0844-6536
 Morag Ferguson: 0000-0002-7763-5173
+Morris Agaba: 0000-0001-6777-0382
 Morufat Balogun: 0000-0001-8770-5529
 Moses Adeolu Adebayo: 0000-0001-8192-3883
 Moses Matovu: 0000-0001-7019-1015
@@ -1298,6 +1339,7 @@ Mueller: 0000-0003-1302-2009
 Muhammad Azeem Ali Shah: 0000-0001-5277-5893
 MUHAMMAD ISLAM: 0000-0001-9889-8960
 Muhammad Meezanur Rahman: 0000-0002-7305-8292
+Muhammad Tahir Ali: 0000-0002-9904-5473
 Muhammad Tousif Bhatti: 0000-0001-7834-6114
 Muhammadu T Salaudeen: 0000-0003-1196-4254
 Muhi El-Dine Hilali: 0000-0002-8945-9613
@@ -1324,6 +1366,7 @@ Nadhem Mtimet: 0000-0003-3125-2828
 Nadia Bergamini: 0000-0002-1221-9443
 nadia cherif: 0000-0001-8286-0570
 Nadine Andrieu: 0000-0001-9558-9302
+Nadine Worou: 0000-0001-7996-5478
 Naga Manohar Velpuri: 0000-0002-6370-1926
 Nancy Karanja: 0000-0001-9602-8275
 Natalia Estrada-Carmona: 0000-0003-4329-5470
@@ -1359,6 +1402,7 @@ Nigamananda Swain: 0000-0001-9593-4911
 Nihan Şahin: 0000-0002-3204-9082
 Nikolaos Georgantzis: 0000-0002-9697-5368
 Nilanthi Jayathilake: 0000-0002-0723-5457
+Nilhari Neupane: 0000-0003-2893-6719
 Nils Johnson: 0000-0002-0897-2301
 Nils Teufel: 0000-0001-5305-6620
 Nina Olsen Lauridsen: 0000-0001-7208-7262
@@ -1385,6 +1429,7 @@ Nzola Mahungu: 0000-0002-3781-0838
 Obed Mwenye: 0000-0003-3084-8582
 Oghaiki Asaah Ndambi: 0000-0001-8563-2805
 Ojango J.M.K.: 0000-0003-0224-5370
+Ojong Enokenwa Baa: 0000-0002-4500-5812
 Olaf Westermann: 0000-0002-3278-8846
 Olatunbosun Obileye: 0000-0002-1200-0994
 Olivier Hanotte: 0000-0002-2877-4767
@@ -1397,6 +1442,7 @@ OLUSEGUN ADEBAYO: 0000-0002-1691-4726
 olutayo Kayode: 0000-0003-2219-2552
 Oluwafemi Lawal: 0000-0002-0673-3569
 Oluwaseun Omikunle: 0000-0002-8300-4159
+Oluwaseyi Shorinola: 0000-0003-3516-303X
 Omar Alsoudani: 0000-0003-0700-6918
 Omar E. Benites-Alfaro: 0000-0002-6852-9598
 OMOTAYO KAYODE ADENIYI: 0000-0002-6196-5805
@@ -1416,6 +1462,7 @@ Oyture Anarbekov: 0000-0003-0622-5940
 P. Lava Kumar: 0000-0003-4388-6510
 p.manzi: 0000-0001-6910-0294
 P.V. Vara Prasad: 0000-0001-6632-3361
+Pabitra Gurung: 0000-0003-4388-9690
 Pablo Imbach: 0000-0003-4078-6063
 Pablo Pacheco: 0000-0001-7192-6861
 Pablo Siles: 0000-0001-5850-6539
@@ -1481,6 +1528,7 @@ Phay Ko U: 0000-0002-3642-6367
 Pheneas Ntawuruhunga: 0000-0003-2330-9070
 Philip Amoah: 0000-0002-7693-6134
 Philip Kear: 0000-0002-4488-6013
+Philip kuriachen: 0000-0002-7542-2158
 Philip Thornton: 0000-0002-1854-0182
 Philippa Cohen: 0000-0002-9987-1943
 Philippe Buscher: 0000-0002-1926-7472
@@ -1504,6 +1552,7 @@ Prasad Peteti: 0000-0002-6013-8947
 PRICILLA MARIMO: 0000-0003-3754-7176
 Prince Maxwell Etwire: 0000-0002-6533-2538
 Priyanie Amerasinghe: 0000-0002-3502-8594
+Prof. Oliver Wasonga: 0000-0002-5929-6091
 PROSSIE NAKAWUKA: 0000-0003-0603-2225
 Quang Bao Le: 0000-0001-8514-1088
 Quennie Rizaldo: 0000-0002-7958-2618
@@ -1553,6 +1602,7 @@ Ricardo Labarta: 0000-0003-3517-8768
 Riccardo Grigoletto: 0000-0001-8502-0200
 Richard Appoh: 0000-0003-4678-5088
 Richard Asare: 0000-0001-6798-7821
+Richard Bishop: 0000-0002-3720-9970
 Richard Coe: 0000-0002-9240-1463
 Richard Conant: 0000-0001-7315-2476
 Richard Dooso Oloo: 0000-0002-6004-3729
@@ -1563,6 +1613,7 @@ Richard Thomas: 0000-0002-8009-5681
 Richardson Okechukwu: 0000-0001-5335-4855
 Rida M Mediouni: 0000-0002-5514-8286
 Riina Jalonen: 0000-0003-1669-9138
+Rita Andreoli: 0000-0001-5531-0733
 Ritah Kigonya: 0000-0002-0689-3087
 Robert Abaidoo: 0000-0002-1235-2252
 Robert Andrade: 0000-0002-5764-3854
@@ -1607,6 +1658,7 @@ S.Rajendran: 0000-0003-2769-2548
 Saadiah Binti Ghazali: 0000-0001-9796-6159
 Sabine Douxchamps: 0000-0002-5286-0753
 Safaa Kumari: 0000-0002-4492-6257
+Sahana: 0000-0001-9564-1406
 sahl yasin: 0000-0002-6355-1622
 Saidou Koala: 0000-0001-7806-2525
 Saldamando-Benjumea CI: 0000-0001-9368-8200
@@ -1626,6 +1678,7 @@ Samonn Mith: 0000-0003-4893-0349
 Samuel Adjei-Nsiah: 0000-0002-7394-4913
 Samuel Catt: 0000-0001-5715-923X
 Samuel Mutiga: 0000-0001-9919-6231
+Samuel O. Oyola: 0000-0002-6425-7345
 Samuel T. Partey: 0000-0001-5223-0367
 Samwel kariuki: 0000-0003-1362-0447
 SANA SALIH: 0000-0001-9937-1001
@@ -1634,16 +1687,21 @@ Sander J. Zwart: 0000-0002-5091-1801
 Sander Muilerman-Rodrigo: 0000-0001-9103-3294
 Sandipan Mukherjee: 0000-0001-7299-0304
 Sandra Bhatasara: 0000-0002-3094-1907
+Sandra Hyde: 0000-0001-9098-7571
 Sandra Jimena Valencia Cataño: 0000-0001-5227-0801
 Sandra Pérez: 0000-0002-3179-3969
 Sandra Ruckstuhl Ruckstuhl: 0000-0002-7677-0234
 Sanita Dhaubanjar: 0000-0003-2974-0427
 Sanjiv de Silva: 0000-0001-8852-800X
+Sanju Koirala: 0000-0003-4684-0817
+Santosh Nepal: 0000-0002-7415-2299
 sara jani: 0000-0003-2554-5026
+Sarah Dekhel: 0000-0002-8933-7499
 Sarah Freed: 0000-0001-8574-8218
 Sarah K. Jones: 0000-0002-9422-5563
 Sarah Mayanja: 0000-0002-9698-0036
 Sarath Gunasinghe: 0000-0002-2044-1685
+Sarfraz Munir: 0000-0002-2673-1042
 Saul Lozano: 0000-0003-1517-6853
 Sawsan Hassan: 0000-0002-5057-8957
 Sawsan Tawkaz: 0000-0001-6683-5041
@@ -1662,6 +1720,7 @@ Sergio Rubio: 0000-0002-7787-1387
 SERKAN ATES: 0000-0001-6825-3248
 Seyed Sadeghian: 0000-0001-7276-5879
 Shaban Ali Salem: 0000-0003-3840-9103
+Shahid: 0000-0003-4532-225X
 Shahreen Haq: 0000-0002-1352-7253
 Shakuntala Thilsted: 0000-0002-4041-1651
 Shalander Kumar: 0000-0001-8072-5674
@@ -1682,9 +1741,11 @@ Shiv Kumar: 0000-0001-8407-3562
 Shonali Pachauri: 0000-0001-8138-3178
 Shuhei Yoshimoto: 0000-0001-9548-6805
 Shukhrat AMANOV: 0000-0003-2738-6866
+Shweta Panjwani: 0000-0002-5558-5830
 Shwu Jiau Teoh: 0000-0001-7676-8583
+Si-Jun Zheng: 0000-0003-1550-3738
 Sibusiso Nhlengethwa: 0000-0002-7687-3452
-Sijun Zheng: 0000-0003-1550-3738
+Sidra Khalid: 0000-0003-4963-0583
 Sika Dofonsou Gbegbelegbe: 0000-0001-6373-6195
 Silver Tumwegamire: 0000-0003-2820-6337
 SILVESTRO MESEKA: 0000-0003-1004-2450
@@ -1703,6 +1764,7 @@ Sinh Dang-Xuan: 0000-0002-0522-7808
 Siobhan Mor: 0000-0003-0121-2016
 Sirak Bahta: 0000-0002-5728-2489
 Sisay Webshet: 0000-0002-0872-1019
+Sita Ghimire: 0000-0001-8930-1384
 SK GUPTA: 0000-0002-6770-0760
 Slim Slim: 0000-0001-8294-0685
 Smaranika Mahapatra: 0000-0001-6047-8506
@@ -1743,6 +1805,7 @@ Steven Staal: 0000-0002-1244-1773
 Stuart Bunting: 0000-0003-0151-7733
 Stuart Pearse: 0000-0003-3737-0788
 Subbarao Guntur: 0000-0002-7243-6394
+Subhodeep Basu: 0000-0003-4166-8675
 Subramaniam Gopalakrishnan: 0000-0003-4053-7016
 Sudarshana Fernando: 0000-0002-9176-1774
 Sultana Nasrin: 0000-0001-7390-0542
@@ -1756,7 +1819,9 @@ Susan Ajambo: 0000-0002-9033-691X
 Susan Minnemeyer: 0000-0003-4683-138X
 Susana López-Bayón: 0000-0002-5967-3643
 Susanna Sternberg Lewerin: 0000-0001-7907-8377
+Susanne Bodach: 0000-0002-3106-4504
 Swamikannu Nedumaran: 0000-0003-4755-1769
+Syed Adil Mizan: 0000-0002-8707-9764
 Sylvia Sarah Nyawira: 0000-0003-4913-1389
 Syndhia MATHE: 0000-0002-6981-514X
 Sytze de Bruin: 0000-0002-6884-2832
@@ -1781,10 +1846,12 @@ Tawanda Muzhingi: 0000-0002-2432-2165
 Tawffiq Istanbuli: 0000-0001-7450-6408
 Taye Tolemariam Ejeta: 0000-0003-2164-2283
 Tayo Olukotun: 0000-0003-1589-3318
+Teferi Demissie: 0000-0002-0228-1972
 Tek Sapkota: 0000-0001-5311-0586
 Teo Ficcarelli: 0000-0001-7246-1701
 Teodardo Calles: 0000-0003-1929-5534
 Teresa Borelli: 0000-0002-6405-1339
+Teresita del Rocio Canchala Nastar: 0000-0002-5208-5515
 Tesfamicheal Wossen Assfaw: 0000-0002-3672-2676
 Tesfamicheal Wossen: 0000-0003-3793-7078
 Tesfaye Getachew Mengistu: 0000-0002-0544-6314
@@ -1805,6 +1872,7 @@ Thomas K. Gitsopoulos: 0000-0002-7317-4832
 Tilahun Amede: 0000-0002-1049-0256
 Tim Pagella: 0000-0001-5926-9299
 Timothy Manyise: 0000-0003-1951-9892
+Timothy Robinson: 0000-0002-4266-963X
 Timothy Williams: 0000-0003-0775-0237
 Titilayo Falade: 0000-0001-5562-7861
 Tiziana de Magistris: 0000-0001-5480-183X
@@ -1816,6 +1884,7 @@ Todd Rosenstock: 0000-0002-1958-9500
 Toluwalope Emmanuel: 0000-0003-1442-4392
 Tomoko Hasegawa: 0000-0003-2456-5789
 Tonny Omwansa: 0000-0002-8795-5154
+Tony van der Weerden: 0000-0002-6999-2584
 Toru Nakada: 0000-0003-3757-0210
 TOYIN OSHO: 0000-0002-4710-1920
 Tran Thi Ngan: 0000-0002-7184-3086
@@ -1858,6 +1927,7 @@ Victor Manuel Mayor: 0000-0002-7775-6872
 Victor Manyong: 0000-0003-2477-7132
 Victoria Clarke: 0000-0002-9586-501X
 Vida Šimat: 0000-0001-8005-4073
+Vidya Mandave: 0000-0003-2861-9430
 Vimbayi Grace Petrova Chimonyo: 0000-0001-9912-9848
 Vinay Nangia: 0000-0001-5148-8614
 Vincent Deblauwe: 0000-0001-9881-1052
@@ -1868,6 +1938,7 @@ Vishnu Pandey: 0000-0001-5258-7446
 Vishvanath Nene: 0000-0001-7066-4169
 Vivek Shankar: 0000-0002-8320-4871
 Vivian Bernau: 0000-0002-2393-8101
+Vivian Hoffmann: 0000-0002-6464-3748
 Viviana Ceccarelli: 0000-0003-2160-9483
 Vivien Osele: 0000-0002-6846-726X
 Wagdy Mekkawy: 0000-0002-3991-7321
