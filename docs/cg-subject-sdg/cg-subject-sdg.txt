@@ -7,9 +7,9 @@ SDG 6 - Clean water and sanitation
 SDG 7 - Affordable and clean energy
 SDG 8 - Decent work and economic growth
 SDG 9 - Industry, innovation and infrastructure
-SDG 10 - Reduce inequalities
+SDG 10 - Reduced inequalities
 SDG 11 - Sustainable cities and communities
-SDG 12 - Responsible production and consumption
+SDG 12 - Responsible consumption and production
 SDG 13 - Climate action
 SDG 14 - Life below water
 SDG 15 - Life on land
