@@ -24,6 +24,7 @@ Map
 News Item
 Newsletter
 Opinion Piece
+Other
 Photo Report
 Poster
 Presentation
@@ -36,6 +37,5 @@ Thesis
 Training Material
 Video
 Website
-Working Paper
 Wiki
-Other
+Working Paper
