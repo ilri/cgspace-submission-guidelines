@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# parse-input-forms.py v0.2.7
+# parse-input-forms.py v0.2.8
 #
 # SPDX-License-Identifier: GPL-3.0-only
 
