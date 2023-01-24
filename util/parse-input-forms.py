@@ -209,6 +209,8 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
             if value.text not in valuePairs:
                 valuePairs.append(value.text)
 
+    valuePairs.sort()
+
     # Write value pairs to a text file
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         for value in valuePairs:
