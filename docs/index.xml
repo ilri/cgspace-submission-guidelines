@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Accessibility status (required)</title>
+      <title>Access rights (required)</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessRights/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
@@ -517,24 +517,6 @@
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-license/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WLE research theme</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-wletheme/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-wletheme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WLE subject</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-wle/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-wle/</guid>
       <description></description>
     </item>
     

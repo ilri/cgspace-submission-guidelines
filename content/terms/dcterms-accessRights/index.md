@@ -1,5 +1,5 @@
 ---
-title: 'Accessibility status (required)'
+title: 'Access rights (required)'
 field: 'dcterms.accessRights'
 slug: 'dcterms-accessRights'
 description: 'Information about who can access the resource or an indication of its security status. May include information regarding access or restrictions based on privacy, security, or other policies. In the CGSpace context this is usually "Open Access" or "Limited Access".'
