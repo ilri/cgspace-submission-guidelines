@@ -1,7 +1,11 @@
 Abaidoo, R.C.
 Abang, Mathew M.
 Abass, A.
+Abate, Gashaw Tadesse
+Abay, Kibrom A.
 Abberton, M.T.
+Abdelaziz, Fatma
+Abdelfattah, Lina Alaaeldin
 Abdoulaye, Tahirou
 Abdullaev, Iskandar
 Abele, S.
@@ -26,18 +30,24 @@ Aggarwal, Pramod K.
 Agricultural Water Solutions Project
 Agyemang, K.
 Ahmad, Mobin-ud-Din
+Ahmed, Akhter
+Ahmed, Mosab O. M.
 Ahmed, S.
 Aina, O.O.
 Ainembabazi, John H.
 Ajala, S.
 Ajeigbe, Hakeem A.
+Ajmani, Manmeet
 Akinwale, R.
 Akobundu, I.O.
 Akoko, James M.
 Akoroda, M.
 Akoroda, M.O.
+Akram, Iqra
+Al-Hasan, Md.
 Alamu, E.O.
 Alarcón, Pablo
+Alderman, Harold
 Alemayehu, N.
 Alemu, Biruk
 Alene, A.
@@ -172,6 +182,7 @@ Birnholz, Celine
 Bishop, Richard P.
 Black, S.J.
 Blair, M.W.
+Bloem, Jeffrey R.
 Blomme, Guy
 Blümmel, Michael
 Blundo Canto, Genowefa M.
@@ -1493,6 +1504,7 @@ Zeigler, Robert S.
 Zemadim, Birhanu
 Zerbini, E.
 Zhang, Z.
+Zhu, Yuhao
 Zingore, Shamie
 Zinsstag, J.
 Zonneveld, M. van
