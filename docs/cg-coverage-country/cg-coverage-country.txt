@@ -67,6 +67,7 @@ Ethiopia
 Fiji
 Finland
 France
+French Guiana
 Gabon
 Gambia
 Georgia
@@ -129,6 +130,7 @@ Myanmar
 Namibia
 Nepal
 Netherlands
+New Caledonia
 New Zealand
 Nicaragua
 Niger
@@ -137,6 +139,7 @@ North Macedonia
 Norway
 Oman
 Pakistan
+Palau
 Palestine, State of
 Panama
 Papua New Guinea
@@ -145,12 +148,14 @@ Peru
 Philippines
 Poland
 Portugal
+Puerto Rico
 Qatar
 Romania
 Russia
 Rwanda
 Saint Kitts and Nevis
 Saint Lucia
+Saint Vincent and the Grenadines
 Samoa
 Sao Tome and Principe
 Saudi Arabia

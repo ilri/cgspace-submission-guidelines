@@ -4156,6 +4156,7 @@ Stephen Davies: 0000-0003-3659-0893
 Stephen Dovers: 0000-0003-2129-2850
 Stephen E Beebe: 0000-0002-3742-9930
 Stephen Ichami Muhati: 0000-0003-4041-1042
+Stephen J Kemp: 0000-0003-4041-1720
 Stephen Joseph: 0000-0002-8933-8010
 Stephen Polasky: 0000-0003-4934-2434
 Stephen Whitfield: 0000-0002-3040-778X
