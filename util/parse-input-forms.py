@@ -30,7 +30,7 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     requests_cache.install_cache("requests-cache", expire_after=expire_after)
 
     # prune old cache entries
-    requests_cache.remove_expired_responses()
+    requests_cache.delete(expired=True)
 
     if args.debug:
         print("> Looking up description")
