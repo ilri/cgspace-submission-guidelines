@@ -1,5 +1,5 @@
 ---
-title: 'CGIAR author ORCID iDs'
+title: 'Author ORCID identifiers'
 field: 'cg.creator.identifier'
 slug: 'cg-creator-identifier'
 description: 'ORCID identifier for author(s). Enter one per author. Format should be "Name: 0000-0000-0000-0000" with author name exactly as it appears on https://orcid.org.'
