@@ -1,5 +1,5 @@
 ---
-title: 'Journal volume'
+title: 'Journal Volume'
 field: 'cg.volume'
 slug: 'cg-volume'
 description: 'The volume of a journal or multi-volume book. For example, if published in PLoS ONE 16(1), the volume is: 16.'

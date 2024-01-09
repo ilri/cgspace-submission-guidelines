@@ -1,5 +1,5 @@
 ---
-title: 'Grey literature'
+title: 'Grey Literature'
 field: 'cg.howPublished'
 slug: 'cg-howPublished'
 description: 'How the item was published, if the publishing method is nonstandard. On CGSpace this is usually "Formally Published" or "Grey Literature".'

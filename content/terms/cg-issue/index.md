@@ -1,5 +1,5 @@
 ---
-title: 'Journal issue'
+title: 'Journal Issue'
 field: 'cg.issue'
 slug: 'cg-issue'
 description: 'Enter the issue number of a journal, magazine, or report. For example, if published in PLoS ONE 16(1), the issue number is: 1.'

@@ -1,6 +1,6 @@
 Alberta
-An Giang
 Andhra Pradesh
+An Giang
 Ashanti
 Assam
 Badulla
@@ -72,8 +72,8 @@ Telangana
 Texas
 Tigray
 Turkana
-Uttar Pradesh
 Uttarakhand
+Uttar Pradesh
 Victoria
 Washington
 West Bengal

@@ -1,5 +1,5 @@
 ---
-title: 'Item type (required)'
+title: 'Type'
 field: 'dcterms.type'
 slug: 'dcterms-type'
 description: 'The nature or genre of the resource.'

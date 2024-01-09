@@ -1,5 +1,5 @@
 ---
-title: 'Series/Report name'
+title: 'Series/Report Name'
 field: 'dcterms.isPartOf'
 slug: 'dcterms-isPartOf'
 description: 'A related resource in which the described resource is physically or logically included.'

@@ -1,5 +1,5 @@
 ---
-title: 'Review status'
+title: 'Review Status'
 field: 'cg.reviewStatus'
 slug: 'cg-reviewStatus'
 description: 'Indicate whether the item has undergone peer or internal review. On CGSpace this is usually "Peer Review" or "Internal Review" if appropriate.'

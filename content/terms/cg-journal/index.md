@@ -1,5 +1,5 @@
 ---
-title: 'Journal title'
+title: 'Journal Title'
 field: 'cg.journal'
 slug: 'cg-journal'
 description: 'Full journal title. This should be the official, legal name of the journal. Prefer names without leading "a" or "the" where possible.'

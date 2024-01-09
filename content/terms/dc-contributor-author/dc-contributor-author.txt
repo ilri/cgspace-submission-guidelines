@@ -1,11 +1,7 @@
 Abaidoo, R.C.
 Abang, Mathew M.
 Abass, A.
-Abate, Gashaw Tadesse
-Abay, Kibrom A.
 Abberton, M.T.
-Abdelaziz, Fatma
-Abdelfattah, Lina Alaaeldin
 Abdoulaye, Tahirou
 Abdullaev, Iskandar
 Abele, S.
@@ -30,24 +26,18 @@ Aggarwal, Pramod K.
 Agricultural Water Solutions Project
 Agyemang, K.
 Ahmad, Mobin-ud-Din
-Ahmed, Akhter
-Ahmed, Mosab O. M.
 Ahmed, S.
 Aina, O.O.
 Ainembabazi, John H.
 Ajala, S.
 Ajeigbe, Hakeem A.
-Ajmani, Manmeet
 Akinwale, R.
 Akobundu, I.O.
 Akoko, James M.
 Akoroda, M.
 Akoroda, M.O.
-Akram, Iqra
-Al-Hasan, Md.
 Alamu, E.O.
 Alarcón, Pablo
-Alderman, Harold
 Alemayehu, N.
 Alemu, Biruk
 Alene, A.
@@ -75,8 +65,8 @@ Anandajayasekeram, P.
 Anarbekov, Oyture
 Anderson, F.M.
 Andersson, Meike S.
-Andrade-Piedra, J.L.
 Andrade, M.I.
+Andrade-Piedra, J.L.
 Andreini, M.
 Andrieu, Nadine
 Angelsen, A.
@@ -98,9 +88,9 @@ Asghar, Muhammad Nadeem
 Ashby, J.A.
 Asiedu, Robert
 Aslam, M.
-Asse, Rainer
 Assembe-Mvondo, S.
 Asseng, S.
+Asse, Rainer
 Astatke, A.
 Asten, Piet J.A. van
 Atehnkeng, J.
@@ -171,8 +161,8 @@ Bettridge, Judy M.
 Bezabih, Melkamu
 Bhaduri, Anik
 Bharati, Luna
-Bhatta, Gopal Datt
 Bhattacharjee, R.
+Bhatta, Gopal Datt
 Bille, Jean-Claude
 Bioversity International
 Birachi, Eliud A.
@@ -182,7 +172,6 @@ Birnholz, Celine
 Bishop, Richard P.
 Black, S.J.
 Blair, M.W.
-Bloem, Jeffrey R.
 Blomme, Guy
 Blümmel, Michael
 Blundo Canto, Genowefa M.
@@ -242,8 +231,8 @@ Carsky, R.
 Carsky, R.J.
 Carter, N.
 Castañeda-Álvarez, Nora P.
-Castaño Zapata, Jairo
 Castaño, M.
+Castaño Zapata, Jairo
 Castella, J.C.
 Castiblanco, Valheria
 Castro, A.
@@ -338,7 +327,6 @@ Cuéllar, Wilmer
 Cuervo Ibáñez, Maritza
 Cuevas Pérez, Federico E.
 Cullen, Beth
-D'Ieteren, G.D.M.
 Dahal, G.R.
 Damtew, Elias
 Dang Xuan Sinh
@@ -369,6 +357,7 @@ Diall, O.
 Diarra, L.
 Diaw, C.
 Diels, J.
+D'Ieteren, G.D.M.
 Dimes, John P.
 Dinesh, Dhanush
 Dione, Michel M.
@@ -416,10 +405,10 @@ Eitzinger, Anton
 Ekanayake, I.J.
 Ekeleme, F.
 Ekesa, B.
-El-Sharkawy, Mabrouk A.
 Elias, M.
-Ellis-Jones, J.
 Ellis, D.
+Ellis-Jones, J.
+El-Sharkawy, Mabrouk A.
 Emery, D.L.
 Enahoro, Dolapo K.
 Enciso, Karen
@@ -437,9 +426,9 @@ Evans, Alexandra E.V.
 Evans, K.
 Ewansiha, S.U.
 Ezedinma, C.
-Fa, J.E.
 Fadda, Carlo
 Fadiga, M.L.
+Fa, J.E.
 Fakorede, M.A.B.
 Fall, Abdou
 Farrow, Andrew
@@ -451,8 +440,8 @@ Felde, T. zum
 Ferguson, John E.
 Ferguson, M.
 Ferguson, M.E.
-Fernández Rivera, S.
 Fernández, F.O.
+Fernández Rivera, S.
 Feron, A.
 Ferreira, Oscar
 Ferris, S.
@@ -501,10 +490,10 @@ Gautier, D.
 Gaveau, D.L.A.
 Gbegbelegbe, Sika
 Gebara, M.F.
-Gebre-Wold, A.
 Gebregziabher, Gebrehaweria
 Gebrekirstos, Aster
 Gebremedhin, Berhanu
+Gebre-Wold, A.
 Gebrezgabher, Solomie A.
 Gebru, G.
 Gedil, M.
@@ -548,9 +537,9 @@ Grace, Delia
 Gray, G.D.
 Gregorio, G.B.
 Gregorio, M. di
+Grootenhuis, J.G.
 Groot, Hugo de
 Groot, Jeroen C.J.
-Grootenhuis, J.G.
 Gruneberg, W.J.
 Guariguata, M.R.
 Guarino, Luigi
@@ -601,8 +590,8 @@ Hirumi, H.
 Hoanh, Chu Thai
 Hodgkin, T.
 Hoek, Rein van der
-Hoek, Wim van der
 Hoekstra, Dirk
+Hoek, Wim van der
 Hoeschle-Zeledon, Irmgard
 Hoffmann, V.
 Holmann, Federico J.
@@ -615,7 +604,6 @@ Hosenally, Nawsheen
 Houwe, I. van den
 Howeler, Reinhardt H.
 Howland, Fanny Cecile
-Hu Suk Lee
 Hughes, J.
 Huising, Jeroen
 Hung Nguyen-Viet
@@ -623,6 +611,7 @@ Hunter, D.
 Hurtado Bermúdez, Jhon J.
 Hussain, I.
 Hussain, Intizar
+Hu Suk Lee
 Huyer, Sophia
 Hyman, Glenn
 Ibrahim, Mohamed N.M.
@@ -804,26 +793,26 @@ Lashari, Bakhshal K.
 Laumonier, Y.
 Lautze, Jonathan
 Lavelle, Patrick M.
-Le Borgne, Ewen
-Le, Quang Bao
 Leak, S.G.A.
 Lebbie, S.H.B.
 Lebel, L.
+Le Borgne, Ewen
 Leclerc, G
+Leeuwis, C.
 Leeuw, Jan de
 Leeuw, P.N. de
-Leeuwis, C.
 Lefore, Nicole
 Legese, G.
 Legg, J.P.
 Leihner, D.E.
-Lema, Zelalem
 Lemaga, B.
+Lema, Zelalem
 Lemchi, J.
 Lemoalle, J.
 Lenis, Jorge I.
 Lenne, J.M.
 Lentini, Z
+Le, Quang Bao
 Lescuyer, G.
 Levang, P.
 Levine, G.
@@ -843,8 +832,8 @@ Loke, John Bernard
 Lonsdale-Eccles, J.D.
 Loo, J.
 López Noriega, Isabel
-Lore, Tezira A.
 Lorenzen, J.H.
+Lore, Tezira A.
 Love, D.
 Low, J.W.
 Lozano, J.C.
@@ -955,15 +944,15 @@ Mukankusi, Clare M.
 Mukasa-Mugerwa, E.
 Mukhebi, A.W.
 Mukherji, Aditi
-Mul, Marloes L.
 Mulatu, W.
 Mulema, Annet A.
 Mulligan, M.
+Mul, Marloes L.
 Mupangwa, W.
 Murdiyarso, Daniel
 Murphy, N.B.
-Murray-Rust, Hammond
 Murray, M.
+Murray-Rust, Hammond
 Musoke, A.J.
 Muthoni Andriatsitohaina, Rachel
 Muthuwatta, Lal P.
@@ -1013,14 +1002,14 @@ Nweke, F.
 Nyamwaro, Sospeter S.
 Nyasimi, Mary
 Nziguheba, Generose
-O'Callaghan, C.J.
-O'Connor, C.B.
 Oberson, Astrid
 Obersteiner, Michael
 Oberthür, Thomas
 Obidzinski, K.
+O'Callaghan, C.J.
 Ocampo Nahar, César H.
 Ocimati, W.
+O'Connor, C.B.
 Odenyo, A.A.
 Ogbe, F.
 Ogutu, Joseph O.
@@ -1035,7 +1024,6 @@ Okoro, E.
 Okoth, Edward A.
 Okoth, Peter F.
 Ole-MoiYoi, O.K.
-Oloo, Richard Dooso
 Omoigui, L.O.
 Omolo, Abisalom
 Omondi, Immaculate A.
@@ -1063,11 +1051,11 @@ Pachico, Douglas H.
 Pachón, Helena
 Padulosi, S.
 Paladines M., Osvaldo L.
-Pali, Pamela N.
 Paling, R.W.
+Pali, Pamela N.
 Palm, C.A.
-Pan-Africa Bean Research Alliance
 Panabokke, Christopher R.
+Pan-Africa Bean Research Alliance
 Panis, B.
 Pant, Dhruba
 Parker, M.
@@ -1085,19 +1073,19 @@ Pelster, David E.
 Pender, J.L.
 Penning de Vries, Frits W.T.
 Peregrine, A.S.
-Pérez Velásquez, Juan Carlos
 Pérez, E.
+Pérez Velásquez, Juan Carlos
 Pérez, W.
 Perry, Brian D.
-Peter, T.F.
 Peters, Kurt J.
 Peters, Michael
+Peter, T.F.
 Pezo, Danilo A.
 Pfeifer, Catherine
 Pfeiffer, Dirk U.
 Pfeiffer, Wolfgang H.
-Pham Van Hung
 Pham, T.T.
+Pham Van Hung
 Phelps, J.
 Philipsson, J.
 Phuc Pham Duc
@@ -1127,8 +1115,8 @@ Priyadi, H.
 Pulver, Edward L.
 Purnomo, H.
 Puskur, Ranjitha
-Putz, F.E.
 Putzel, L.
+Putz, F.E.
 Pypers, Pieter
 Qadir, Manzoor
 Quintero, Marcela
@@ -1139,9 +1127,9 @@ Raatz, Bodo
 Rabbi, Ismail Y
 Radeny, Maren A.O.
 Ramana Reddy, Y.
-Ramírez Villegas, Julián
 Ramírez, D.
 Ramírez, M.
+Ramírez Villegas, Julián
 Randolph, Thomas F.
 Raneri, J.
 Ranganathan, C.R.
@@ -1169,8 +1157,8 @@ Rey, B.
 Reyes, J.A.
 Reynolds, L.
 Ricaurte Oyola, José Jaumer
-Rich, Karl M.
 Richards, Meryl
+Rich, Karl M.
 Ridder, N.A. de
 Rijsberman, Frank
 Ringler, Claudia
@@ -1505,7 +1493,6 @@ Zeigler, Robert S.
 Zemadim, Birhanu
 Zerbini, E.
 Zhang, Z.
-Zhu, Yuhao
 Zingore, Shamie
 Zinsstag, J.
 Zonneveld, M. van

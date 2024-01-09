@@ -35,8 +35,8 @@ Alberta Agriculture Food and Rural Development
 Alborada Trust
 Alder Hey Charity
 Alexander von Humboldt Foundation
-Alliance for a Green Revolution in Africa
 Alliance for Accelerating Excellence in Science in Africa
+Alliance for a Green Revolution in Africa
 Almond Board of California
 Alphawood Foundation
 American Dairy Science Association
@@ -91,8 +91,8 @@ Brooke
 Bulgarian Academy of Sciences
 Bundesministerium für Bildung und Forschung
 California Pistachio Research Board
-Cambridge Malaysian Education and Development Trust
 Cambridge-Africa ALBORADA Research Fund
+Cambridge Malaysian Education and Development Trust
 Cameroon Government
 Canadian Food Inspection Agency
 Canadian Institutes of Health Research
@@ -111,7 +111,9 @@ Central Public-interest Scientific Institution Basal Research Fund, China
 Centre for International Migration and Development, Germany
 Centre of Excellence in Infectious Diseases Research
 Ceres
+CGIAR Research Program on Policies,
 CGIAR Systemwide Livestock Programme
+CGIAR Trust Fund
 Chevron
 Children's Investment Fund Foundation
 China Postdoctoral Science Foundation
@@ -146,8 +148,8 @@ Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, Brazil
 Cordaid
 Council for the Development of Social Science Research in Africa
 Crawford Fund
-Crop Trust
 Cropguard
+Crop Trust
 Daniel and Nina Carasso Foundation
 Daniel K. Thorne Foundation
 Danish Council for Development Research
@@ -244,7 +246,6 @@ French National Institute for Research in Agriculture, Food and Environment
 Friedrich-Loeffler-Institut
 Frontiers in Arctic Marine Monitoring
 Fulbright Foundation
-Fund for International Development
 Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro
 Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco
 Fundação de Amparo à Pesquisa do Estado de Goiás
@@ -255,6 +256,7 @@ Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul, Brazil
 Fundação de Estudos Agrários Luiz de Queiroz
 Fundamental Research Funds for the Central Universities
 Fundamental Scientific Research
+Fund for International Development
 Future Earth
 Gatsby Charitable Foundation
 General Mills
@@ -352,10 +354,10 @@ Inqaba Biotec
 INSFEED
 Institut de l’Environnement et de Recherché Agricoles, Burkina Faso
 Institut de Recherche pour le Développement
-Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, France
 Institute for Tropical Health funders, Spain
 Institute of Environment and Sustainable Development in Agriculture
 Institutions, and Markets
+Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, France
 Instituto de Investigación Nutricional, Peru
 Instituto Nacional de Carnes, Uruguay
 Instituto Nacional de Ciência e Tecnologia de Entomologia Molecular, Brazil
@@ -398,13 +400,13 @@ ISSD Africa
 Italian Agency for Development and Cooperation
 Japan Agency for Medical Research and Development
 Japan Biodiversity Fund
+Japanese Society for the Promotion of Science
 Japan International Cooperation Agency
 Japan International Research Center for Agricultural Sciences
 Japan Policy
 Japan Science and Technology Agency
 Japan Science and Technology Organization
 Japan Society for the Promotion of Science
-Japanese Society for the Promotion of Science
 Jharkhand Tribal Development Council
 Jiansheng Fresh Herb Medicine R & D Foundation
 Jinxinnong Animal Science Development Foundation
@@ -465,13 +467,13 @@ Ministry of Agriculture and Food Security, Tanzania
 Ministry of Agriculture and Forestry, Finland
 Ministry of Agriculture and Livestock Resources
 Ministry of Agriculture and Rural Infrastructure, Senegal
-Ministry of Agriculture Irrigation and Water Development, Malawi
 Ministry of Agriculture, China
 Ministry of Agriculture, Fisheries and Food, United Kingdom
 Ministry of Agriculture, Food Quality and Nature, the Netherlands
 Ministry of Agriculture, Forestry and Fisheries
 Ministry of Agriculture, Forestry and Fisheries, Japan
 Ministry of Agriculture, France
+Ministry of Agriculture Irrigation and Water Development, Malawi
 Ministry of Agriculture, Livestock and Fisheries, Kenya
 Ministry of Development Cooperation, Norway
 Ministry of Ecological Environment of China
@@ -540,8 +542,8 @@ National Oceanic and Atmospheric Administration
 National Potato Council
 National Potato Council of Kenya
 National Research Foundation
-National Research Foundation of South Africa
 National Research Foundation, Korea
+National Research Foundation of South Africa
 National Research Foundation, South Africa
 National Research Fund, Kenya
 National Science and Technology Council, Mexico
@@ -550,10 +552,10 @@ National Science Foundation of China
 National Science Foundation Plant Genome Integrative Organismal Systems
 Natural Environment Research Council, United Kingdom
 Natural Resources Institute Finland
+Natural Science Foundation, Hainan Province
 Natural Science Foundation of China
 Natural Science Foundation of Guangdong, China
 Natural Science Foundation of Hainan Province
-Natural Science Foundation, Hainan Province
 Natural Sciences and Engineering Research Council, Canada
 Nature Conservancy
 NatureNet Science Fellowship
@@ -567,9 +569,9 @@ Netherlands Organisation for International Cooperation in Higher Education
 Netherlands Organisation for Scientific Research
 Netherlands Universities Foundation for International Cooperation
 New Partnership for Africa's Development
+Newton Fund
 New Venture Fund
 New Zealand Agricultural Greenhouse Gas Research Centre
-Newton Fund
 Next GenerationCassava Breeding
 Neys-van Hoogstraten Foundation
 Niger Delta Development Commission
@@ -611,11 +613,11 @@ Portuguese Science and Technology Foundation
 Presidential Initiative for Banana Industrial Development
 PricewaterhouseCoopers
 Productos Naturales de la Sabana S.A.S.
-Program for the Innovative Research Team of Yunnan Province
 Programa De Pesquisas Em Saneamento Básico
 Programa Nacional de Innovacion Agraria
 Programa Nacional de Innovación Agraria, Peru
 Programa Nacional de Innovación parala Competitividad y Productividad, Perú
+Program for the Innovative Research Team of Yunnan Province
 Programme d’Appui Stratégique à la Recherche Scientifique, Côte d’Ivoire
 Programme National de Développement des Racines et Tubercules, Cameroon
 Project
@@ -633,8 +635,8 @@ Regione Lazio
 Renewed Carbon Pty Ltd.
 Research Council of Norway
 Research Foundation Flanders
-Research Foundation of Xuzhou Academy of Agricultural Sciences
 Research Foundation-Flanders
+Research Foundation of Xuzhou Academy of Agricultural Sciences
 Research Infrastructures Action
 Resources
 Rights and Resources Initiatives
@@ -653,12 +655,12 @@ São Paulo Research Foundation
 Sasakawa Africa Association
 Scaling Up Nutrition
 Schlumberger Foundation
-Science & Technology Planning Project, Guangdong Province, China
 Science and Engineering Research Board, India
 Science and Technology Department of Yunnan Provincial Government
 Science and Technology Project of Guangdong Province, China
 Science and Technology Research Partnership for Sustainable Development
 Science for Nature and People Partnership
+Science & Technology Planning Project, Guangdong Province, China
 Scientific Grant Agency, Slovakia
 Scottish Government
 Sehgal Foundation Endowment Fund
@@ -700,8 +702,8 @@ Syngenta Seeds SAS
 Tamil Nadu Forest Department
 Tanzania Bureau of Standards
 Tanzania Commission for Science and Technology
-Tata Trusts
 Tata‐Cornell TARINA program
+Tata Trusts
 Teagasc, Ireland
 Tertiary Education Trust Fund
 Thailand Tapioca Development Institute

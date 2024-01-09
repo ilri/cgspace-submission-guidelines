@@ -1,5 +1,5 @@
 ---
-title: 'URL for datafile'
+title: 'URL for data file'
 field: 'cg.identifier.dataurl'
 slug: 'cg-identifier-dataurl'
 description: 'A URL for any associated data file(s), in a repository for example.'

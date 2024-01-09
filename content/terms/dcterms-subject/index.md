@@ -1,5 +1,5 @@
 ---
-title: 'AGROVOC keywords'
+title: 'AGROVOC Keywords'
 field: 'dcterms.subject'
 slug: 'dcterms-subject'
 description: 'The topic of the resource. Preferably using terms from AGROVOC (in any language). Terms should be entered in lower case.'

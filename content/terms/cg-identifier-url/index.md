@@ -1,5 +1,5 @@
 ---
-title: 'URL'
+title: 'External URL'
 field: 'cg.identifier.url'
 slug: 'cg-identifier-url'
 description: 'An extra URL for a website or resource associated with this item.'
