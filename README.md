@@ -1,5 +1,5 @@
 # CGSpace Submission Guidelines
-A set of scripts to read `input-forms.xml` from DSpace and generate documentation about metadata and controlled vocabularies. This is used as guidance for programmatic submission to the [CGSpace repository](https://cgspace.cgiar.org).
+A set of scripts to read `submission-forms.xml` from DSpace and generate documentation about metadata and controlled vocabularies. This is used as guidance for programmatic submission to the [CGSpace repository](https://cgspace.cgiar.org).
 
 <p align="center">
   <img width="600" alt="Screenshot of documentation website" src="screenshot.png">
@@ -33,7 +33,7 @@ Make sure the Python virtual environment is active and then run `parse-input-for
 
 ```console
 $ poetry shell
-$ ./util/parse-input-forms.py -i ~/src/git/DSpace/dspace/config/input-forms.xml -c ~/src/git/DSpace/dspace/config/controlled-vocabularies --clean
+$ ./util/parse-input-forms.py -i ~/src/git/DSpace/dspace/config/submission-forms.xml -c ~/src/git/DSpace/dspace/config/controlled-vocabularies --clean
 ```
 
 Generate the documentation site using Hugo:
