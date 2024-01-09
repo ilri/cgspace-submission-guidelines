@@ -362,16 +362,6 @@ files = [
 ]
 
 [[package]]
-name = "pyicu"
-version = "2.12"
-description = "Python extension wrapping the ICU C++ API"
-optional = false
-python-versions = "*"
-files = [
-    {file = "PyICU-2.12.tar.gz", hash = "sha256:bd7ab5efa93ad692e6daa29cd249364e521218329221726a113ca3cb281c8611"},
-]
-
-[[package]]
 name = "requests"
 version = "2.31.0"
 description = "Python HTTP for Humans."
@@ -488,4 +478,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "245f46bc03ce0276bf7959bfc8995f410eb506103cdde640ee2fe3a9e734212d"
+content-hash = "f1b8cecabc37f716cc52d66319019dc264bf35f44fb2473ad9cd5867bed832ec"

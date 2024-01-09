@@ -5,6 +5,7 @@
 # SPDX-License-Identifier: GPL-3.0-only
 
 import argparse
+import locale
 import os
 import re
 import sys
@@ -12,7 +13,6 @@ import xml.etree.ElementTree as ET
 from datetime import timedelta
 from shutil import rmtree
 
-import icu
 import requests
 import requests_cache
 from colorama import Fore
@@ -236,10 +236,9 @@ def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
 
     # Sort the list using a UTF-8 locale so we can handle diacritics properly
     # See: https://stackoverflow.com/questions/1097908/how-do-i-sort-unicode-strings-alphabetically-in-python
-    collator = icu.Collator.createInstance(icu.Locale("en_US.UTF-8"))
-
+    locale.setlocale(locale.LC_COLLATE, "en_US.UTF-8")
     with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
-        for value in sorted(controlledVocabularyLines, key=collator.getSortKey):
+        for value in sorted(controlledVocabularyLines, key=locale.strxfrm):
             f.write(f"{value}\n")
 
 
