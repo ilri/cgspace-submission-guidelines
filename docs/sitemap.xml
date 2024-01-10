@@ -68,6 +68,9 @@
     <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-edition/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</loc>
+    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -84,9 +87,6 @@
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-issn/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</loc>
@@ -110,13 +110,10 @@
     <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-description/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilri.github.io/cgspace-submission-guidelines/dc-title-alternative/</loc>
+    <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-alternative/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</loc>
-    <lastmod>2019-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-place/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-publisher/</loc>
@@ -170,10 +167,10 @@
     <loc>https://ilri.github.io/cgspace-submission-guidelines/dc-title/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-sdg/</loc>
+    <loc>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</loc>
+    <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-sdg/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-dataurl/</loc>

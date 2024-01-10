@@ -23,7 +23,7 @@
       <description></description>
     </item>
     <item>
-      <title>AGROVOC keywords</title>
+      <title>AGROVOC Keywords</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-subject/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-subject/</guid>
@@ -100,7 +100,7 @@
       <description></description>
     </item>
     <item>
-      <title>CGIAR Research Programs and Platforms</title>
+      <title>CGIAR Research Programs and Platforms (2012–2021)</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-crp/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-crp/</guid>
@@ -156,7 +156,14 @@
       <description></description>
     </item>
     <item>
-      <title>Grey literature</title>
+      <title>External URL</title>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grey Literature</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</guid>
@@ -198,13 +205,6 @@
       <description></description>
     </item>
     <item>
-      <title>Item type (required)</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>IWMI Library ID</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
@@ -212,28 +212,28 @@
       <description></description>
     </item>
     <item>
-      <title>Journal issue</title>
+      <title>Journal Issue</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-issue/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-issue/</guid>
       <description></description>
     </item>
     <item>
-      <title>Journal status</title>
+      <title>Journal Status</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-isijournal/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-isijournal/</guid>
       <description></description>
     </item>
     <item>
-      <title>Journal title</title>
+      <title>Journal Title</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-journal/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-journal/</guid>
       <description></description>
     </item>
     <item>
-      <title>Journal volume</title>
+      <title>Journal Volume</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-volume/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-volume/</guid>
@@ -254,10 +254,10 @@
       <description></description>
     </item>
     <item>
-      <title>Other titles</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/dc-title-alternative/</link>
+      <title>Other Titles</title>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-alternative/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/dc-title-alternative/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-alternative/</guid>
       <description></description>
     </item>
     <item>
@@ -265,13 +265,6 @@
       <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Publication place</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-place/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-place/</guid>
       <description></description>
     </item>
     <item>
@@ -324,7 +317,7 @@
       <description></description>
     </item>
     <item>
-      <title>Review status</title>
+      <title>Review Status</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</guid>
@@ -338,7 +331,7 @@
       <description></description>
     </item>
     <item>
-      <title>Series/Report name</title>
+      <title>Series/Report Name</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</guid>
@@ -387,6 +380,13 @@
       <description></description>
     </item>
     <item>
+      <title>Type</title>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>UN Sustainable Development Goals (SDGs)</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-sdg/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
@@ -394,14 +394,7 @@
       <description></description>
     </item>
     <item>
-      <title>URL</title>
-      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>URL for datafile</title>
+      <title>URL for data file</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-dataurl/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-dataurl/</guid>

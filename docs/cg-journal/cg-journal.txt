@@ -18,8 +18,8 @@ Acta Societatis Botanicorum Poloniae
 Acta Tropica
 Acta Veterinaria et Zootechnica Sinica
 Acta Virologica
-ADVANCE RESEARCH JOURNAL OF SOCIAL SCIENCE
 Advanced Biomedical Research
+ADVANCE RESEARCH JOURNAL OF SOCIAL SCIENCE
 Advances in Agriculture
 Advances in Agronomy
 Advances in Animal and Veterinary Sciences
@@ -35,7 +35,6 @@ Advances in Traditional Medicine
 Advances in Virology
 Advances in Virus Research
 Advances in Water Resources
-Africa Today
 African Archaeological Review
 African Crop Science Conference Proceedings
 African Crop Science Journal
@@ -51,9 +50,9 @@ African Journal of Dairy Farming and Milk Production
 African Journal of Ecology
 African Journal of Economic and Management Studies
 African Journal of Environmental Science and Technology
+African Journal of Food, Agriculture, Nutrition and Development
 African Journal of Food Science
 African Journal of Food Science and Technology
-African Journal of Food, Agriculture, Nutrition and Development
 African Journal of Health Sciences
 African Journal of Infectious Diseases
 African Journal of Marketing Management
@@ -64,13 +63,11 @@ African Journal of Plant Science and Biotechnology
 African Journal of Range and Forage Science
 African Journal of Root and Tuber Crops
 African Journal of Science, Technology, Innovation and Development
+Africa Today
 Afrique Science Revue Internationale des Sciences et Technologie
 AgClim Letters
 Agrekon
-Agri Gene
 Agribusiness
-Agricultura Sociedad y Desarrollo
-Agricultura Tropica et Subtropica
 Agricultural Administration
 Agricultural Administration and Extension
 Agricultural and Food Economics
@@ -89,17 +86,19 @@ Agricultural Sciences
 Agricultural Sciences in China
 Agricultural Systems
 Agricultural Water Management
+Agricultura Sociedad y Desarrollo
+Agricultura Tropica et Subtropica
 Agriculture
-Agriculture & Food Security
 Agriculture and Biology Journal of North America
 Agriculture and Food Security
 Agriculture and Human Values
 Agriculture and Natural Resources
-Agriculture Forestry and Fisheries
 Agriculture, Ecosystems and Environment
+Agriculture & Food Security
+Agriculture Forestry and Fisheries
+Agri Gene
 Agritrade
 AGRIVITA Journal of Agricultural Science
-Agro-Science
 Agrociencia
 Agroecology and Sustainable Food Systems
 Agroforestry Systems
@@ -110,6 +109,7 @@ Agronomie Africaine
 Agronomy
 Agronomy for Sustainable Development
 Agronomy Journal
+Agro-Science
 Agrosystems, Geosciences & Environment
 Agrotrópica (Itabuna)
 AIMS Agriculture and Food
@@ -148,9 +148,9 @@ Animal Nutrition and Feed Technology
 Animal Production
 Animal Production Science
 Animal Reproduction Science
+Animals
 Animal Science
 Animal Science Journal
-Animals
 Annales de la Societe Belge de Medecine Tropicale
 Annales des Sciences Agronomiques
 Annals of Agricultural Sciences
@@ -201,22 +201,20 @@ Aquaculture Reports
 Aquaculture Research
 Aquatic Procedia
 Arabian Journal of Geosciences
-Archiv fur Tierzucht
 Archives of Agronomy and Soil Science
 Archives of Animal Nutrition
 Archives of Microbiology
 Archives of Phytopathology and Plant Protection
 Archives of Public Health
 Archives of Virology
+Archiv fur Tierzucht
 Archivos de Zootecnia
 Archivos Latinoamericanos de Nutrición
 Archivos Latinoamericanos de Producción Animal
 Arid Land Research and Management
 Arthropod-Plant Interactions
 ASCOLFI Informa
-Asia Pacific Journal of Anthropology
-Asia Pacific Viewpoint
-Asia-Pacific Journal of Public Health
+Asian-Australasian Journal of Animal Sciences
 Asian Food Science Journal
 Asian Journal of Agricultural Extension, Economics and Sociology
 Asian Journal of Agriculture and Development
@@ -227,7 +225,9 @@ Asian Journal of Crop Science
 Asian Journal of Mycology
 Asian Journal of Water, Environment and Pollution
 Asian Social Science
-Asian-Australasian Journal of Animal Sciences
+Asia Pacific Journal of Anthropology
+Asia-Pacific Journal of Public Health
+Asia Pacific Viewpoint
 Atmosphere
 Atmospheric and Climate Sciences
 Atmospheric Chemistry and Physics
@@ -249,9 +249,8 @@ Banwa
 BBA - General Subjects
 Bean Improvement Cooperative
 Berliner und Münchener Tierärztliche Wochenschrift
-Bio-based and Applied Economics
-Bio-protocol
 Bioagro
+Bio-based and Applied Economics
 Biochar
 Biochemical and Biophysical Research Communications
 Biochemical Journal
@@ -283,6 +282,7 @@ Biomass and Bioenergy
 BioMed Research International
 Biometrics
 Biopreservation and Biobanking
+Bio-protocol
 Bioscience
 BioScience
 Bioscience Horizons
@@ -348,13 +348,12 @@ Bulletin of the Entomological Society of America
 Bulletin of the World Health Organization
 Business and Society
 Business Strategy and Development
-CAB Reviews Perspectives in Agriculture Veterinary Science Nutrition and Natural Resources
 CABI Agriculture and Bioscience
+CAB Reviews Perspectives in Agriculture Veterinary Science Nutrition and Natural Resources
 Cahiers Agricultures
 Cahiers d Outre-Mer
 Caldasia
 Cameroon Journal of Experimental Biology
-Can Tho University Journal of Science
 Canadian Entomologist
 Canadian Journal of Agricultural Economics
 Canadian Journal of Animal Science
@@ -363,6 +362,7 @@ Canadian Journal of Microbiology
 Canadian Journal of Plant Pathology
 Canadian Journal of Plant Science
 Canadian Journal of Zoology
+Can Tho University Journal of Science
 Carbohydrate Polymers
 Carbon Balance and Management
 Carbon Management
@@ -452,10 +452,10 @@ Critical Reviews in Plant Sciences
 Croatian Journal of Food Science and Technology
 Crop and Pasture Science
 Crop Breeding Genetics and Genomics
+Cropp Breeding and Applied Biotechnology
 Crop Protection
 Crop Research
 Crop Science
-Cropp Breeding and Applied Biotechnology
 Cryobiology
 CryoLetters
 Cuadernos de Economía
@@ -472,24 +472,24 @@ Current Opinion in Virology
 Current Plant Biology
 Current Research in Environmental & Applied Mycology
 Current Research in Nutrition and Food Science
+Currents
 Current Science
 Current Zoology
-Currents
 Cytogenetic and Genome Research
 CYTOLOGIA
 Czech Journal of Genetics and Plant Breeding
 Dairy
-Data in Brief
 Database
+Data in Brief
 Dataset Papers in Science
 Deutsche Entomologische Zeitschrift
 Developing Economies
 Development
+Developmental and Comparative Immunology
 Development and Change
 Development in Practice
 Development Policy Review
 Development Southern Africa
-Developmental and Comparative Immunology
 Développement Durable et Territoires
 Dialectical Anthropology
 Disasters
@@ -499,9 +499,9 @@ Diversity and Distributions
 DYNA
 E3S Web of Conferences
 Earth Interactions
+Earth-Science Reviews
 Earth System Science Data
 Earth System Science Data Discussions
-Earth-Science Reviews
 East African Agricultural and Forestry Journal
 East African Medical Journal
 Ecography
@@ -536,8 +536,8 @@ Economics of Disasters and Climate Change
 Ecosistemas
 Ecosphere
 Ecosystem Health
-Ecosystem Services
 Ecosystems
+Ecosystem Services
 Education and Training
 EFSA Journal
 Egyptian Journal of Medical Human Genetics
@@ -561,17 +561,6 @@ Entomologie faunistique - Faunistic Entomology
 Entomophaga
 Entrepreneurship Education and Pedagogy
 Entwicklung und Laendlicher Raum
-Environment and Development Economics
-Environment and History
-Environment and Natural Resources Research
-Environment and Planning D: Society and Space
-Environment and Planning E: Nature and Space
-Environment and Pollution
-Environment and Society
-Environment and Urbanization
-Environment International
-Environment Systems and Decisions
-Environment, Development and Sustainability
 Environmental and Ecological Statistics
 Environmental and Experimental Botany
 Environmental and Resource Economics
@@ -601,6 +590,17 @@ Environmental Science and Policy
 Environmental Science and Pollution Research
 Environmental Systems Research
 Environmental Technology
+Environment and Development Economics
+Environment and History
+Environment and Natural Resources Research
+Environment and Planning D: Society and Space
+Environment and Planning E: Nature and Space
+Environment and Pollution
+Environment and Society
+Environment and Urbanization
+Environment, Development and Sustainability
+Environment International
+Environment Systems and Decisions
 Eos
 Epidemiology and Infection
 Esporo
@@ -661,8 +661,8 @@ Fitosanidad
 Flora
 Florida Entomologist
 FMIS Newsletter
-Food Additives & Contaminants
 Food Additives and Contaminants: Part A: Chemistry, Analysis, Control, Exposure and Risk Assessment
+Food Additives & Contaminants
 Food and Bioprocess Technology
 Food and Chemical Toxicology
 Food and Energy Security
@@ -671,6 +671,7 @@ Food and Nutrition Bulletin
 Food and Nutrition Research
 Food and Nutrition Sciences
 Food and Waterborne Parasitology
+Foodborne Pathogens and Disease
 Food Chain
 Food Chemistry
 Food Chemistry X
@@ -683,20 +684,19 @@ Food Quality and Preference
 Food Research
 Food Research International
 Food Reviews International
+Foods
 Food Science and Human Wellness
 Food Science and Nutrition
 Food Science and Technology International
 Food Security
-Foodborne Pathogens and Disease
-Foods
 Forest and Society
 Forest Ecology and Management
 Forest Policy and Economics
 Forest Research Open Access
-Forest Systems
 Forestry: An International Journal of Forest Research
 Forests
 Forests, Trees and Livelihoods
+Forest Systems
 Frontiers in Agronomy
 Frontiers in Bioengineering and Biotechnology
 Frontiers in Bioscience
@@ -718,16 +718,16 @@ Frontiers in Public Health
 Frontiers in Sustainable Food Systems
 Frontiers in Veterinary Science
 Frontiers in Water
-Fruit, Vegetable and Cereal Science and Biotechnology
 Fruits
+Fruit, Vegetable and Cereal Science and Biotechnology
 Functional and Integrative Genomics
 Functional Foods in Health and Disease
 Functional Plant Biology
 Functional Plant Breeding Journal
 Fungal Biology
 Fungal Ecology
-Future Virology
 Futures
+Future Virology
 G3: Genes | Genomes | Genetics
 Games
 Gates Open Research
@@ -740,9 +740,9 @@ Genes
 Genes and Genomics
 Genes and Immunity
 Genes, Genomes and Genomics
+Genetica
 Genetic Resources
 Genetic Resources and Crop Evolution
-Genetica
 Genetics
 Genetics and Molecular Biology
 Genetics and Molecular Research
@@ -755,13 +755,12 @@ Genome Biology
 Genome Biology and Evolution
 Genome Research
 Genomics
-Geo-Spatial Information Science
-Geo: Geography and Environment
 Geocarto International
 Geochimica et Cosmochimica Acta
 Geoderma
 Geoderma Regional
 Geoforum
+Geo: Geography and Environment
 Geographical Journal
 GeoJournal
 Geomatics, Natural Hazards and Risk
@@ -770,6 +769,7 @@ Geophysical Research Letters
 GeoResJ
 Geoscientific Model Development
 Geospatial Health
+Geo-Spatial Information Science
 Ghana Journal of Agricultural Science
 GI_Forum
 GigaScience
@@ -837,8 +837,6 @@ Immunological Reviews
 Immunology
 Immunology Letters
 Impact Assessment and Project Appraisal
-In Vitro Cellular & Developmental Biology - Plant
-In Vitro Cellular and Developmental Biology - Animal
 Indian Journal of Agricultural Economics
 Indian Journal of Agricultural Research
 Indian Journal of Agricultural Sciences
@@ -865,12 +863,12 @@ Information Technology for Development
 Ingeniería y Región
 Innovative Food Science and Emerging Technologies
 Insect Biochemistry and Molecular Biology
+Insectes Sociaux
 Insect Molecular Biology
+Insects
 Insect Science
 Insect Science and its Application
 Insect Science and Its Application
-Insectes Sociaux
-Insects
 Integrated Pest Management Reviews
 Interbulletin
 International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
@@ -928,12 +926,12 @@ International Journal of Development Research
 International Journal of Disaster Risk Reduction
 International Journal of Ecosystems and Ecology Science (IJEES)
 International Journal of Engineering and Technology
-International Journal of Environment and Sustainable Development
-International Journal of Environment, Workplace and Employment
 International Journal of Environmental and Agriculture Research
 International Journal of Environmental Research and Public Health
 International Journal of Environmental Science and Technology
 International Journal of Environmental Studies
+International Journal of Environment and Sustainable Development
+International Journal of Environment, Workplace and Employment
 International Journal of Epidemiology
 International Journal of Fisheries and Aquatic Studies
 International Journal of Food Engineering
@@ -992,8 +990,8 @@ International Journal of Social Economics
 International Journal of Social Forestry
 International Journal of Soil Science
 International Journal of Sustainable Agricultural Research
-International Journal of Sustainable Development & World Ecology
 International Journal of Sustainable Development and World Ecology
+International Journal of Sustainable Development & World Ecology
 International Journal of Sustainable Society
 International Journal of Systematic and Evolutionary Microbiology
 International Journal of Technology Management and Sustainable Development
@@ -1016,6 +1014,8 @@ International Rice Research Notes
 International Soil and Water Conservation Research
 International Sorghum and Millets Newsletter
 International Tree Crops Journal
+In Vitro Cellular and Developmental Biology - Animal
+In Vitro Cellular & Developmental Biology - Plant
 IOP Conference Series: Earth and Environmental Science
 IOSR Journal of Agriculture and Veterinary Science
 IOSR Journal of Applied Chemistry
@@ -1031,7 +1031,6 @@ Italian Journal of Agronomy
 ITTO Tropical Forest Update
 IWMI-Tata Comment
 IWMI-Tata Water Policy Research Highlight
-J Reprod Fertil
 Jala Puwath
 Japan Agricultural Research Quarterly JARQ
 Japanese Journal of Crop Science
@@ -1051,6 +1050,7 @@ Journal of Agricultural and Environmental Ethics
 Journal of Agricultural and Food Chemistry
 Journal of Agricultural and Food Information
 Journal of Agricultural and Urban Entomology
+Journal of Agricultural, Biological, and Environmental Statistics
 Journal of Agricultural Economics
 Journal of Agricultural Education and Extension
 Journal of Agricultural Engineering
@@ -1061,7 +1061,6 @@ Journal of Agricultural Science
 Journal of Agricultural Science and Technology A
 Journal of Agricultural Science and Technology B
 Journal of Agricultural Studies
-Journal of Agricultural, Biological, and Environmental Statistics
 Journal of Agriculture and Crops
 Journal of Agriculture and Development
 Journal of Agriculture and Ecology Research International
@@ -1075,16 +1074,15 @@ Journal of Agriculture Science and Technology
 Journal of Agromedicine
 Journal of Agronomy
 Journal of Agronomy and Crop Science
-Journal of Animal & Plant Sciences
 Journal of Animal Breeding and Genetics
 Journal of Animal Ecology
 Journal of Animal Physiology and Animal Nutrition
+Journal of Animal & Plant Sciences
 Journal of Animal Production Research
 Journal of Animal Research
 Journal of Animal Science
 Journal of Antimicrobial Chemotherapy
 Journal of AOAC International
-Journal of Applied & Environmental Microbiology
 Journal of Applied Animal Research
 Journal of Applied Animal Welfare Science
 Journal of Applied Aquaculture
@@ -1094,6 +1092,7 @@ Journal of Applied Biotechnology Reports
 Journal of Applied Botany and Food Quality
 Journal of Applied Ecology
 Journal of Applied Entomology
+Journal of Applied & Environmental Microbiology
 Journal of Applied Horticulture
 Journal of Applied Microbiology
 Journal of Applied Phycology
@@ -1153,7 +1152,6 @@ Journal of Entomological Research
 Journal of Entomology
 Journal of Entomology and Nematology
 Journal of Entomology and Zoology Studies
-Journal of Environment and Development
 Journal of Environmental Biology
 Journal of Environmental Economics and Management
 Journal of Environmental Extension
@@ -1164,6 +1162,7 @@ Journal of Environmental Protection
 Journal of Environmental Quality
 Journal of Environmental Science and Engineering
 Journal of Environmental Studies and Sciences
+Journal of Environment and Development
 Journal of Ethnic and Migration Studies
 Journal of Ethnobiology
 Journal of Ethnobiology and Ethnomedicine
@@ -1175,6 +1174,7 @@ Journal of Experimental Botany
 Journal of Fish Biology
 Journal of Fish Diseases
 Journal of Flood Risk Management
+Journal of Food, Agriculture and Environment
 Journal of Food and Nutrition Research
 Journal of Food Composition and Analysis
 Journal of Food Engineering
@@ -1191,7 +1191,6 @@ Journal of Food Science and Engineering
 Journal of Food Science and Technology
 Journal of Food Security
 Journal of Food Technology
-Journal of Food, Agriculture and Environment
 Journal of Forest and Environmental Science
 Journal of Forest and Livelihood
 Journal of Forest Economics
@@ -1206,13 +1205,13 @@ Journal of Genetics
 Journal of Genetics and Genomics
 Journal of Geographical Systems
 Journal of Geophysical Research
-Journal of Geophysical Research Oceans
 Journal of Geophysical Research: Biogeosciences
+Journal of Geophysical Research Oceans
 Journal of Global Health
 Journal of Global Health Reports
 Journal of Great Lakes Research
-Journal of Health & Medical Informatics
 Journal of Health Economics
+Journal of Health & Medical Informatics
 Journal of Health Population and Nutrition
 Journal of Helminthology
 Journal of Heredity
@@ -1232,8 +1231,8 @@ Journal of Infection and Public Health
 Journal of Infectious Diseases
 Journal of Insect Behavior
 Journal of Insect Physiology
-Journal of Insect Science
 Journal of Insects as Food and Feed
+Journal of Insect Science
 Journal of Integrated Pest Management
 Journal of Integrative Agriculture
 Journal of Intelligent and Robotic Systems
@@ -1268,9 +1267,9 @@ Journal of Nepal Agricultural Research Council
 Journal of Neurology
 Journal of New Seeds
 Journal of Nutrition
-Journal of Nutrition & Food Sciences
 Journal of Nutrition and Metabolism
 Journal of Nutrition Education and Behavior
+Journal of Nutrition & Food Sciences
 Journal of Obesity
 Journal of Open Source Software
 Journal of Parasitology
@@ -1290,8 +1289,8 @@ Journal of Plant Genetic Resources
 Journal of Plant Growth Regulation
 Journal of Plant Interactions
 Journal of Plant Nutrition
-Journal of Plant Nutrition (USA)
 Journal of Plant Nutrition and Soil Science
+Journal of Plant Nutrition (USA)
 Journal of Plant Pathology
 Journal of Plant Physiology
 Journal of Plant Protection Research
@@ -1339,10 +1338,10 @@ Journal of the Indian Society of Remote Sensing
 Journal of the Indian Society of Soil Science
 Journal of the Korean Institute of Landscape Architecture
 Journal of The Korean Society of Grassland and Forage Science
+Journal of Thermal Biology
 Journal of the Royal Anthropological Institute
 Journal of the Science of Food and Agriculture
 Journal of the South African Veterinary Association
-Journal of Thermal Biology
 Journal of Translational Medicine
 Journal of Tropical Ecology
 Journal of Tropical Ethnobiology
@@ -1361,20 +1360,20 @@ Journal of Visualized Experiments
 Journal of Water and Climate Change
 Journal of Water and Health
 Journal of Water Law
-Journal of Water Supply: Research and Technology
 Journal of Water, Sanitation and Hygiene for Development
+Journal of Water Supply: Research and Technology
 Journal of Wildlife Diseases
 Journal of Women, Politics and Policy
 Journal of Zhejiang University Science B
 Journal of Zoology
 Journal on Chain and Network Science
+J Reprod Fertil
 Jurnal Manajemen Hutan Tropika
 Kenya Veterinarian
 Kew Bulletin
 Kidney International
 KN - Journal of Cartography and Geographic Information
 Knowledge Management for Development Journal
-La Revue Nouvelle
 Laboratory Animals
 Laboratory Investigation
 Lakes and Reservoirs: Research & Management
@@ -1382,10 +1381,11 @@ Lancet
 Land
 Land Degradation and Development
 Land Economics
-Land Use Policy
 Landscape and Urban Planning
 Landscape Ecology
+Land Use Policy
 Lao Journal of Agriculture and Forestry
+La Revue Nouvelle
 Latin American Research Review
 Legume Research - An International Journal
 Legume Science
@@ -1448,8 +1448,8 @@ Molecular Nutrition & Food Research
 Molecular Phylogenetics and Evolution
 Molecular Plant
 Molecular Plant Breeding
-Molecular Plant Pathology
 Molecular Plant-Microbe Interactions
+Molecular Plant Pathology
 Molecules
 Mountain Research and Development
 mSphere
@@ -1468,18 +1468,18 @@ Natural Product Research
 Natural Resources
 Natural Resources Forum
 Nature
-Nature & Faune
 Nature Biotechnology
 Nature Climate Change
 Nature Communications
 Nature Conservation
 Nature Ecology and Evolution
+Nature & Faune
 Nature Food
 Nature Genetics
 Nature Geoscience
 Nature Plants
-Nature Sustainability
 Natures Sciences Sociétés
+Nature Sustainability
 Nematology
 NeoBiota
 Neotropical Entomology
@@ -1490,8 +1490,8 @@ New Forests
 New Medit
 New Microbes and New Infections
 New Phytologist
-New Zealand Journal of Agricultural Research
 NEWS of National Academy of Sciences of the Republic of Kazakhstan
+New Zealand Journal of Agricultural Research
 Nigeria Agricultural Journal
 Nigerian Food Journal
 Nigerian Journal of Animal Production
@@ -1510,8 +1510,8 @@ Nucleic Acids Research
 Nutrient Cycling in Agroecosystems
 Nutrients
 Nutrition
-Nutrition & Food Science International journal
 Nutrition and Food Science
+Nutrition & Food Science International journal
 Nutrition Journal
 Nutrition Reviews
 OALib Journal
@@ -1590,6 +1590,7 @@ Phytoparasitica
 Phytopathology
 Phytoprotection
 Phytotaxa
+Planta
 Plant and Cell Physiology
 Plant and Soil
 Plant Biology
@@ -1597,6 +1598,7 @@ Plant Biotechnology Journal
 Plant Biotechnology Reports
 Plant Breeding
 Plant Cell
+Plant, Cell and Environment
 Plant Cell Culture & Micropropagation
 Plant Cell Reports
 Plant Cell, Tissue and Organ Culture
@@ -1621,14 +1623,12 @@ Plant Phenomics
 Plant Physiology
 Plant Physiology and Biochemistry
 Plant Production Science
+Plants
 Plant Science
 Plant Signaling & Behavior
 Plant Soil and Environment
-Plant Systematics and Evolution
-Plant, Cell and Environment
-Planta
-Plants
 Plants, People, Planet
+Plant Systematics and Evolution
 Plasmid
 PLoS Biology
 PLoS Medicine
@@ -1652,9 +1652,9 @@ Proceedings
 Proceedings of the ICE - Civil Engineering
 Proceedings of the ICE - Water Management
 Proceedings of the National Academy of Sciences
+Proceedings of the National Academy of Sciences, India Section A: Physical Sciences
 Proceedings of the National Academy of Sciences India Section B Biological Sciences
 Proceedings of the National Academy of Sciences of the United States of America
-Proceedings of the National Academy of Sciences, India Section A: Physical Sciences
 Proceedings of the Nutrition Society
 Proceedings of the Royal Society B: Biological Sciences
 Program: electronic library and information systems
@@ -1684,13 +1684,13 @@ Remote Sensing of Environment
 Renewable Agriculture and Food Systems
 Renewable and Sustainable Energy Reviews
 Renewable Energy
+Reproduction, Fertility and Development
 Reproduction in Domestic Animals
 Reproduction Nutrition Development
-Reproduction, Fertility and Development
 Research Evaluation
 Research Features
-Research in Veterinary Science
 Research Integrity and Peer Review
+Research in Veterinary Science
 Research Journal of Agriculture and Biological Sciences
 Research Journal of Animal Sciences
 Research on Crops
@@ -1698,8 +1698,8 @@ Research Outreach
 Research Policy
 Resource and Energy Economics
 Resources
-Resources Policy
 Resources, Conservation and Recycling
+Resources Policy
 Review of Agricultural and Applied Economics
 Review of Agricultural Economics
 Review of Development Economics
@@ -1740,8 +1740,8 @@ Revista U D C A Actualidad & Divulgación Científica
 Revue Africaine de Santé et de Productions Animales
 Revue canadienne d'évaluation de programme
 Revue d économie du développement
-Revue d'élevage et de médecine vétérinaire des pays tropicaux
 Revue de géographie alpine
+Revue d'élevage et de médecine vétérinaire des pays tropicaux
 Revue de Médecine Vétérinaire
 Revue forestière française
 Revue Française de Gestion
@@ -1783,8 +1783,8 @@ Segurança Alimentar e Nutricional
 Sensing and Instrumentation for Food Quality and Safety
 Sensors
 sherpa romeo journal title
-Silva Fennica
 Silvae Genetica
+Silva Fennica
 SINET Ethiopian Journal of Science
 Singapore Journal of Tropical Geography
 Small Ruminant Research
@@ -1795,8 +1795,8 @@ Social Anthropology
 Social Indicators Research
 Social Sciences
 Society and Natural Resources
-Socio-Ecological Practice Research
 Sociobiology
+Socio-Ecological Practice Research
 SOIL
 Soil and Sediment Contamination
 Soil and Tillage Research
@@ -1869,19 +1869,19 @@ The Journal of Basic & Applied Zoology
 The Journal of Environment & Development
 The Journal of Protozoology
 The Lancet
-The Lancet (North American Edition)
 The Lancet Infectious Diseases
+The Lancet (North American Edition)
 The Lancet Planetary Health
 The News - F.O.P. of IIMI
 The Open Conservation Biology Journal
-The Pakistan Journal of Agricultural Sciences
-The Plant Genome
-The Social Sciences
-The Veterinary Journal
 Theoretical and Applied Climatology
 Theoretical and Applied Genetics
 Theoretical and Experimental Plant Physiology
+The Pakistan Journal of Agricultural Sciences
+The Plant Genome
 Theriogenology
+The Social Sciences
+The Veterinary Journal
 Third World Quarterly
 Ticks and Tick-borne Diseases
 Tissue and Cell
@@ -1951,18 +1951,19 @@ Veterinary Record
 Veterinary Research
 Veterinary Research Communications
 Veterinary World
+Vietnamese Journal of Preventive Medicine
 Vietnam Journal of Agricultural Sciences
 Vietnam Journal of Public Health
-Vietnamese Journal of Preventive Medicine
 Virology
 Virology Journal
+VirusDisease
+Viruses
 Virus Evolution
 Virus Genes
 Virus Research
-VirusDisease
-Viruses
 Waste Management
 Water
+Water, Air, and Soil Pollution
 Water Alternatives
 Water Economics and Policy
 Water Figures
@@ -1979,7 +1980,6 @@ Water Resources Management
 Water Resources Research
 Water SA
 Water Science and Technology: Water Supply
-Water, Air, and Soil Pollution
 Weather and Climate Extremes
 Weather and Forecasting
 Web Ecology
