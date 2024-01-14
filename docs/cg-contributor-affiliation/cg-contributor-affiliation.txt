@@ -8,14 +8,14 @@ Acharya N.G. Ranga Agricultural University
 Addis Ababa Science and Technology University
 Addis Ababa University
 Africa Business Group
+Africa Rice Center
+Africa RISING
 Africa, Caribbean and Pacific Young Professionals' Network
 African Agricultural Technology Foundation
 African Development Bank
 African Plant Nutrition Institute
 African Union
 African Union Interafrican Bureau for Animal Resources
-Africa Rice Center
-Africa RISING
 Aga Khan University
 Agence Française de Développement
 Agence Nationale de l'Aviation Civile et de la Météorologie
@@ -24,9 +24,9 @@ AGRHYMET
 Agribusiness TV
 Agricultural Research Corporation, Sudan
 Agricultural Research Council, South Africa
-Agricultural Research, Education, and Extension Organisation, Iran
 Agricultural Research Institute, Tanzania
 Agricultural Research Organization, Israel
+Agricultural Research, Education, and Extension Organisation, Iran
 Agriculture and Agri-Food Canada
 Agriterra
 Agro-Insight
@@ -211,11 +211,11 @@ Ekiti State University
 Emory University
 Empresa Brasileira de Pesquisa Agropecuária
 Erasmus University
+ETH Zürich
 Ethiopian Agricultural Transformation Agency
 Ethiopian Biodiversity Institute
 Ethiopian Institute of Agricultural Research
 Ethiopian Veterinary Association
-ETH Zürich
 Euro-Mediterranean Center on Climate Change
 European Bioinformatics Institute
 European Commission
@@ -234,18 +234,18 @@ Federal University of Agriculture, Nigeria
 Federal University of Technology, Nigeria
 Florida International University
 Fondazione Edmund Mach
-Food, Agriculture and Natural Resources Policy Analysis Network
 Food and Agriculture Organization of the United Nations
 Food and Environment Research Agency, United Kingdom
+Food, Agriculture and Natural Resources Policy Analysis Network
 Forest Action
-Forestpa
 Forest Research Institute of Malaysia
+Forestpa
 Forschungszentrum Jülich
 Forum for Agricultural Research in Africa
 Fredericton Research and Development Centre
 Freie Universität Berlin
-Friedrich-Loeffler-Institut
 Friedrich Schiller University of Jena
+Friedrich-Loeffler-Institut
 Fujian Agriculture and Forestry University
 Fundación PROINPA
 Gansu Agricultural University
@@ -284,13 +284,13 @@ Humboldt-Universität zu Berlin
 IGAD Sheikh Technical Veterinary School
 Imperial College, London
 Indian Agricultural Research Institute
-Indiana University
 Indian Council of Agricultural Research
 Indian Institute of Chemical Technology
 Indian Institute of Horticultural Research
 Indian Institute of Maize Research
 Indian Institute of Technology
 Indian Veterinary Research Institute
+Indiana University
 Indigenous Partnership for Agrobiodiversity and Food Sovereignty
 Indonesian Institute of Sciences
 Ingénieurs Sans Frontières Cameroun
@@ -298,8 +298,8 @@ Inland Norway University of Applied Sciences
 Inner Mongolia Agricultural University
 Insight Editing London
 Institut d'Economie Rurale, Mali
-Institut de l'Environnement et de Recherches Agricoles, Burkina Faso
 Institut d'Elevage et de Medecine Veterinaire des Pays Tropicaux
+Institut de l'Environnement et de Recherches Agricoles, Burkina Faso
 Institut de Recherche Agricole pour le Développement, Cameroon
 Institut de Recherche Agronomique de Guinée
 Institut de Recherche en Écologie Tropicale, Gabon
@@ -309,6 +309,16 @@ Institut de Recherche pour le Développement, France
 Institut des Régions Arides, Tunisia
 Institut des Sciences Agronomiques du Burundi
 Institut des Sciences Agronomiques du Rwanda
+Institut Facultaire de Science Agronomiques de Yangambi
+Institut National de la Recherche Agronomique du Niger
+Institut National de la Recherche Agronomique, France
+Institut National des Recherches Agricoles du Bénin
+Institut National pour l'Etude et la Recherche Agronomiques
+Institut National pour l'Etude et la Recherche Agronomiques, Democratic Republic of Congo
+Institut Pasteur
+Institut Polytechnique Rural de Formation et de Recherche Appliquée
+Institut Senegalais de Recherches Agricoles
+Institut Togolais de Recherche Agronomique
 Institute for Agricultural and Fisheries Research, Belgium
 Institute for Agricultural Research, Nigeria
 Institute for Development, Ecology, Conservation and Cooperation, Italy
@@ -319,12 +329,6 @@ Institute of Agricultural Research, Nigeria
 Institute of Agricultural Sciences, Switzerland
 Institute of Development Studies, United Kingdom
 Institute of Tropical Medicine, Antwerp
-Institut Facultaire de Science Agronomiques de Yangambi
-Institut National de la Recherche Agronomique du Niger
-Institut National de la Recherche Agronomique, France
-Institut National des Recherches Agricoles du Bénin
-Institut National pour l'Etude et la Recherche Agronomiques
-Institut National pour l'Etude et la Recherche Agronomiques, Democratic Republic of Congo
 Instituto de Investigação Agrária de Moçambique
 Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia
 Instituto de Investigaciones Agropecuarias, Chile
@@ -332,14 +336,10 @@ Instituto de Investigaciones de la Amazonia Peruana
 Instituto de Manejo e Certificação Florestal e Agrícola, Brazil
 Instituto Interamericano de Cooperación para la Agricultura
 Instituto Nacional de Innovación Agraria, Peru
-Instituto Nacional de Investigaciones Agropecuarias, Ecuador
 Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Spain
+Instituto Nacional de Investigaciones Agropecuarias, Ecuador
 Instituto Nacional de Pesquisas da Amazonia, Brazil
 Instituto Nacional de Tecnología Agropecuaria, Argentina
-Institut Pasteur
-Institut Polytechnique Rural de Formation et de Recherche Appliquée
-Institut Senegalais de Recherches Agricoles
-Institut Togolais de Recherche Agronomique
 Inter-American Development Bank
 International Atomic Energy Agency
 International Bamboo and Rattan Organisation
@@ -377,12 +377,12 @@ International Water Management Institute
 Iowa State University
 IPB University
 Iwate Biotechnology Research Center, Japan
+J. Craig Venter Institute
 Jain University
 James Cook University
 James Hutton Institute
 Japan International Research Center for Agricultural Sciences
 Jaramogi Oginga Odinga University of Science and Technology
-J. Craig Venter Institute
 Jimma University
 John Innes Centre, United Kingdom
 Johns Hopkins University
@@ -401,8 +401,8 @@ Kenya Agricultural and Livestock Research Organization
 Kenya Agricultural Research Institute
 Kenya Medical Research Institute
 Kenya Plant Health Inspectorate Services
-Kenyatta University
 Kenya Wildlife Service
+Kenyatta University
 Khon Kaen University
 King Abdullah University of Science and Technology
 King Faisal University
@@ -440,6 +440,7 @@ Louisiana State University
 Lund University
 Lutheran World Relief
 Luxembourg Institute of Science and Technology
+M.S. Swaminathan Research Foundation
 Mae Fah Luang University
 Mahidol University
 Makerere University
@@ -494,7 +495,6 @@ Monash University
 Montana State University
 Montpellier SupAgro
 Mount Kenya University
-M.S. Swaminathan Research Foundation
 MTT Agrifood Research Finland
 Murdoch University
 Museu Paraense Emílio Goeldi, Brazil
@@ -536,31 +536,31 @@ National University of Laos
 National University of Singapore
 National Veterinary Institute, Sweden
 Natural History Museum, United Kingdom
-Naturalis Biodiversity Center, The Netherlands
 Natural Resources Institute
 Natural Resources Institute, Finland
 Natural Resources Institute, United Kingdom
+Naturalis Biodiversity Center, The Netherlands
 Nature Conservancy
 Nelson Mandela Africa Institution of Science and Technology
 Nepal Agricultural Research Council
 Netherlands Development Organisation
 Netherlands Environmental Assessment Agency
 Netherlands Organisation for Scientific Research
-Newcastle University
 New Mexico State University
 New Partnership for Africa's Development
 New York University
 New Zealand Agricultural Greenhouse Gas Research Centre
 New Zealand Institute for Plant and Food Research Limited
+Newcastle University
 Nicaraguan Association for Social Development
 Nitidae
 Njala University
 North Carolina State University
 North Dakota State University
+North-West University
 Northern Arizona University
 Northern Mountainous Agriculture and Forestry Science Institute, Vietnam
 Northwest A&F University
-North-West University
 Norwegian Institute of Bioeconomy Research
 Norwegian University of Life Sciences
 Norwich Research Park
@@ -576,9 +576,9 @@ Oromia Agricultural Research Institute, Ethiopia
 Overseas Development Institute
 Oxfam
 Oxford University
+Pan African University
 Pan-Africa Bean Research Alliance
 Pan-African Farmers' Organization
-Pan African University
 Pandia Consulting
 PBL Netherlands Environmental Assessment Agency
 Peking University
@@ -597,9 +597,9 @@ Princeton University
 Public Health Foundation of India
 Punjab Agricultural University
 Purdue University
+Queen's University Belfast
 Queensland Department of Agriculture and Fisheries
 Queensland University of Technology
-Queen's University Belfast
 Rabobank
 Radboud University Nijmegen
 Rainforest Alliance
@@ -644,8 +644,8 @@ Sierra Leone Agricultural Research Institute
 Silpakorn University
 Silsoe Research Institute
 Sinana Agricultural Research Center, Ethiopia
-Smallholder Dairy Project
 Small Ruminant Collaborative Research Support Programme
+Smallholder Dairy Project
 Smithsonian Conservation Biology Institute
 Smithsonian Institution
 Smithsonian Tropical Research Institute
@@ -654,8 +654,8 @@ Sokoine University of Agriculture
 Sorbonne Université
 South African National Biodiversity Institute
 South Dakota State University
-Southeast Asian Regional Center for Graduate Study and Research in Agriculture
 South Eastern Kenya University
+Southeast Asian Regional Center for Graduate Study and Research in Agriculture
 Southern Africa Root Crops Research Network
 Southern Agricultural Research Institute, Ethiopia
 Southern Cross University
@@ -671,10 +671,10 @@ Sugarcane Research Institute, Tanzania
 Sultan Qaboos University
 Swedish University of Agricultural Sciences
 Swiss College of Agriculture
-Swisscontact
 Swiss Federal Institute of Aquatic Science and Technology
 Swiss Federal Institute of Technology
 Swiss Tropical and Public Health Institute
+Swisscontact
 Syecomp Business Services Ltd
 Syngenta Foundation for Sustainable Agriculture
 Taita Taveta University
@@ -722,10 +722,19 @@ Universidad de Antioquia
 Universidad de Córdoba
 Universidad de Costa Rica
 Universidad de la República, Uruguay
-Universidad del Cauca
 Universidad de los Andes
+Universidad del Cauca
 Universidad del Rosario Bogotá
 Universidad del Valle
+Universidad Nacional Agraria, Nicaragua
+Universidad Nacional Agraria, Peru
+Universidad Nacional Autonoma de Mexico
+Universidad Nacional Autónoma de México
+Universidad Nacional de Colombia
+Universidad Nacional de Córdoba
+Universidad para la Cooperación Internacional
+Universidad Politécnica de Madrid
+Universidad Rey Juan Carlos
 Universidade de Lisboa
 Universidade de São Paulo
 Universidade Eduardo Mondlane
@@ -736,15 +745,6 @@ Universidade Federal de Viçosa
 Universidade Federal do Rio de Janeiro
 Universidade Federal do Rio Grande do Sul
 Universidade Federal Rural de Pernambuco
-Universidad Nacional Agraria, Nicaragua
-Universidad Nacional Agraria, Peru
-Universidad Nacional Autonoma de Mexico
-Universidad Nacional Autónoma de México
-Universidad Nacional de Colombia
-Universidad Nacional de Córdoba
-Universidad para la Cooperación Internacional
-Universidad Politécnica de Madrid
-Universidad Rey Juan Carlos
 Universitat Autònoma de Barcelona
 Universität Hannover
 Universität Hohenheim
@@ -928,8 +928,8 @@ University of Texas
 University of the Free State
 University of the Philippines
 University of the Sunshine Coast
-University of the Western Cape
 University of the West Indies
+University of the Western Cape
 University of the Witwatersrand
 University of Tokyo
 University of Toronto
@@ -980,7 +980,6 @@ Women in Business Development Incorporated
 Women of Uganda Network
 World Agroforestry Centre
 World Bank
-WorldFish
 World Food Programme
 World Health Organization
 World Meteorological Organization
@@ -989,6 +988,7 @@ World Resources Institute
 World Vegetable Center
 World Vision
 World Wide Fund for Nature
+WorldFish
 WRENmedia
 Yabello Pastoral and Dryland Agriculture Research Centre, Ethiopia
 Yale University
