@@ -362,6 +362,17 @@ files = [
 ]
 
 [[package]]
+name = "pyuca"
+version = "1.2"
+description = "a Python implementation of the Unicode Collation Algorithm"
+optional = false
+python-versions = "*"
+files = [
+    {file = "pyuca-1.2-py2.py3-none-any.whl", hash = "sha256:abaa12e1bd2c7c68ca8396ff8383bc0654a739cef3ae68fd7af58bf29af0a91e"},
+    {file = "pyuca-1.2.tar.gz", hash = "sha256:8a382fe74627f08c0d18908c0713ca4a20aad5385f077579e56208beea2893b2"},
+]
+
+[[package]]
 name = "requests"
 version = "2.31.0"
 description = "Python HTTP for Humans."
@@ -478,4 +489,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "f1b8cecabc37f716cc52d66319019dc264bf35f44fb2473ad9cd5867bed832ec"
+content-hash = "7b9b3eef74d555fb55487f6ad503dd60a1fe51f26dd07b6e9254eb93bad2227e"
