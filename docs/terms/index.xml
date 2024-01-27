@@ -170,6 +170,13 @@
       <description></description>
     </item>
     <item>
+      <title>IFPRI publication rank</title>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-publicationRank/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-publicationRank/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>IITA research theme</title>
       <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iitatheme/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
@@ -265,6 +272,13 @@
       <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project identifier</title>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-project/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-project/</guid>
       <description></description>
     </item>
     <item>
