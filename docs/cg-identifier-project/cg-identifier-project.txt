@@ -1,122 +1,122 @@
-IFPRI- Advancing Research on Nutrition and Agriculture (ARENA)
-IFPRI- Africa Region
-IFPRI- Africa Regional Integration and the AfCFTA
-IFPRI- Africa Rising
-IFPRI- African Growth and Development Policy Modeling Consortium (AGRODEP)
-IFPRI- AgGDPplus
-IFPRI- Agricultural Adaptation to Climate Change in Latin America and the Caribbean
-IFPRI- Agricultural Investment Data Analyzer
-IFPRI- Agricultural Transformation and Market Integration
-IFPRI- Agriculture Science and Technology Indicators (ASTI)
-IFPRI- Agriculture, Nutrition, and Gender Linkages (ANGeL)
-IFPRI- Alive and Thrive
-IFPRI- Bangladesh Agricultural Policy Activity
-IFPRI- Bangladesh Policy Research and Strategy Support Program
-IFPRI- Banking and microfinance
-IFPRI- Cash Transfer and Intimate Partner Violence Research Collaborative
-IFPRI- Cereal Systems Initiative for South Asia (CSISA)
-IFPRI- Ceres2030
-IFPRI- China Strategy Support Program
-IFPRI- Communications and Knowledge Management
-IFPRI- Communications and Public Affairs
-IFPRI- Consortium for Scaling-Up Climate Smart Agriculture in South Asia
-IFPRI- COVID-19 Food Trade Policy Tracker
-IFPRI- COVID-19 Measuring Impacts and Prioritizing Policies for Recovery
-IFPRI- COVID-19 Policy Response (CPR) Portal
-IFPRI- DataDENT
-IFPRI- Democratic Republic of the Congo Strategy Support Program
-IFPRI- Developing Local Extension Capacity (DLEC)
-IFPRI- Development Strategies and Governance Unit
-IFPRI- Development Strategy and Governance Division
-IFPRI- Digital Financial Services Adoption
-IFPRI- Director General's Office
-IFPRI- East and Central Asia Office
-IFPRI- Eastern and Southern Africa Office
-IFPRI- Egypt Strategy Support Program
-IFPRI- Environment and Production Technology Division
-IFPRI- Ethiopia Strategy Support Program
-IFPRI- Ethiopian Energy Development Strategy
-IFPRI- Evaluating Impact and Building Capacity (EIBC)
-IFPRI- Experimental games for strengthening collective action
-IFPRI- Family Farming, Regional Markets and Cross-Border Trade Corridors in the Sahel (FARM-TRAC)
-IFPRI- Feed the Future
-IFPRI- Food Industries for People and Planet
-IFPRI- Food Security Portal
-IFPRI- Food Systems for Healthier Diets
-IFPRI- Foresight and Policy Modeling Unit
-IFPRI- Fresh Food Price Analysis in Papua New Guinea
-IFPRI- Gender-Sensitive ROAD to Support Work in Freedom-2
-IFPRI- Gender, Agriculture, and Assets Project (GAAP)
-IFPRI- Gender, Climate Change and Nutrition Integration Initiative (GCAN)
-IFPRI- Ghana Strategy Support Program
-IFPRI- Ghana Tilapia Seed Project (TiSeed)
-IFPRI- Global Futures and Strategic Foresight
-IFPRI- HarvestPlus
-IFPRI- IFPRI-Nexus SAMs
-IFPRI- Impact Evaluation of Integrated Poultry Value Chain and Nutrition Interventions in Burkina Faso
-IFPRI- IMPACT model
-IFPRI- Innovation Policy and Scaling Unit
-IFPRI- InovAgro Project Impact Evaluation
-IFPRI- Integrated Food Policy Research Program
-IFPRI- International Dietary Data Expansion Project (INDDEX)
-IFPRI- Kenya Strategy Support Program
-IFPRI- Land Resource Management for Poverty Reduction
-IFPRI- Latin American and Caribbean Program
-IFPRI- Leveraging Agriculture for Nutrition in South Asia
-IFPRI- Malawi Strategy Support Program
-IFPRI- Markets, Trade, and Institutions Division
-IFPRI- Markets, Trade, and Institutions Unit
-IFPRI- Measuring Cross Border Trade In Africa
-IFPRI- Mozambique Strategy Support Program
-IFPRI- Myanmar Strategy Support Program
-IFPRI- National Agriculture Investment Plans
-IFPRI- Natural Resources and Resilience Unit
-IFPRI- New Delhi Office
-IFPRI- Nigeria Strategy Support Program
-IFPRI- Nudging for Good
-IFPRI- Nutrition, Diets, and Health Unit
-IFPRI- Operational Research for WFP's Food assistance for Assets (FFA) Program in Sri Lanka
-IFPRI- Pakistan Agricultural Capacity Enhancement Program
-IFPRI- Pakistan Strategy Support Program
-IFPRI- Papua New Guinea Food Policy Strengthening
-IFPRI- Partnerships and Opportunities to Strengthen and Harmonize Actions for Nutrition in India (POSHAN)
-IFPRI- Picture-Based Insurance
-IFPRI- Pluralistic Extension System in Malawi
-IFPRI- Policy Reform Initiative Project (PRIP)
-IFPRI- Poverty, Gender, and Inclusion Unit
-IFPRI- Poverty, Health, and Nutrition Division
-IFPRI- Program of Accompanying Research for Agricultural Innovation
-IFPRI- Reaching Smallholder Women
-IFPRI- Regional Strategic Analysis and Knowledge Support System (ReSAKSS)
-IFPRI- Regional Trade and Agricultural Transformation in the Bay of Bengal Countries
-IFPRI- Rural Investment and Policy Analysis (RIAPA) data and modeling system
-IFPRI- Rwanda Strategy Support Program
-IFPRI- Scaling up experiential learning tools for sustainable water governance in India
-IFPRI- South Asia Office
-IFPRI- South Asia Region
-IFPRI- Southern Africa - Towards Inclusive Economic Development (SA-TIED)
-IFPRI- Statistics from Space
-IFPRI- Statistics on Public Expenditures for Economic Development
-IFPRI- Stories of Change in Nutrition
-IFPRI- Strengthen PSNP4 Institutions and Resilience (SPIR), Ethiopia
-IFPRI- Strengthening National Capacities
-IFPRI- Sudan Strategy Support Program
-IFPRI- Systems Transformation
-IFPRI- Systems Transformation - Food and Nutrition Policy
-IFPRI- Systems Transformation - Transformation Strategies
-IFPRI- Tajikistan Evaluation and Analysis Activity
-IFPRI- Targeting and Realigning Agriculture for Improved Nutrition (TRAIN)
-IFPRI- Technical Assistance and Research for Indian Nutrition and Agriculture (TARINA)
-IFPRI- The Water Energy Food Nexus
-IFPRI- Titukulane Project
-IFPRI- Trade Tensions
-IFPRI- Transfer Modality Research Initiative
-IFPRI- Transform Nutrition
-IFPRI- Transform Nutrition West Africa
-IFPRI- Uganda Strategy Support Program
-IFPRI- United Nations Food Systems Summit (UNFSS)
-IFPRI- Urban food systems for better diets, nutrition, and health
-IFPRI- Voice for Change Partnership
-IFPRI- West and Central Africa Office
-IFPRI- Women Improving Nutrition through Group-based Strategies (WINGS)
-IFPRI- Women's Empowerment in Agriculture Index (WEIA)
+IFPRI - Advancing Research on Nutrition and Agriculture (ARENA)
+IFPRI - Africa Region
+IFPRI - Africa Regional Integration and the AfCFTA
+IFPRI - Africa Rising
+IFPRI - African Growth and Development Policy Modeling Consortium (AGRODEP)
+IFPRI - AgGDPplus
+IFPRI - Agricultural Adaptation to Climate Change in Latin America and the Caribbean
+IFPRI - Agricultural Investment Data Analyzer
+IFPRI - Agricultural Transformation and Market Integration
+IFPRI - Agriculture Science and Technology Indicators (ASTI)
+IFPRI - Agriculture, Nutrition, and Gender Linkages (ANGeL)
+IFPRI - Alive and Thrive
+IFPRI - Bangladesh Agricultural Policy Activity
+IFPRI - Bangladesh Policy Research and Strategy Support Program
+IFPRI - Banking and microfinance
+IFPRI - Cash Transfer and Intimate Partner Violence Research Collaborative
+IFPRI - Cereal Systems Initiative for South Asia (CSISA)
+IFPRI - Ceres2030
+IFPRI - China Strategy Support Program
+IFPRI - Communications and Knowledge Management
+IFPRI - Communications and Public Affairs
+IFPRI - Consortium for Scaling-Up Climate Smart Agriculture in South Asia
+IFPRI - COVID-19 Food Trade Policy Tracker
+IFPRI - COVID-19 Measuring Impacts and Prioritizing Policies for Recovery
+IFPRI - COVID-19 Policy Response (CPR) Portal
+IFPRI - DataDENT
+IFPRI - Democratic Republic of the Congo Strategy Support Program
+IFPRI - Developing Local Extension Capacity (DLEC)
+IFPRI - Development Strategies and Governance Unit
+IFPRI - Development Strategy and Governance Division
+IFPRI - Digital Financial Services Adoption
+IFPRI - Director General's Office
+IFPRI - East and Central Asia Office
+IFPRI - Eastern and Southern Africa Office
+IFPRI - Egypt Strategy Support Program
+IFPRI - Environment and Production Technology Division
+IFPRI - Ethiopia Strategy Support Program
+IFPRI - Ethiopian Energy Development Strategy
+IFPRI - Evaluating Impact and Building Capacity (EIBC)
+IFPRI - Experimental games for strengthening collective action
+IFPRI - Family Farming, Regional Markets and Cross-Border Trade Corridors in the Sahel (FARM-TRAC)
+IFPRI - Feed the Future
+IFPRI - Food Industries for People and Planet
+IFPRI - Food Security Portal
+IFPRI - Food Systems for Healthier Diets
+IFPRI - Foresight and Policy Modeling Unit
+IFPRI - Fresh Food Price Analysis in Papua New Guinea
+IFPRI - Gender-Sensitive ROAD to Support Work in Freedom-2
+IFPRI - Gender, Agriculture, and Assets Project (GAAP)
+IFPRI - Gender, Climate Change and Nutrition Integration Initiative (GCAN)
+IFPRI - Ghana Strategy Support Program
+IFPRI - Ghana Tilapia Seed Project (TiSeed)
+IFPRI - Global Futures and Strategic Foresight
+IFPRI - HarvestPlus
+IFPRI - IFPRI-Nexus SAMs
+IFPRI - Impact Evaluation of Integrated Poultry Value Chain and Nutrition Interventions in Burkina Faso
+IFPRI - IMPACT model
+IFPRI - Innovation Policy and Scaling Unit
+IFPRI - InovAgro Project Impact Evaluation
+IFPRI - Integrated Food Policy Research Program
+IFPRI - International Dietary Data Expansion Project (INDDEX)
+IFPRI - Kenya Strategy Support Program
+IFPRI - Land Resource Management for Poverty Reduction
+IFPRI - Latin American and Caribbean Program
+IFPRI - Leveraging Agriculture for Nutrition in South Asia
+IFPRI - Malawi Strategy Support Program
+IFPRI - Markets, Trade, and Institutions Division
+IFPRI - Markets, Trade, and Institutions Unit
+IFPRI - Measuring Cross Border Trade In Africa
+IFPRI - Mozambique Strategy Support Program
+IFPRI - Myanmar Strategy Support Program
+IFPRI - National Agriculture Investment Plans
+IFPRI - Natural Resources and Resilience Unit
+IFPRI - New Delhi Office
+IFPRI - Nigeria Strategy Support Program
+IFPRI - Nudging for Good
+IFPRI - Nutrition, Diets, and Health Unit
+IFPRI - Operational Research for WFP's Food assistance for Assets (FFA) Program in Sri Lanka
+IFPRI - Pakistan Agricultural Capacity Enhancement Program
+IFPRI - Pakistan Strategy Support Program
+IFPRI - Papua New Guinea Food Policy Strengthening
+IFPRI - Partnerships and Opportunities to Strengthen and Harmonize Actions for Nutrition in India (POSHAN)
+IFPRI - Picture-Based Insurance
+IFPRI - Pluralistic Extension System in Malawi
+IFPRI - Policy Reform Initiative Project (PRIP)
+IFPRI - Poverty, Gender, and Inclusion Unit
+IFPRI - Poverty, Health, and Nutrition Division
+IFPRI - Program of Accompanying Research for Agricultural Innovation
+IFPRI - Reaching Smallholder Women
+IFPRI - Regional Strategic Analysis and Knowledge Support System (ReSAKSS)
+IFPRI - Regional Trade and Agricultural Transformation in the Bay of Bengal Countries
+IFPRI - Rural Investment and Policy Analysis (RIAPA) data and modeling system
+IFPRI - Rwanda Strategy Support Program
+IFPRI - Scaling up experiential learning tools for sustainable water governance in India
+IFPRI - South Asia Office
+IFPRI - South Asia Region
+IFPRI - Southern Africa - Towards Inclusive Economic Development (SA-TIED)
+IFPRI - Statistics from Space
+IFPRI - Statistics on Public Expenditures for Economic Development
+IFPRI - Stories of Change in Nutrition
+IFPRI - Strengthen PSNP4 Institutions and Resilience (SPIR), Ethiopia
+IFPRI - Strengthening National Capacities
+IFPRI - Sudan Strategy Support Program
+IFPRI - Systems Transformation
+IFPRI - Systems Transformation - Food and Nutrition Policy
+IFPRI - Systems Transformation - Transformation Strategies
+IFPRI - Tajikistan Evaluation and Analysis Activity
+IFPRI - Targeting and Realigning Agriculture for Improved Nutrition (TRAIN)
+IFPRI - Technical Assistance and Research for Indian Nutrition and Agriculture (TARINA)
+IFPRI - The Water Energy Food Nexus
+IFPRI - Titukulane Project
+IFPRI - Trade Tensions
+IFPRI - Transfer Modality Research Initiative
+IFPRI - Transform Nutrition
+IFPRI - Transform Nutrition West Africa
+IFPRI - Uganda Strategy Support Program
+IFPRI - United Nations Food Systems Summit (UNFSS)
+IFPRI - Urban food systems for better diets, nutrition, and health
+IFPRI - Voice for Change Partnership
+IFPRI - West and Central Africa Office
+IFPRI - Women Improving Nutrition through Group-based Strategies (WINGS)
+IFPRI - Women's Empowerment in Agriculture Index (WEIA)
