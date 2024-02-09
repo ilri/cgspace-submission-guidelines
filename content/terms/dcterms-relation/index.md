@@ -1,5 +1,5 @@
 ---
-title: 'Related reference'
+title: 'Related link'
 field: 'dcterms.relation'
 slug: 'dcterms-relation'
 description: 'A related resource.'
