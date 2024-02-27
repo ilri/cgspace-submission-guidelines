@@ -52,7 +52,6 @@ IFPRI - Ghana Strategy Support Program
 IFPRI - Ghana Tilapia Seed Project (TiSeed)
 IFPRI - Global Futures and Strategic Foresight
 IFPRI - HarvestPlus
-IFPRI - IFPRI-Nexus SAMs
 IFPRI - Impact Evaluation of Integrated Poultry Value Chain and Nutrition Interventions in Burkina Faso
 IFPRI - IMPACT model
 IFPRI - Innovation Policy and Scaling Unit
@@ -72,6 +71,7 @@ IFPRI - Myanmar Strategy Support Program
 IFPRI - National Agriculture Investment Plans
 IFPRI - Natural Resources and Resilience Unit
 IFPRI - New Delhi Office
+IFPRI - Nexus SAMs
 IFPRI - Nigeria Strategy Support Program
 IFPRI - Nudging for Good
 IFPRI - Nutrition, Diets, and Health Unit
