@@ -9,6 +9,7 @@ IFPRI - Agricultural Investment Data Analyzer
 IFPRI - Agricultural Transformation and Market Integration
 IFPRI - Agriculture Science and Technology Indicators (ASTI)
 IFPRI - Agriculture, Nutrition, and Gender Linkages (ANGeL)
+IFPRI - Agrifood System Diagnostics
 IFPRI - Alive and Thrive
 IFPRI - Bangladesh Agricultural Policy Activity
 IFPRI - Bangladesh Policy Research and Strategy Support Program
