@@ -400,13 +400,11 @@ International Bamboo and Rattan Organisation
 International Board for Plant Genetic Resources
 International Center for Agricultural Research in the Dry Areas
 International Center for Tropical Agriculture
-International Centre for Tropical Agriculture
 International Centre of Insect Physiology and Ecology
 International Council for Research in Agroforestry
 International Crops Research Institute for the Semi-Arid Tropics
 International Development Research Centre
 International Fertilizer Development Center
-International Food Policy Research Initiative
 International Food Policy Research Institute
 International Fund for Agricultural Development
 International Institute for Applied Systems Analysis
@@ -425,7 +423,6 @@ International Plant Genetic Resources Institute
 International Plant Nutrition Institute
 International Potato Center
 International Research Institute for Climate and Society
-International Research Institute for Climate and Society, Columbia University
 International Rice Research Institute
 International Service for National Agricultural Research
 International Service for the Acquisition of Agri-biotech Applications AfriCenter
