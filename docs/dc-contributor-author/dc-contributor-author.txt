@@ -251,7 +251,6 @@ Bronsvoort, B.M. de C.
 Brouwer, Inge D.
 Brown, W.C.
 Bryan, Elizabeth
-Bryan, Elizabeth (fix typo in the Controlled Vocabulary)
 Buah, S.S.J.
 Buisson, Marie-Charlotte
 Buitrago, J.A.
@@ -691,7 +690,6 @@ Hoek, Wim van der
 Hoekstra, Dirk
 Hoeschle-Zeledon, Irmgard
 Hoffmann, Vivian
-Hoffmann, Vivian (In vocab list as Hoffmann, V. – please swap for full name. All records correct according to browse by author)
 Holmann, Federico J.
 Holmes, P.H.
 Homann-Kee Tui, Sabine
