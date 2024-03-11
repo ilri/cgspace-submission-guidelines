@@ -35,33 +35,24 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     if args.debug:
         print("> Looking up description")
 
-    url = f"{args.rest_base_url}/registries/schema/{schema}"
+    url = f"{args.rest_base_url}/api/core/metadatafields/search/byFieldName"
+
+    if qualifier:
+        request_params = {"exactName": f"{schema}.{element}.{qualifier}"}
+    else:
+        request_params = {"exactName": f"{schema}.{element}"}
+
     request_headers = {"user-agent": "curl", "Accept": "application/json"}
-    response = requests.get(url, headers=request_headers)
+    response = requests.get(url, headers=request_headers, params=request_params)
 
     if response.from_cache and args.debug:
         sys.stdout.write(Fore.YELLOW + ">> Request in cache.\n" + Fore.RESET)
 
     # Schema exists in the registry (it should if it's in our input form!)
     if response.status_code == 200:
-        if qualifier:
-            # List comprehension to iterate over metadata fields looking for one
-            # matching the one we want, and extracting the description.
-            description = [
-                field["description"]
-                for field in response.json()["metadataFields"]
-                if field["name"] == f"{schema}.{element}.{qualifier}"
-            ]
-        else:
-            description = [
-                field["description"]
-                for field in response.json()["metadataFields"]
-                if field["name"] == f"{schema}.{element}"
-            ]
+        description = response.json()["_embedded"]["metadatafields"][0]["scopeNote"]
 
-    # The list comprehension above yields a list, for example: ['ISBN'], so we
-    # need to get the first element and return that.
-    return description[0]
+    return description
 
 
 def parseInputForm(inputForm):
@@ -274,7 +265,7 @@ parser.add_argument(
     "--rest-base-url",
     help="DSpace REST API base URL.",
     required=False,
-    default="https://cgspace.cgiar.org/rest",
+    default="https://cgspace.cgiar.org/server",
 )
 args = parser.parse_args()
 
