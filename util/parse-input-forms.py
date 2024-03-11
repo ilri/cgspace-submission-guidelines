@@ -5,6 +5,7 @@
 # SPDX-License-Identifier: GPL-3.0-only
 
 import argparse
+import logging
 import os
 import re
 import sys
@@ -16,6 +17,9 @@ import requests
 import requests_cache
 from pyuca import Collator
 from colorama import Fore
+
+# Create a local logger instance
+logger = logging.getLogger(__name__)
 
 
 def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
@@ -32,8 +36,7 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     # prune old cache entries
     requests_cache.delete(expired=True)
 
-    if args.debug:
-        print("> Looking up description")
+    logger.debug("> Looking up description")
 
     url = f"{args.rest_base_url}/api/core/metadatafields/search/byFieldName"
 
@@ -45,8 +48,8 @@ def getFieldDescription(schema: str, element: str, qualifier: str) -> str:
     request_headers = {"user-agent": "curl", "Accept": "application/json"}
     response = requests.get(url, headers=request_headers, params=request_params)
 
-    if response.from_cache and args.debug:
-        sys.stdout.write(Fore.YELLOW + ">> Request in cache.\n" + Fore.RESET)
+    if response.from_cache:
+        logger.debug(f"{Fore.YELLOW}>> Request in cache.{Fore.RESET}")
 
     # Schema exists in the registry (it should if it's in our input form!)
     if response.status_code == 200:
@@ -95,7 +98,7 @@ def parseInputForm(inputForm):
                 metadataField = f"{schema}.{element}"
                 metadataFieldSlug = f"{schema}-{element}"
 
-            print(f"Processing {metadataField}")
+            logger.info(f"Processing {metadataField}")
 
             # Create output directory for term
             outputDirectory = f"content/terms/{metadataFieldSlug}"
@@ -186,8 +189,7 @@ def parseInputForm(inputForm):
 
 
 def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: str):
-    if args.debug:
-        print(f"> Exporting value pairs: {valuePairsName}")
+    logger.debug(f"> Exporting value pairs: {valuePairsName}")
 
     # Create an empty list to hold our value pairs. We will append them here and
     # then deduplicate them.
@@ -210,8 +212,7 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
 
 
 def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
-    if args.debug:
-        print(f"> Exporting controlled vocabulary: {vocabulary}")
+    logger.debug(f"> Exporting controlled vocabulary: {vocabulary}")
 
     # Open the controlled vocabulary file and read all node labels
     controlledVocabularyTree = ET.parse(
@@ -269,20 +270,26 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
+# The default log level is WARNING, but we want to set it to DEBUG or INFO
+if args.debug:
+    logger.setLevel(logging.DEBUG)
+else:
+    logger.setLevel(logging.INFO)
+
+# Set the global log format
+logging.basicConfig(format="[%(levelname)s] %(message)s")
+
 if args.clean:
-    if args.debug:
-        print("Cleaning terms output directory")
+    logger.debug("Cleaning terms output directory")
 
     rmtree("content/terms", ignore_errors=True)
 
-if args.debug:
-    print("Creating terms output directory")
+logger.debug("Creating terms output directory")
 # Make sure content directory exists. This is where we will deposit all the term
 # metadata and controlled vocabularies for Hugo to process.
 os.makedirs("content/terms", mode=0o755, exist_ok=True)
 
-if args.debug:
-    print(f"Opening {args.input_forms.name}")
+logger.debug(f"Opening {args.input_forms.name}")
 
 tree = ET.parse(args.input_forms)
 root = tree.getroot()
