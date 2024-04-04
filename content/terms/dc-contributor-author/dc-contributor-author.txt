@@ -877,7 +877,6 @@ Kobayashi, S.
 Komarudin, H.
 Konradsen, Flemming
 Koo, Jawoo
-Koppen, Barbara C.M. van
 Korie, S.
 Kornegay, Julia L.
 Kosec, Katrina
@@ -1654,6 +1653,7 @@ Valentin, Christian
 Valin, Hugo
 van Asselt, Joanna
 Van Campenhout, Bjorn
+van Koppen, Barbara
 Vanclay, J.K.
 Vanlauwe, Bernard
 Varijakshapanicker, Padmakumar
