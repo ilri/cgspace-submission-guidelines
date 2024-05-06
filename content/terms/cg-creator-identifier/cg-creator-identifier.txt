@@ -1410,7 +1410,7 @@ Edina Metili Mwangi: 0000-0002-7118-8106
 Edmond Totin: 0000-0003-3377-6190
 Edna Mutua: 0000-0002-7511-9116
 Ednah Kangogo: 0000-0003-4513-5075
-Ednaldo Araújo: 0000-0001-8293-0751
+Ednaldo da Silva Araújo: 0000-0001-8293-0751
 Edoardo Borgomeo: 0000-0002-8351-9064
 Edoardo Masset: 0000-0002-8826-0776
 Eduardo Amaral Haddad: 0000-0001-6564-6716
@@ -1786,7 +1786,7 @@ Garima Taneja: 0000-0002-0370-3567
 Garry Peterson: 0000-0003-0173-0112
 Garry Sotnik: 0000-0002-2422-1110
 Gary Atlin: 0000-0003-2203-6576
-Gashaw Tadesse Abate: 0000-0003-2026-8066
+Gashaw T. Abate: 0000-0003-2026-8066
 Gaston AMZATI: 0000-0002-9019-224X
 Gatien Falconnier: 0000-0003-3291-650X
 Gaudiose Mujawamariya: 0000-0003-0087-8529
@@ -1969,7 +1969,7 @@ Hai Hoang Tuan Ngo: 0000-0001-6498-6946
 Hai Ly Hoang: 0000-0002-3266-4712
 Haile Desmae: 0000-0003-2612-9315
 Haile Selassie Okuku: 0000-0002-3077-4432
-Hailemariam Ayalew: 0000-0002-0199-7346
+Hailemariam Ayalew Tiruneh: 0000-0002-0199-7346
 Haileyesus Dejene: 0000-0002-2196-9334
 Haimanot Seifu: 0000-0001-8450-8167
 Hak Lim Lee: 0000-0002-4978-9036
@@ -2339,9 +2339,9 @@ Jaspreet Sandhu: 0000-0001-7863-2532
 Jauhar Ali or A. Jauhar Ali: 0000-0002-3177-2607
 Javier Forment: 0000-0002-1872-4061
 Javier G. P. Gamarra: 0000-0002-1290-9559
-Javier Gonzales-Iwanciw: 0000-0001-6481-6170
 Javier M. Martín-López: 0000-0003-1743-086X
 Javier Mateo-Sagasta: 0000-0003-4526-0140
+Javier P.E. Gonzales-Iwanciw: 0000-0001-6481-6170
 Javier Rinza Díaz: 0000-0001-9320-3146
 Jawoo Koo: 0000-0003-3424-9229
 Jay Cummins: 0000-0001-5811-2599
@@ -2697,7 +2697,7 @@ Jumoke Omoniyi: 0000-0003-4211-0913
 Juneweenex Mbuthia: 0009-0005-2518-1420
 Junhong Qin: 0000-0003-3176-8605
 Junhui Li: 0000-0001-5636-1348
-Junyan: 0000-0001-8879-5466
+Junyan Tian: 0000-0001-8879-5466
 Juraj Balkovic: 0000-0003-2955-4931
 Jürgen Kroschel: 0000-0002-7064-6179
 Justice Issah Musah-Surugu: 0000-0002-3058-169X
@@ -2937,7 +2937,7 @@ Kylee Nielsen: 0000-0002-7654-4632
 L. Richard Little: 0000-0002-5650-7391
 Labisha Uprety: 0000-0002-5248-4698
 Laira Kyazike: 0000-0002-0406-9449
-Laise Rosado de Souza: 0000-0002-6000-771X
+Laise Rosado-Souza: 0000-0002-6000-771X
 Lal Muthuwatta: 0000-0002-5030-6003
 Lalit Kumar: 0000-0002-9205-756X
 Lamin Dibba: 0000-0001-6804-7479
@@ -3030,7 +3030,7 @@ Lewis Machida: 0000-0002-0012-3997
 Leysa Maty Sall: 0000-0001-8047-3614
 Li-Jun Yan: 0000-0003-0887-7571
 Lian Thomas: 0000-0001-8447-1210
-Liana Acevedo-Siaca: 0000-0003-3903-0402
+Liana G. Acevedo-Siaca: 0000-0003-3903-0402
 Liangzhi You: 0000-0001-7930-8814
 Lianqing Li: 0000-0002-0022-1108
 Lienou Jules Appolinaire: 0000-0002-5622-3460
@@ -3065,7 +3065,7 @@ Lisa With: 0000-0002-9916-9767
 Lisa-Maria Rebelo: 0000-0002-8785-7810
 Lise Korsten: 0000-0003-0232-7659
 Lisette Natalia Ramos Abril: 0000-0003-1072-5550
-lisset perez marulanda: 0000-0003-1918-9547
+Lisset Perez-Marulanda: 0000-0003-1918-9547
 Liv Elin Torheim: 0000-0002-3161-1635
 LIVIA STAVOLONE: 0000-0002-0691-1302
 Liwen Zhang: 0000-0002-6510-1545
@@ -3530,7 +3530,6 @@ Md. Abu Jafar Asgar Alam: 0000-0002-6520-4050
 Md. Abul Kalam: 0000-0003-4236-8519
 Md. Al-Hasan: 0000-0002-5037-4436
 Md. Ashraful Haque: 0000-0001-7113-2375
-Md. Azizul Baten: 0000-0001-9786-6369
 Md. Badrul Alam: 0000-0002-7079-4358
 Md. Ehsanul Haque Tamal: 0000-0002-1331-0732
 Md. Harun-Ar-Rashid: 0000-0002-4806-7365
@@ -4336,6 +4335,7 @@ Priyabrata Roy: 0000-0002-0953-6528
 Priyanie Amerasinghe: 0000-0002-3502-8594
 Priyanjana Pramanik: 0000-0001-6299-9241
 Prof. Oliver Wasonga: 0000-0002-5929-6091
+Professor Dr. Md. Azizul Baten: 0000-0001-9786-6369
 Professor James D. Ford: 0000-0002-2066-3456
 Pronob J Paul: 0000-0002-0915-3148
 Prosper HOUESSIONON: 0000-0001-9881-4528
