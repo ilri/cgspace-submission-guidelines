@@ -3629,6 +3629,7 @@ Michael J. Mulvaney: 0000-0002-7947-1467
 Michael Johnson: 0000-0002-8567-2791
 Michael Kanaabi: 0000-0002-8162-6640
 Michael Kantar: 0000-0001-5542-0975
+Michael Keenan: 0000-0001-5191-9146
 Michael Kidoido: 0000-0003-1813-6267
 Michael Kinyua: 0000-0001-6106-3599
 Michael Kreuzer: 0000-0002-9978-1171
