@@ -11,6 +11,7 @@ IFPRI - Agriculture Science and Technology Indicators (ASTI)
 IFPRI - Agriculture, Nutrition, and Gender Linkages (ANGeL)
 IFPRI - Agrifood System Diagnostics
 IFPRI - Alive and Thrive
+IFPRI - Applying New Evidence for Women's Empowerment (ANEW)
 IFPRI - Bangladesh Agricultural Policy Activity
 IFPRI - Bangladesh Policy Research and Strategy Support Program
 IFPRI - Banking and microfinance
@@ -41,6 +42,7 @@ IFPRI - Evaluating Impact and Building Capacity (EIBC)
 IFPRI - Experimental games for strengthening collective action
 IFPRI - Family Farming, Regional Markets and Cross-Border Trade Corridors in the Sahel (FARM-TRAC)
 IFPRI - Feed the Future
+IFPRI - Finance and Administration
 IFPRI - Food Industries for People and Planet
 IFPRI - Food Security Portal
 IFPRI - Food Systems for Healthier Diets
@@ -80,6 +82,7 @@ IFPRI - Operational Research for WFP's Food assistance for Assets (FFA) Program 
 IFPRI - Pakistan Agricultural Capacity Enhancement Program
 IFPRI - Pakistan Strategy Support Program
 IFPRI - Papua New Guinea Food Policy Strengthening
+IFPRI - Papua New Guinea Strategy Support Program
 IFPRI - Partnerships and Opportunities to Strengthen and Harmonize Actions for Nutrition in India (POSHAN)
 IFPRI - Picture-Based Insurance
 IFPRI - Pluralistic Extension System in Malawi
@@ -93,6 +96,7 @@ IFPRI - Regional Trade and Agricultural Transformation in the Bay of Bengal Coun
 IFPRI - Rural Investment and Policy Analysis (RIAPA) data and modeling system
 IFPRI - Rwanda Strategy Support Program
 IFPRI - Scaling up experiential learning tools for sustainable water governance in India
+IFPRI - South Asia Nutrition Knowledge Initiative
 IFPRI - South Asia Office
 IFPRI - South Asia Region
 IFPRI - Southern Africa - Towards Inclusive Economic Development (SA-TIED)
@@ -115,6 +119,7 @@ IFPRI - Transfer Modality Research Initiative
 IFPRI - Transform Nutrition
 IFPRI - Transform Nutrition West Africa
 IFPRI - Uganda Strategy Support Program
+IFPRI - Ultra-Poor graduation in Somalia
 IFPRI - Ultra-Poor Graduation in Somalia
 IFPRI - United Nations Food Systems Summit (UNFSS)
 IFPRI - Urban food systems for better diets, nutrition, and health
