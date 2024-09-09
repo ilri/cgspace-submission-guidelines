@@ -38,7 +38,6 @@ Albert-Ludwigs-Universität Freiburg
 Alemaya University
 Alex Ekwueme Federal University
 Alliance for a Green Revolution in Africa
-Alliance of Bioversity International and CIAT
 Ambo University
 Ambrose Alli University
 Amhara Regional Agricultural Research Institute, Ethiopia
@@ -77,6 +76,7 @@ Bihar Agricultural University
 Bill & Melinda Gates Foundation
 Biodiversity for Food and Nutrition Project, Brazil
 Bioversity International
+Bioversity International and the International Center for Tropical Agriculture
 BlueGreen Labs, Belgium
 Bogor Agricultural University
 Bonga Agricultural Research Center, Ethiopia
