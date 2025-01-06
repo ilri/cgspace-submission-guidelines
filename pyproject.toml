@@ -1,22 +1,33 @@
-[tool.poetry]
+[project]
 name = "cgspace-submission-guidelines"
 version = "0.0.1"
 description = "Generate CGSpace submission guidelines documentation website."
-authors = ["Alan Orth <alan.orth@gmail.com>"]
-license = "GPL-3.0-only"
+authors = [
+    { name = "Alan Orth", email = "git@mjanja.mozmail.com" }
+]
+license= { file = "LICENSE.txt" }
 
-[tool.poetry.dependencies]
-python = "^3.10"
-colorama = "^0.4.6"
-requests = "^2.31.0"
-requests-cache = "^1.1.0"
-pyuca = "^1.2"
+readme = "README.md"
+requires-python = ">=3.10"
 
-[tool.poetry.dev-dependencies]
-black = "^23.3.0"
-isort = "^5.12.0"
-flake8 = "^6.0.0"
+dependencies = [
+    "colorama==0.4.*",
+    "requests==2.31.*",
+    "requests-cache==1.1.*",
+    "pyuca==1.2"
+]
 
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[project.urls]
+repository = "https://github.com/ilri/cgspace-submission-guidelines"
+homepage = "https://github.com/ilri/cgspace-submission-guidelines"
+
+[tool.uv]
+dev-dependencies = [
+    "black==23.3.*",
+    "isort==5.12.*",
+    "flake8==6.0.*"
+]
+
+[tool.isort]
+profile = "black"
+line_length=88
