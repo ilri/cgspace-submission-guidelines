@@ -4,7 +4,9 @@ Abass, A.
 Abate, Gashaw T.
 Abay, Kibrom A.
 Abberton, M.T.
+Abdelaziz, Fatma
 Abdelfattah, Lina Alaaeldin
+Abdelhadi, Ali
 Abdoulaye, Tahirou
 Abdullaev, Iskandar
 Abele, S.
@@ -50,11 +52,13 @@ Alamu, E.O.
 Alarcón, Pablo
 Alderman, Harold
 Alemayehu, N.
+Alemnew, Teklebirhan
 Alemu, Biruk
 Alene, A.
 Alene, Arega D.
 Alene, Temesgen
 Alercia, A.
+Aliev, Jovidon
 Allen IV, James
 Allen, David J.
 Allen, Summer L.
@@ -72,6 +76,7 @@ Ambler, Kate
 Amede, Tilahun
 Amerasinghe, Felix P.
 Amerasinghe, Priyanie H.
+Amewu, Sena
 Amézquita Collazos, Edgar
 Amézquita, María Cristina
 Amin, Md. Wahidul
@@ -106,10 +111,12 @@ Arnaud, Elizabeth
 Arndt, Channing
 Arregocés, Oscar
 Arroyave, José A.
+Asante, Seth
 Asare, R.
 Asfaw, A.
 Asghar, Muhammad Nadeem
 Ashby, J.A.
+Ashurov, Timur
 Asiedu, Robert
 Aslam, M.
 Asse, Rainer
@@ -152,6 +159,7 @@ Ballantyne, Peter G.
 Baltenweck, Isabelle
 Baltodano, Maria Eugenia
 Bamiwuye, Temilolu
+Banda, Chimwemwe
 Bandaragoda, Don Jayatissa
 Bandyopadhyay, Ranajit
 Banerjee, Rupsha R.
@@ -189,6 +197,7 @@ Belton, Ben
 Beltrán Giraldo, Jorge Alonso
 Béné, Christophe
 Benfica, Rui
+Benimana, Gilberthe Uwera
 Benin, S.E.
 Benin, Samuel
 Bergh, I. van den
@@ -239,6 +248,7 @@ Bosque-Pérez, N.A.
 Bossio, Deborah A.
 Botero Botero, Raúl
 Bouët, Antoine
+Bouis, Howarth E.
 Boukaka, Sedi Anne
 Boukar, O.
 Bousquet, Francois
@@ -398,10 +408,12 @@ Dahal, G.R.
 Damtew, Elias
 Dang Xuan Sinh
 Danso, George K.
+Darwish, Maram
 Dashiell, Kenton E.
 David, S.
 Davis, J.H.C.
 Davis, Kristin E.
+Dawoud, Mariam
 de Brauw, Alan
 De Weerdt, Joachim
 Debouck, Daniel G.
@@ -424,11 +436,13 @@ Devaux, A.
 Devendra, C.
 Dewey, C.E.
 Dewi, S.
+Dey, Durjoy
 Diall, O.
 Diao, Xinshen
 Diarra, L.
 Diatta, Ampa Dogui
 Diaw, C.
+Díaz-Bonilla, Eugenio
 Diehl, Katharina E.
 Diels, J.
 Dimaranan, Betina
@@ -477,6 +491,7 @@ East Africa Dairy Development Project
 Eastern Africa Grain Council
 Eba'a Atyi, R.
 Ecker, Olivier
+Edeh, Hyacinth O.
 Edmunds, D.
 Egesi, Chiedozie N.
 Ehui, Simeon K.
@@ -674,8 +689,10 @@ Harvey, Jagger J.W.
 Hasan, Md. Zakiul
 Hash, C.T.
 Häsler, Barbara
+Hassan, Ganna
 Hauser, S.
 Havlík, Petr
+Hazell, Peter B. R.
 Headey, Derek D.
 Heckert, Jessica
 Heist, M. van
@@ -773,6 +790,7 @@ James, B.
 Jamnadass, Ramni H.
 Jarvis, Andy
 Jarvis, D.I.
+Jaskolski, Martina
 Jassogne, Laurence T.P.
 Jat, Mangi L.
 Jayakody, Priyantha
@@ -803,6 +821,7 @@ Kaaria, SK
 Kadian, M.S.
 Kahi, A.K.
 Kaibung'a, Betty Kinya
+Kaibunga, Kinya
 Kaimowitz, D.
 Kaitibie, S.
 Kakuhenzire, R.
@@ -907,6 +926,7 @@ Kroschel, J.
 Kruijssen, Froukje
 Kruska, R.L.
 Kubiriba, J.
+Kufoalor, Doreen S.
 Kulakow, P.A.
 Kumar Burman, Amit
 Kumar Srivastava, Anuj
@@ -1024,6 +1044,7 @@ Mango, Nelson
 Manohar, Swetha
 Manthrithilake, Herath
 Manyong, Victor M.
+Mao, Ruiz
 Mapedza, Everisto
 Mapfumo, Paul
 Mardonova Tolibkhonovna, Mohru
@@ -1049,10 +1070,12 @@ Masso, C.
 Matchaya, Greenwell C.
 Mateo-Sagasta, Javier
 Matsuno, Y.
+Mawia, Harriet
 Mayanja, S.
 Maziya-Dixon, B.
 Mazloum, Alaa
 Mbagurire, Jean Pierre
+Mbuthia, Juneweenex
 McCartney, Matthew P.
 McCornick, Peter G.
 McDermott, John J.
@@ -1115,6 +1138,7 @@ Mtimet, Nadhem
 Mude, Andrew G.
 Mudege, N.N.
 Mudyahoto, Bho
+Mugabo, Serge
 Mugatha, Simon M.
 Muhuwa, Sophie
 Mukangabo, Emerence
@@ -1219,14 +1243,17 @@ Okori, P.
 Okoro, E.
 Okoth, Edward A.
 Okoth, Peter F.
+Olanrewaju, Opeyemi
 Ole-MoiYoi, O.K.
 Olivetti, Elsa B.
 Olney, Deanna K.
+Omamo, Steven Were
 Omoigui, L.O.
 Omokanjuola, Dolapo Natalie
 Omolo, Abisalom
 Omondi, Immaculate A.
 Omore, Amos O.
+Omune, Lensa
 Onilogbo, Omobolanle Nuratu
 Onzo, A.
 Oo, Theingi
@@ -1310,6 +1337,7 @@ Poey Diago, Federico Raúl
 Pokorny, B.
 Polanía Perdomo, José A.
 Poole, Elizabeth J.
+Popoola, Olufemi
 Posadas, A.
 Powell, B.
 Powell, J.M.
@@ -1359,6 +1387,7 @@ Rao, Idupulapati M.
 Rao, K.P.C.
 Rao, Krishna C.
 Rao, P.S.
+Raouf, Mariam
 Rarieya, J.M.
 Raschid-Sally, Liqa
 Rashid, Shahidur
@@ -1470,6 +1499,7 @@ Seymour, Greg
 Shackleton, S.
 Shafique, M. S.
 Shah, Tushaar
+Shaima, Nabila Afrin
 Shamma, Raisa
 Shanley, P.
 Shapiro, Barry I.
@@ -1483,6 +1513,7 @@ Sheil, Douglas
 Shepherd, Keith D.
 Shikuku, K.M.
 Shiwachi, H.
+Shokry, Nada
 Shrestha, P.
 Sibanda, Lindiwe Majele
 Siddig, Khalid
@@ -1544,6 +1575,7 @@ Staver, Charles
 Steeg, Jeannette van de
 Steenhuis, Tammo S.
 Steinaa, Lucilla
+Steinhuebel, Linda
 Stevenson, James R.
 Sthapit, B.R.
 Stirling, Clare M.
@@ -1580,12 +1612,14 @@ Tambet, Heleene
 Tamene, Lulseged
 Tamo, M.
 Tamò, M.
+Tandjigora, Seydou
 Tanner, J.C.
 Tapasco, Jeimar
 Tapio, M.
 Taracha, E.L.N.
 Tarawali, G.
 Tarawali, Shirley A.
+Tarek, Abdallah
 Tauseef, Salauddin
 Tawah, C.L.
 Tchatat, M.
@@ -1600,6 +1634,7 @@ Tenkouano, A.
 Tenywa, M.M.
 Tergas, LE
 Termote, C.
+Tesfaye, Haleluya
 Tesfaye, K.
 Teufel, Nils
 Thenkabail, Prasad S.
@@ -1707,6 +1742,7 @@ Waithaka, M.M.
 Waithanji, Elizabeth M.
 Walton, Jenny
 Wamatu, Jane
+Wang, May
 Wani, S.P.
 Wanyoike, Francis N.
 Wardell, D.A.
@@ -1739,6 +1775,7 @@ Wilson, R.T.
 Winowiecki, Leigh A.
 Woldemeskel, Endalkachew
 Wollenberg, Eva K.
+Wondwosen, Abenezer
 Wong, G.
 Wood, S.
 Woolhouse, M.E.J.
@@ -1760,6 +1797,7 @@ Yami, A.
 Yaninek, J.S.
 Yasabu, Simret
 Yasmi, Y.
+Yassa, Basma
 Yimegnuhal, A.
 Yoder, R.
 You, Liangzhi
@@ -1768,6 +1806,7 @@ Young, J.R.
 Yuliani, L.
 Zaag, P. van der
 Zambrano, Patricia
+Zawadi, Solange
 Zeigler, Robert S.
 Zemadim, Birhanu
 Zerbini, E.
