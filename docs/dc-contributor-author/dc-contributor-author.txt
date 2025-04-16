@@ -100,6 +100,7 @@ Andrieu, Nadine
 Angel, Moira Donahue
 Angelsen, A.
 Anindo, D.O.
+Anowar, Md Sadat
 Anwar, Arif A.
 Aragie, Emerta A.
 Arango, Jacobo
@@ -117,6 +118,7 @@ Arnaud, Elizabeth
 Arndt, Channing
 Arregocés, Oscar
 Arroyave, José A.
+Aryal, Bishal
 Asante, Seth
 Asare, R.
 Asfaw, A.
@@ -300,6 +302,7 @@ Cardoso, Juan Andrés
 Cardwell, K.
 Cardwell, K.F.
 Carey, E.E.
+Carrillo, Lucia
 Carsky, R.
 Carsky, R.J.
 Carter, N.
@@ -431,6 +434,7 @@ Danso, George K.
 Darwish, Maram
 Dashiell, Kenton E.
 David, S.
+Davies, Stephen
 Davis, J.H.C.
 Davis, Kristin E.
 Dawoud, Mariam
@@ -564,6 +568,7 @@ Felde, T. zum
 Ferguson, John E.
 Ferguson, M.
 Ferguson, M.E.
+Ferguson, Nathaniel
 Fernández Rivera, S.
 Fernández, F.O.
 Feron, A.
@@ -615,6 +620,7 @@ García, J.
 Gardiner, Peter R.
 Garrett, K.A.
 Gauchan, D.
+Gaur, Pushkar
 Gautam, Aditi
 Gautam, Madhur
 Gautier, D.
@@ -642,12 +648,14 @@ Gettinby, G.
 Ghebru, Hosaena
 Ghimire, Sita R.
 Ghislain, M.
+Ghostlaw, Julie
 Gianatiempo, Juan Pablo
 Gibson, John P.
 Gichuki, Francis N.
 Gilbert, J.
 Gill, Sitara
 Giller, Ken E.
+Gillespie, Stuart
 Gilligan, Daniel O.
 Giordano, M.
 Giordano, Mark
@@ -739,6 +747,7 @@ Herren, H.R.
 Herrero, Mario
 Hershey, Clair H.
 Hess, HD
+Hettiarachchi, Upeksha
 Hidrobo, Melissa
 Hiernaux, Pierre H.Y.
 Hill, Ruth Vargas
@@ -746,6 +755,7 @@ Hincapié Carvajal, Belisario
 Hirumi, H.
 Hirvonen, Kalle
 Hoanh, Chu Thai
+Hoddinott, John F.
 Hodgkin, T.
 Hoek, Rein van der
 Hoek, Wim van der
@@ -755,6 +765,7 @@ Hoffmann, Vivian
 Holmann, Federico J.
 Holmes, P.H.
 Homann-Kee Tui, Sabine
+Honeycutt, Sydney
 Hoogenboom, Gerrit
 Horst, Walter J.
 Horton, D.
@@ -806,6 +817,7 @@ Iruhiriye, Elyse
 Irvin, A.D.
 Isang Pius, James
 Ishitani, Manabu
+Islam, Mir Raihanul
 Ismail, A.M.
 Ittersum, Martin K. van
 Itty, P.
@@ -849,6 +861,7 @@ Jovanovic, Nina
 Jumaboev, Kahramon
 Jutzi, S.C.
 Kaaria, SK
+Kabir, Razin
 Kadian, M.S.
 Kahi, A.K.
 Kaibung'a, Betty Kinya
@@ -879,6 +892,7 @@ Karachiwalla, Naureen
 Karamura, D.
 Karamura, E.B.
 Karanja, N.
+Karim, Md. Aminul
 Karimov, Akmal
 Kariuki, Juliet B.
 Kariuki, S.
@@ -905,6 +919,7 @@ Kelemu, Segenet
 Keller-Grein, Gerhard
 Kemp, Stephen J.
 Kendenga, Toussaint
+Kennedy, Adam
 Kennedy, G.
 Keraita, Bernard N.
 Kerridge, Peter C.
@@ -912,6 +927,7 @@ Khakimov, Parviz
 Khalili, H.
 Khan, Asraul Hoque
 Khan, M.A.
+Khandaker, Md. Aminul Islam
 Khatri-Chhetri, Arun
 Khoury, Colin K.
 Kiara, Henry K.
@@ -1059,11 +1075,13 @@ MacHugh, Niall D.
 MacMillan, Susan
 Maehl, J.H.H.
 Mafla, G.
+Magalhaes, Marilia
 Magezi, Sylvia Ruhweza
 Mahan, S.M.
 Mahrt, Kristi
 Mahuku, George S.
 Mahungu, N.M.
+Mahzab, Moogdho
 Mainuddin, M.
 Majiwa, P.A.O.
 Makate, Clifton
@@ -1130,7 +1148,7 @@ Meinzen-Dick, Ruth S.
 Mekasha, Yoseph
 Mekonnen, Dawit Kelemework
 Mekonnen, Kindu
-Mekuria, Wolde M.
+Mekuria, Wolde
 Meldrum, G.
 Mena Urbina, Martin A.
 Mendali, Biren
@@ -1218,6 +1236,7 @@ Mwendia, Solomon W.
 Mwongera, Caroline
 Mwungu, Chris Miyinzi
 Myanmar Agriculture Policy Support Activity
+Myers, Emily
 Nabwire, Leocardia
 Naessens, Jan
 Nagda, S.M.
@@ -1226,6 +1245,7 @@ Namara, Regassa E.
 Nantulya, V.M.
 Narayanan, Sudha
 Nasi, Robert
+Natividad, Rowena
 Navarro-Racines, Carlos E.
 Nawir, A.A.
 Naziri, D.
@@ -1265,6 +1285,7 @@ Nsahlai, I.V.
 Nsingo-Kudita, Sakile
 Ntawuruhunga, Pheneas
 Nuhara, Syeda
+Nwabuikwu, Odiche
 Nwagboso, Chibuzo
 Nweke, F.
 Nyamwaro, Sospeter S.
@@ -1352,6 +1373,7 @@ Paul, Birthe K.
 Pauw, Karl
 Pavelic, Paul
 Paz, Cynthia
+Paz, Florencia
 Peacock, C.P.
 Pearson, T.W.
 Peden, Donald G.
@@ -1416,6 +1438,7 @@ Putz, F.E.
 Putzel, L.
 Pypers, Pieter
 Qadir, Manzoor
+Quabili, Wahid
 Quilligan, Emma
 Quintero, Marcela
 Quiros, Carlos
@@ -1429,6 +1452,7 @@ Ragasa, Catherine
 Raghunathan, Kalyani
 Rahman, Md. Mozibar
 Rajiv, Sharanya
+Rakshit, Deboleena
 Ramana Reddy, Y.
 Ramani, Gayathri V.
 Ramírez Villegas, Julián
@@ -1455,6 +1479,7 @@ Reardon, Thomas
 Rebelo, Lisa-Maria
 Recha, John W.M.
 Reddy, B.V.S.
+Redoy, Md.
 Reed, J.D.
 Rege, J.E.O.
 Reid, Robin S.
@@ -1589,6 +1614,7 @@ Silva, Sanjiv de
 Silvestri, Silvia
 Simelton, Elisabeth
 Simfukwe, Ester J.
+Simi, Sonjida Mesket
 Simmons, Robert W.
 Simon, R.
 Sinclair, Fergus L.
@@ -1881,6 +1907,7 @@ Young, J.R.
 Yuliani, L.
 Yusuf, Fouad
 Zaag, P. van der
+Zafar, Sarim
 Zagré, Rock Romaric
 Zaki, Sediqa
 Zambrano, Patricia
