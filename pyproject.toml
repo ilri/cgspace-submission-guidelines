@@ -23,9 +23,9 @@ homepage = "https://github.com/ilri/cgspace-submission-guidelines"
 
 [tool.uv]
 dev-dependencies = [
-    "black==24.10.*",
-    "isort==5.13.*",
-    "flake8==7.1.*"
+    "black==25.1.*",
+    "isort==6.0.*",
+    "flake8==7.3.*"
 ]
 
 [tool.isort]
