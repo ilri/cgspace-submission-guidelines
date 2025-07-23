@@ -6,7 +6,7 @@ publishDir = "docs"
 disablePathToLower = true
 
 [permalinks]
-  terms = "/:slug/"
+  fields = "/:slug/"
 
 [params]
   # Site author

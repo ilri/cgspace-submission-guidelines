@@ -46,28 +46,28 @@
         {{/* is not possible to re-use Hugo's paginate object unless you use */}}
         {{/* the same exact arguments each time.                             */}}
 
-        {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" true }}
+        {{ range where (where site.RegularPages "Type" "fields") "Params.required" "==" true }}
           <a class="btn btn-sm btn-outline-primary m-1" href="#{{ .Params.slug }}">{{ .Params.field }}</a>
         {{ end }}
         </p>
 
-        {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" true }}
+        {{ range where (where site.RegularPages "Type" "fields") "Params.required" "==" true }}
         <div class="col">
-          {{ .Render "term" }}
+          {{ .Render "alan" }}
         </div>
         {{ end }}
 
         <h3 id="optional-metadata">Optional Metadata</h3>
         <p>These fields are optional, but we strongly suggest that you include as many as you can.</p>
         <p>
-        {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" false }}
+        {{ range where (where site.RegularPages "Type" "fields") "Params.required" "==" false }}
           <a class="btn btn-sm btn-outline-primary m-1" href="#{{ .Params.slug }}">{{ .Params.field }}</a>
         {{ end }}
         </p>
 
-        {{ range where (where site.RegularPages "Type" "terms") "Params.required" "==" false }}
+        {{ range where (where site.RegularPages "Type" "fields") "Params.required" "==" false }}
         <div class="col">
-          {{ .Render "term" }}
+          {{ .Render "alan" }}
         </div>
         {{ end }}
         <h2 id="bitstreams">Bitstreams</h2>

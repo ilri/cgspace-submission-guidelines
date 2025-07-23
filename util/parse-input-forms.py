@@ -101,7 +101,7 @@ def parseInputForm(inputForm):
             logger.info(f"Processing {metadataField}")
 
             # Create output directory for term
-            outputDirectory = f"content/terms/{metadataFieldSlug}"
+            outputDirectory = f"content/fields/{metadataFieldSlug}"
             os.makedirs(outputDirectory, mode=0o755, exist_ok=True)
 
             repeatable = field.find("./repeatable").text
@@ -184,7 +184,7 @@ def parseInputForm(inputForm):
             indexLines.append("date: '2019-05-04T00:00:00+00:00'\n")
             indexLines.append("---")
 
-            with open(f"content/terms/{metadataFieldSlug}/index.md", "w") as f:
+            with open(f"content/fields/{metadataFieldSlug}/index.md", "w") as f:
                 f.writelines(indexLines)
 
 
@@ -206,7 +206,7 @@ def exportValuePairs(inputFormsXmlRoot, valuePairsName: str, metadataFieldSlug: 
     valuePairs.sort()
 
     # Write value pairs to a text file
-    with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
+    with open(f"content/fields/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         for value in valuePairs:
             f.write(f"{value}\n")
 
@@ -229,7 +229,7 @@ def exportControlledVocabularies(vocabulary: str, metadataFieldSlug: str):
     # Sort the list using a UTF-8 locale so we can handle diacritics properly
     # See: https://stackoverflow.com/questions/1097908/how-do-i-sort-unicode-strings-alphabetically-in-python
     c = Collator()
-    with open(f"content/terms/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
+    with open(f"content/fields/{metadataFieldSlug}/{metadataFieldSlug}.txt", "w") as f:
         for value in sorted(controlledVocabularyLines, key=c.sort_key):
             f.write(f"{value}\n")
 
@@ -280,14 +280,14 @@ else:
 logging.basicConfig(format="[%(levelname)s] %(message)s")
 
 if args.clean:
-    logger.debug("Cleaning terms output directory")
+    logger.debug("Cleaning fields output directory")
 
-    rmtree("content/terms", ignore_errors=True)
+    rmtree("content/fields", ignore_errors=True)
 
-logger.debug("Creating terms output directory")
+logger.debug("Creating fields output directory")
 # Make sure content directory exists. This is where we will deposit all the term
 # metadata and controlled vocabularies for Hugo to process.
-os.makedirs("content/terms", mode=0o755, exist_ok=True)
+os.makedirs("content/fields", mode=0o755, exist_ok=True)
 
 logger.debug(f"Opening {args.input_forms.name}")
 
