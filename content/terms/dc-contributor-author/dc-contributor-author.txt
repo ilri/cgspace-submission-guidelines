@@ -32,6 +32,7 @@ Africa Rice Center
 Agaba, Morris
 Aggarwal, Pramod K.
 Agricultural Water Solutions Project
+Agyekumhene, Christopher
 Agyemang, K.
 Ahmad, Mobin-ud-Din
 Ahmed, Akhter
@@ -78,6 +79,7 @@ Amarasinghe, Upali A.
 Amare, Mulubrhan
 Amarnath, Giriraj
 Ambler, Kate
+Amdar, Nafn
 Amede, Tilahun
 Amerasinghe, Felix P.
 Amerasinghe, Priyanie H.
@@ -124,6 +126,7 @@ Asare, R.
 Asfaw, A.
 Asghar, Muhammad Nadeem
 Ashby, J.A.
+Ashraf, Muhammad
 Ashurov, Timur
 Asiedu, Robert
 Aslam, M.
@@ -558,6 +561,7 @@ Falck-Zepeda, José B.
 Falk, Thomas
 Fall, Abdou
 Fall, Talla
+Fanaian, Safa
 Farrow, Andrew
 Fasoranti, Adetunji
 Fatokun, C.A.
@@ -748,6 +752,7 @@ Herrero, Mario
 Hershey, Clair H.
 Hess, HD
 Hettiarachchi, Upeksha
+Hewageegana, Kanishka
 Hidrobo, Melissa
 Hiernaux, Pierre H.Y.
 Hill, Ruth Vargas
@@ -845,6 +850,7 @@ Jinapala, K.
 Jobre, Y.
 Joffre, Olivier M.
 Jogo, W.
+John, Simaika
 Johnson, Nancy L.
 Johnson, S.H.
 Johnston, Robyn M.
@@ -1087,6 +1093,7 @@ Majiwa, P.A.O.
 Makate, Clifton
 Makin, Ian W.
 Makita, K.
+Makonnen, Brook T.
 Makumbi, Dan
 Malapit, Hazel J.
 Malik, Ravinder Paul Singh
@@ -1171,6 +1178,7 @@ Minten, Bart
 Mirkena, T.
 Misenga, Lilas
 Mishra, Abhijeet
+Mishra, Anuj
 Mishra, Bhumika
 Misra, Rewa S.
 Missohou, Ayao
@@ -1417,6 +1425,7 @@ Popoola, Olufemi
 Posadas, A.
 Powell, B.
 Powell, J.M.
+Prabhath, Thilina
 Prabhu, R.
 Pradesha, Angga
 Pradhan, Mamata
@@ -1722,6 +1731,7 @@ Tebug, Stanly Fon
 Technical Centre for Agricultural and Rural Cooperation
 Tedla, A.
 Tegegne, Azage
+Tegegne, Desalegn
 Tembely, S.
 Tenkouano, A.
 Tenywa, M.M.
@@ -1862,6 +1872,7 @@ White, D.
 White, Jeffrey W.
 Whitelaw, D.D.
 Wichelns, Dennis
+Wickramaratne, Chaturangi
 Wiebe, Keith D.
 Wieland, Barbara
 Wijaya, A.
@@ -1907,6 +1918,7 @@ Young, J.R.
 Yuliani, L.
 Yusuf, Fouad
 Zaag, P. van der
+Zafar, Haseeb
 Zafar, Sarim
 Zagré, Rock Romaric
 Zaki, Sediqa
