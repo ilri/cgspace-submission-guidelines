@@ -324,32 +324,26 @@ Center for International Forestry Research
 Centre Technique de Coopération Agricole et Rurale
 Cerutti, P.O.
 CGIAR
+CGIAR Accelerator on Capacity Sharing
+CGIAR Accelerator on Digital Transformation
+CGIAR Accelerator on Gender Equality and Inclusion
 CGIAR Alliance Office
-CGIAR Better Diets and Nutrition Science Program
-CGIAR Breeding for Tomorrow Science Program
-CGIAR Capacity Sharing Accelerator
 CGIAR Center Directors Committee
 CGIAR Challenge Program on Water and Food
-CGIAR Climate Action Science Program
 CGIAR Consortium Board
 CGIAR Consortium Office
-CGIAR Digital Transformation Accelerator
 CGIAR Finance Committee
-CGIAR Food Frontiers and Security Science Program
 CGIAR Fund Council
 CGIAR Fund Office
 CGIAR Gender and Diversity Program
-CGIAR Gender Equality and Inclusion Accelerator
-CGIAR Genebanks Science Program
 CGIAR Genetic Resources Policy Committee
 CGIAR Independent Evaluation Arrangement
 CGIAR Independent Science and Partnership Council
 CGIAR Interim Science Council
-CGIAR Multifunctional Landscapes Science Program
 CGIAR Oversight Committee
 CGIAR Platform for Big Data in Agriculture
-CGIAR Policy Innovations Science Program
 CGIAR Private Sector Committee
+CGIAR Program on Scaling for Impact
 CGIAR Research Program on Agriculture for Nutrition and Health
 CGIAR Research Program on Climate Change, Agriculture and Food Security
 CGIAR Research Program on Dryland Systems
@@ -362,11 +356,17 @@ CGIAR Research Program on Rice
 CGIAR Research Program on Roots, Tubers and Bananas
 CGIAR Research Program on Water, Land and Ecosystems
 CGIAR Research Program on Wheat
-CGIAR Scaling for Impact Program
 CGIAR Science Council
+CGIAR Science Program on Better Diets and Nutrition
+CGIAR Science Program on Breeding for Tomorrow
+CGIAR Science Program on Climate Action
+CGIAR Science Program on Food Frontiers and Security
+CGIAR Science Program on Genebanks
+CGIAR Science Program on Multifunctional Landscapes
+CGIAR Science Program on Policy Innovations
+CGIAR Science Program on Sustainable Animal and Aquatic Foods
+CGIAR Science Program on Sustainable Farming
 CGIAR Secretariat
-CGIAR Sustainable Animal and Aquatic Foods Science Program
-CGIAR Sustainable Farming Science Program
 CGIAR System Management Office
 CGIAR Systemwide Program on Participatory Research and Gender Analysis for Technology Development and Institutional Innovation
 CGIAR Technical Advisory Committee

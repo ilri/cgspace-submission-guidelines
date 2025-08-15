@@ -17,15 +17,11 @@ Center for International Forestry Research
 Centre de coopération internationale en recherche agronomique pour le développement
 Centro Agronómico Tropical de Investigación y Enseñanza
 CGIAR
-CGIAR Better Diets and Nutrition Science Program
-CGIAR Breeding for Tomorrow and Genebanks Science Program
-CGIAR Capacity Sharing Accelerator
-CGIAR Climate Action Science Program
-CGIAR Digital Transformation Accelerator
+CGIAR Accelerator on Capacity Sharing
+CGIAR Accelerator on Digital Transformation
+CGIAR Accelerator on Gender Equality and Inclusion
 CGIAR Evaluation Function
 CGIAR FOCUS Climate Security
-CGIAR Food Frontiers and Security Science Program
-CGIAR Gender Equality and Inclusion Accelerator
 CGIAR GENDER Impact Platform
 CGIAR Impact Platform on Climate Change
 CGIAR Impact Platform on Environmental Health and Biodiversity
@@ -66,19 +62,24 @@ CGIAR Initiative on Sustainable Animal Productivity
 CGIAR Initiative on Sustainable Healthy Diets
 CGIAR Initiative on Transforming Agrifood Systems in South Asia
 CGIAR Initiative on West and Central African Food Systems Transformation
-CGIAR Multifunctional Landscapes Science Program
-CGIAR Policy Innovations Science Program
+CGIAR Program on Scaling for Impact
 CGIAR Research Program on Climate Change, Agriculture and Food Security
 CGIAR Research Program on Dryland Systems
 CGIAR Research Program on Forests, Trees and Agroforestry
 CGIAR Research Program on Livestock
 CGIAR Research Program on Roots, Tubers and Bananas
 CGIAR Research Program on Water, Land and Ecosystems
-CGIAR Scaling for Impact Program
+CGIAR Science Program on Better Diets and Nutrition
+CGIAR Science Program on Breeding for Tomorrow
+CGIAR Science Program on Climate Action
+CGIAR Science Program on Food Frontiers and Security
+CGIAR Science Program on Genebanks
+CGIAR Science Program on Multifunctional Landscapes
+CGIAR Science Program on Policy Innovations
+CGIAR Science Program on Sustainable Animal and Aquatic Foods
+CGIAR Science Program on Sustainable Farming
 CGIAR Secretariat
 CGIAR Standing Panel on Impact Assessment
-CGIAR Sustainable Animal and Aquatic Foods Science Program
-CGIAR Sustainable Farming Science Program
 CGIAR System Organization
 CIFOR-ICRAF
 CONDESAN

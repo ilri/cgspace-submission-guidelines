@@ -116,21 +116,17 @@ Centre Suisse de Recherches Scientifiques en Côte d'Ivoire
 Centro Agronómico Tropical de Investigación y Enseñanza
 Centro de Investigaciones Amazónicas Macagual, Colombia
 CGIAR
-CGIAR Better Diets and Nutrition Science Program
-CGIAR Breeding for Tomorrow and Genebanks Science Program
-CGIAR Capacity Sharing Accelerator
+CGIAR Accelerator on Capacity Sharing
+CGIAR Accelerator on Digital Transformation
+CGIAR Accelerator on Gender Equality and Inclusion
 CGIAR Challenge Program on Water and Food
-CGIAR Climate Action Science Program
 CGIAR Consortium
 CGIAR Consortium Board
 CGIAR Consortium Office
-CGIAR Digital Transformation Accelerator
 CGIAR Excellence in Breeding Platform
 CGIAR FOCUS Climate Security
-CGIAR Food Frontiers and Security Science Program
 CGIAR Fund Office
 CGIAR Gender and Diversity Program
-CGIAR Gender Equality and Inclusion Accelerator
 CGIAR GENDER Impact Platform
 CGIAR GENDER Platform
 CGIAR Genebank Platform
@@ -175,9 +171,8 @@ CGIAR Initiative on Sustainable Animal Productivity
 CGIAR Initiative on Sustainable Healthy Diets
 CGIAR Initiative on Transforming Agrifood Systems in South Asia
 CGIAR Initiative on West and Central African Food Systems Transformation
-CGIAR Multifunctional Landscapes Science Program
 CGIAR Platform for Big Data in Agriculture
-CGIAR Policy Innovations Science Program
+CGIAR Program on Scaling for Impact
 CGIAR Research Program for Managing and Sustaining Crop Collections
 CGIAR Research Program on Agriculture for Nutrition and Health
 CGIAR Research Program on Aquatic Agricultural Systems
@@ -198,12 +193,18 @@ CGIAR Research Program on Rice
 CGIAR Research Program on Roots, Tubers and Bananas
 CGIAR Research Program on Water, Land and Ecosystems
 CGIAR Research Program on Wheat
-CGIAR Scaling for Impact Program
 CGIAR Science Council
+CGIAR Science Program on Better Diets and Nutrition
+CGIAR Science Program on Breeding for Tomorrow
+CGIAR Science Program on Climate Action
+CGIAR Science Program on Food Frontiers and Security
+CGIAR Science Program on Genebanks
+CGIAR Science Program on Multifunctional Landscapes
+CGIAR Science Program on Policy Innovations
+CGIAR Science Program on Sustainable Animal and Aquatic Foods
+CGIAR Science Program on Sustainable Farming
 CGIAR Secretariat
 CGIAR Standing Panel on Impact Assessment
-CGIAR Sustainable Animal and Aquatic Foods Science Program
-CGIAR Sustainable Farming Science Program
 CGIAR System Management Office
 CGIAR System Organization
 CGIAR System-wide Genetic Resources Programme
