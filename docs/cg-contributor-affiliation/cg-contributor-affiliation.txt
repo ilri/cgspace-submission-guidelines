@@ -51,7 +51,6 @@ Asian Vegetable Research and Development Center
 Asociación para la Diversificación y el Desarrollo Agrícola Comunal
 Asociación Regional Campesina Ch'orti'
 Assam Agricultural University
-Association for Strengthening Agricultural Research in East and Central Africa
 Association for Strengthening Agricultural Research in Eastern and Central Africa
 Association les Amis de Capte Tunisie
 Association Malienne d'Éveil au Développement Durable
@@ -540,7 +539,6 @@ Ministry of Agriculture, Animal Industry and Fisheries, Uganda
 Ministry of Agriculture, Ethiopia
 Ministry of Agriculture, Livestock and Fisheries, Kenya
 Ministry of Agriculture, Livestock and Fisheries, Tanzania
-Ministry of Agriculture, Livestock, Fisheries and Co-operatives, Kenya
 Ministry of Agriculture, Livestock, Fisheries and Cooperatives, Kenya
 Ministry of Agriculture, Livestock, Fisheries and Irrigation, Kenya
 Ministry of Agriculture, Water Resources and Fisheries, Directorate General of Planning and Conservation of Agricultural Land
