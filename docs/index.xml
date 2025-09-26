@@ -2,437 +2,437 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CGSpace Submission Guidelines</title>
-    <link>http://localhost:1313/cgspace-submission-guidelines/</link>
+    <link>https://ilri.github.io/cgspace-submission-guidelines/</link>
     <description>Recent content on CGSpace Submission Guidelines</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cgspace-submission-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilri.github.io/cgspace-submission-guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abstract</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-abstract/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-abstract/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-abstract/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-abstract/</guid>
       <description></description>
     </item>
     <item>
       <title>Access rights (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-accessRights/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessRights/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-accessRights/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-accessRights/</guid>
       <description></description>
     </item>
     <item>
       <title>AGROVOC Keywords</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-subject/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-subject/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-subject/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-subject/</guid>
       <description></description>
     </item>
     <item>
       <title>Alliance of Bioversity and CIAT subject</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-alliancebiovciat/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-alliancebiovciat/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-alliancebiovciat/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-alliancebiovciat/</guid>
       <description></description>
     </item>
     <item>
       <title>Animal breed</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-species-breed/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-species-breed/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-species-breed/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-species-breed/</guid>
       <description></description>
     </item>
     <item>
       <title>Author affiliations</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-affiliation/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-affiliation/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-affiliation/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-affiliation/</guid>
       <description></description>
     </item>
     <item>
       <title>Author ORCID identifiers</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-creator-identifier/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-creator-identifier/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-creator-identifier/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-creator-identifier/</guid>
       <description></description>
     </item>
     <item>
       <title>Authors (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dc-contributor-author/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dc-contributor-author/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dc-contributor-author/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dc-contributor-author/</guid>
       <description></description>
     </item>
     <item>
       <title>Authorship types</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-authorship-types/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-authorship-types/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-authorship-types/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-authorship-types/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Action Areas</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-actionArea/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionArea/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-actionArea/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-actionArea/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Impact Areas</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-impactArea/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactArea/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-impactArea/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactArea/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Impact Platforms</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-impactPlatform/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactPlatform/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-impactPlatform/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-impactPlatform/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Initiatives</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-initiative/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-initiative/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-initiative/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-initiative/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Programs and Accelerators</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-programAccelerator/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-programAccelerator/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-programAccelerator/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-programAccelerator/</guid>
       <description></description>
     </item>
     <item>
       <title>CGIAR Research Programs and Platforms (2012–2021)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-crp/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-crp/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-crp/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-crp/</guid>
       <description></description>
     </item>
     <item>
       <title>CIP subject</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-cip/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-cip/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-cip/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-cip/</guid>
       <description></description>
     </item>
     <item>
       <title>Citation (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-bibliographicCitation/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographicCitation/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-bibliographicCitation/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-bibliographicCitation/</guid>
       <description></description>
     </item>
     <item>
       <title>Country</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-country/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-country/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-country/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-country/</guid>
       <description></description>
     </item>
     <item>
       <title>Date of online publication</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-available/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-available/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-available/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-available/</guid>
       <description></description>
     </item>
     <item>
       <title>Date of publication (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-issued/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-issued/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-issued/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-issued/</guid>
       <description></description>
     </item>
     <item>
       <title>Document Object Identifier (DOI)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-doi/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-doi/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-doi/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-doi/</guid>
       <description></description>
     </item>
     <item>
       <title>Edition</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-edition/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-edition/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-edition/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-edition/</guid>
       <description></description>
     </item>
     <item>
       <title>External URL</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-url/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-url/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-url/</guid>
       <description></description>
     </item>
     <item>
       <title>Grey Literature</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-howPublished/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-howPublished/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-howPublished/</guid>
       <description></description>
     </item>
     <item>
       <title>IFPRI publication rank</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-publicationRank/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-publicationRank/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-publicationRank/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-publicationRank/</guid>
       <description></description>
     </item>
     <item>
       <title>IITA research theme</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-iitatheme/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iitatheme/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-iitatheme/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iitatheme/</guid>
       <description></description>
     </item>
     <item>
       <title>IITA subject</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-iita/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-iita/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-iita/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-iita/</guid>
       <description></description>
     </item>
     <item>
       <title>ILRI subject</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-ilri/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-ilri/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-ilri/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-ilri/</guid>
       <description></description>
     </item>
     <item>
       <title>ISBN</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-isbn/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-isbn/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-isbn/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-isbn/</guid>
       <description></description>
     </item>
     <item>
       <title>ISSN</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-issn/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-issn/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-issn/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-issn/</guid>
       <description></description>
     </item>
     <item>
       <title>IWMI Library ID</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-iwmilibrary/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal Issue</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-issue/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-issue/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-issue/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-issue/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal Status</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-isijournal/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-isijournal/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-isijournal/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-isijournal/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal Title</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-journal/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-journal/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-journal/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal Volume</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-volume/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-volume/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-volume/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-volume/</guid>
       <description></description>
     </item>
     <item>
       <title>Language</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-language/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-language/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-language/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-language/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-description/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-description/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-description/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-description/</guid>
       <description></description>
     </item>
     <item>
       <title>Other Titles</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-alternative/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-alternative/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-alternative/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-alternative/</guid>
       <description></description>
     </item>
     <item>
       <title>Pagination</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-extent/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-extent/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-extent/</guid>
       <description></description>
     </item>
     <item>
       <title>Project identifier</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-project/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-project/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-project/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-project/</guid>
       <description></description>
     </item>
     <item>
       <title>Publication place</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-place/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-place/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-place/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-place/</guid>
       <description></description>
     </item>
     <item>
       <title>Publisher</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-publisher/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-publisher/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-publisher/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-publisher/</guid>
       <description></description>
     </item>
     <item>
       <title>Region</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-region/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-region/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-region/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-region/</guid>
       <description></description>
     </item>
     <item>
       <title>Related audio</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-link-audio/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-link-audio/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-link-audio/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-link-audio/</guid>
       <description></description>
     </item>
     <item>
       <title>Related citation</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-link-citation/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-link-citation/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-link-citation/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-link-citation/</guid>
       <description></description>
     </item>
     <item>
       <title>Related link</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-relation/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-relation/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-relation/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-relation/</guid>
       <description></description>
     </item>
     <item>
       <title>Related photo</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-link-photo/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-link-photo/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-link-photo/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-link-photo/</guid>
       <description></description>
     </item>
     <item>
       <title>Related video</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-link-video/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-link-video/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-link-video/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-link-video/</guid>
       <description></description>
     </item>
     <item>
       <title>Review Status</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-reviewStatus/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-reviewStatus/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-reviewStatus/</guid>
       <description></description>
     </item>
     <item>
       <title>River basin</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-river-basin/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-river-basin/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-river-basin/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-river-basin/</guid>
       <description></description>
     </item>
     <item>
       <title>Series/Report Name</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-isPartOf/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-isPartOf/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-isPartOf/</guid>
       <description></description>
     </item>
     <item>
       <title>Series/Report No.</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-number/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-number/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-number/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-number/</guid>
       <description></description>
     </item>
     <item>
       <title>Species</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-species/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-species/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-species/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-species/</guid>
       <description></description>
     </item>
     <item>
       <title>Sponsor</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-donor/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-donor/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-contributor-donor/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-contributor-donor/</guid>
       <description></description>
     </item>
     <item>
       <title>Subregion</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-subregion/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-subregion/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-coverage-subregion/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-coverage-subregion/</guid>
       <description></description>
     </item>
     <item>
       <title>Target audience</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-audience/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-audience/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-audience/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-audience/</guid>
       <description></description>
     </item>
     <item>
       <title>Title (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dc-title/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dc-title/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dc-title/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dc-title/</guid>
       <description></description>
     </item>
     <item>
       <title>Type</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-type/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-type/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-type/</guid>
       <description></description>
     </item>
     <item>
       <title>UN Sustainable Development Goals (SDGs)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-subject-sdg/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-sdg/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-subject-sdg/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-subject-sdg/</guid>
       <description></description>
     </item>
     <item>
       <title>URL for related data file</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-dataurl/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-dataurl/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/cg-identifier-dataurl/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/cg-identifier-dataurl/</guid>
       <description></description>
     </item>
     <item>
       <title>Usage rights (required)</title>
-      <link>http://localhost:1313/cgspace-submission-guidelines/dcterms-license/</link>
+      <link>https://ilri.github.io/cgspace-submission-guidelines/dcterms-license/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cgspace-submission-guidelines/dcterms-license/</guid>
+      <guid>https://ilri.github.io/cgspace-submission-guidelines/dcterms-license/</guid>
       <description></description>
     </item>
   </channel>
