@@ -18,6 +18,7 @@ Achdiawan, R.
 Achicanoy, Harold A
 Acosta, Mariola
 Adamseged, Muluken
+Adamseged, Muluken Elias
 Adamtey, Noah
 Addison, Chris
 Addom, Benjamin K.
@@ -40,6 +41,7 @@ Agricultural Water Solutions Project
 Agyekumhene, Christopher
 Agyemang, K.
 Aheeyar, Mohamed
+Aheeyar, Mohamed M. M.
 Ahmad, Mobin-ud-Din
 Ahmed, Akhter
 Ahmed, Mosab O. M.
@@ -49,6 +51,7 @@ Ainembabazi, John H.
 Ajala, S.
 Ajeigbe, Hakeem A.
 Ajmani, Manmeet Singh
+Akbar, Muhammad Zain
 Akbar, Zain
 Akinribido, Bolanle
 Akinwale, R.
@@ -64,6 +67,7 @@ Al-Hasan, Md.
 Al-Zu’bi, Maha
 Alahacoon, Niranga
 Alam, Faiz
+Alam, Mohammad Faiz
 Alamu, E.O.
 Alarcón, Pablo
 Alderman, Harold
@@ -76,6 +80,7 @@ Alene, Arega D.
 Alene, Temesgen
 Alercia, A.
 Ali, Muhammad
+Ali, Muhammad Tahir
 Ali, Zeshan
 Aliev, Jovidon
 Alioma, Richard
@@ -161,7 +166,7 @@ Atehnkeng, J.
 Atmadja, S.
 Atser, G.
 Atta-Krah, A.N.
-Attoh, Emmanuel
+Attoh, Emmanuel M. N. A. N.
 Audho, James O.
 Aung, Zin Wai
 Authié, E.
@@ -257,6 +262,7 @@ Bhatpuria, Dhyey
 Bhatta, Gopal Datt
 Bhattacharjee, R.
 Bhattacharjee, Suchiradipta
+Bhatti, Muhammad Tousif
 Bhatti, Tousif
 Bille, Jean-Claude
 Billings, Lucy
@@ -414,6 +420,7 @@ Chauhan, Alka
 Chavarriaga Aguirre, Paul
 Chávez, Alba L.
 Cheema, Muhammad
+Cheema, Muhammad Jehanzeb Masud
 Chemin, Yann H.
 Chen, Kevin Z.
 Cherian, Binu
@@ -428,6 +435,7 @@ Chirinda, Ngonidzashe
 Chirwa, Rowland
 Chokkalingam, U.
 Choruma, Dennis
+Choruma, Dennis Junior
 Chowdhury, Pabitra
 Christley, Robert M.
 Christopher, Anita
@@ -479,7 +487,7 @@ Davis, J.H.C.
 Davis, Kristin E.
 Dawoud, Mariam
 de Brauw, Alan
-De Silva, Sanjiv
+de Silva, Sanjiv
 De Weerdt, Joachim
 Debouck, Daniel G.
 Decaëns, Thibaud
@@ -521,6 +529,7 @@ Diop, Insa
 Diop, Loty
 Diressie, Michael Tedla
 Dirwai, Tinashe
+Dirwai, Tinashe Lindel
 Dissanayaka, Sujeewa
 Diwediga, Badabate
 Dixon, A.
@@ -564,6 +573,7 @@ East Africa Dairy Development Project
 Eastern Africa Grain Council
 Eba'a Atyi, R.
 Ebrahim, Girma
+Ebrahim, Girma Yimer
 Ecker, Olivier
 Edeh, Hyacinth O.
 Edmunds, D.
@@ -584,6 +594,7 @@ Ellis, D.
 Emery, D.L.
 Enahoro, Dolapo K.
 Enciso, Karen
+Enokenwa Baa, Ojongetakah
 Ensor, Jonathan
 Erenstein, Olaf
 Ergano, Kebebe
@@ -617,8 +628,7 @@ Fawcett, R.H.
 Feintrenie, L.
 Felde, T. zum
 Ferguson, John E.
-Ferguson, M.
-Ferguson, M.E.
+Ferguson, Morag E.
 Ferguson, Nathaniel
 Fernández Rivera, S.
 Fernández, F.O.
@@ -681,6 +691,7 @@ Gautier, D.
 Gaveau, D.L.A.
 Gbegbelegbe, Sika
 Gbodji, Kekeli
+Gbodji, Kekeli Kofi
 Gebara, M.F.
 Gebre-Wold, A.
 Gebregziabher, Gebrehaweria
@@ -720,7 +731,6 @@ Giordano, M.
 Giordano, Mark
 Giordano, Meredith A.
 Giri, Ravinder Kumar
-Giriraj, Amarnath
 Girvetz, Evan H.
 Gitau, G.K.
 Githaka, Naftaly W.
@@ -771,6 +781,7 @@ Hafeez, Mohsin
 Hagos, Fitsum
 Hahn, S.K.
 Haile, Alemseged
+Haile, Alemseged Tamiru
 Haile, Aynalem
 Haile, Beliyou
 Haileslassie, Amare
@@ -802,7 +813,6 @@ Hema, Aboubacar
 Hendrickx, Saskia C.J.
 Henry, Guy
 Hergoualc'h, Kristell
-Hergoualc’h, Kristell
 Hernández Romero, Luis Alfredo
 Hernandez, Manuel A.
 Herold, Martin
@@ -878,6 +888,7 @@ International Plant Genetic Resources Institute
 International Potato Center
 International Rice Research Institute
 International Water Management Institute
+Iqbal, Muhammad Shahid
 Iqbal, Naveed
 Iqbal, Shahid
 Iraoya, Augustine Okhale
@@ -981,6 +992,7 @@ Karsenty, A.
 Kartawinata, K.
 Karugia, Joseph T.
 Kasali, O.B.
+Kasoma-Pele, Winnie
 Kassa, H.
 Kassie, Girma T.
 Kassim, Yumna
@@ -1013,6 +1025,7 @@ Khair, Syed
 Khakimov, Parviz
 Khalifa, Muhammad
 Khalili, H.
+Khan, Abdul Hakeem
 Khan, Asraul Hoque
 Khan, M.A.
 Khan, Mehwish
@@ -1139,6 +1152,7 @@ Lescuyer, G.
 Levang, P.
 Levine, G.
 Liaqat, Umar
+Liaqat, Umar Waqas
 Light, D.E.
 Lilja, N.
 Limberg, G.
@@ -1180,6 +1194,7 @@ Mafla, G.
 Magalhaes, Marilia
 Magezi, Sylvia Ruhweza
 Magombeyi, Manuel
+Magombeyi, Manuel Simba
 Mahan, S.M.
 Mahapatra, Smaranika
 Mahrt, Kristi
@@ -1211,6 +1226,7 @@ Manthrithilake, Herath
 Manyong, Victor M.
 Mao, Ruiz
 Mapedza, Everisto
+Mapedza, Everisto D.
 Mapfumo, Paul
 Maqsood, Aarish
 Maqsood, Anwar
@@ -1281,6 +1297,7 @@ Mertens, B.
 Mignouna, Djana B.
 Mignouna, H.D.
 Miles, John W.
+Minh, Thai Thi
 Ministry of Agriculture, Livestock and Fisheries, Kenya
 Minja, EM
 Minjauw, B.
@@ -1294,6 +1311,7 @@ Mishra, Bhumika
 Misra, Rewa S.
 Missohou, Ayao
 Mizan, Syed
+Mizan, Syed Adil
 Mkamilo, G.S.
 Mkumbira, J.
 Moeliono, M.
@@ -1373,6 +1391,7 @@ Namara, Regassa E.
 Nantulya, V.M.
 Narayanan, Sudha
 Nartey, Eric
+Nartey, Eric Gbenatey
 Naseer, Asif
 Nasi, Robert
 Natividad, Rowena
@@ -1467,6 +1486,7 @@ Onilogbo, Omobolanle Nuratu
 Onzo, A.
 Oo, Theingi
 Opola, Felix
+Opola, Felix Ouko
 Orange, Didier
 Ordinola, M.
 Orth, Alan S.
@@ -1493,6 +1513,7 @@ Pacheco, P.
 Pachico, Douglas H.
 Pachón, Helena
 Padhee, Suman
+Padhee, Suman Kumar
 Padulosi, S.
 Pal, Barun Deb
 Paladines M., Osvaldo L.
@@ -1693,6 +1714,7 @@ Ruiz Perez, M.
 Rushton, Jonathan
 Sabai, Moe
 Sabogal, C.
+Sahana, V.
 Said, A.N.
 Said, Mohammed Yahya
 Sakil, Abdul Zabbar
@@ -1705,6 +1727,7 @@ Samad, M.
 Samad, Madar
 Samarasekara, Vidhisha
 Samireddypalle, A.
+Sanchez Ramirez, Juan Carlos
 Sanchez, Juan
 Sánchez, P.A.
 Sánchez, T.
@@ -1744,6 +1767,7 @@ Sebastian, Leocadio S.
 Seckler, D.
 Seid, Abdulkarim
 Sena, Dipaka
+Sena, Dipaka Ranjan
 Senaratna Sellamuttu, Sonali
 Sengupta, Debdatta
 Senzanje, A.
@@ -1878,8 +1902,7 @@ Tall, Arame
 Talsma, Elise F.
 Tambet, Heleene
 Tamene, Lulseged
-Tamo, M.
-Tamò, M.
+Tamò, Manuele
 Tandjigora, Seydou
 Tanner, J.C.
 Tapasco, Jeimar
@@ -1892,6 +1915,7 @@ Taron, Avinandan
 Tauseef, Salauddin
 Tawah, C.L.
 Taye, Meron
+Taye, Meron Teferi
 Tchatat, M.
 Tchinde, Brice B.
 Teale, A.J.
@@ -1975,6 +1999,7 @@ Uhlenbrock, Silke
 Ul-Hassan, Mehmood
 Ulimwengu, John M.
 Ullah, Kaleem
+Ullah, Muhammad Kaleem
 Umar Abubakar, Hadiza
 Umer, Yakob
 Umunna, N.N.
@@ -1983,7 +2008,6 @@ Unger, Fred
 Uniyal, Prateek
 Upadhyaya, Hari D.
 Usadadia, Nikunj
-V, Sahana
 Vadez, Vincent
 Valbuena, Diego
 Valentin, Christian
@@ -1999,6 +2023,7 @@ Varshney, Deepak
 Vayssières, J.F.
 Velasco, C.
 Velpuri, Naga
+Velpuri, Naga Manohar
 Venot, Jean-Philippe
 Vera, Raúl R.
 Verchot, Louis V.
@@ -2124,6 +2149,6 @@ Zohaib, Muhammad
 Zonneveld, M. van
 Zougmoré, Robert B.
 Zu, A Myint
-Zwart, Sander
+Zwart, Sander J.
 Zwarteveen, M.Z.
 Zweygarth, E.
