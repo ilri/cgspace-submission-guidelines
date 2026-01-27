@@ -257,7 +257,7 @@ parser.add_argument(
 parser.add_argument(
     "-i",
     "--input-forms",
-    help="Path to DSpace submission form (input-forms.xml).",
+    help="Path to DSpace submission form (submission-forms.xml).",
     required=True,
     type=argparse.FileType("r"),
 )
