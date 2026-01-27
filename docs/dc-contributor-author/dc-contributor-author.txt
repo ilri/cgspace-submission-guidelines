@@ -14,10 +14,11 @@ Abedin, Jainal
 Abele, S.
 Abernethy, Charles L.
 Abushama, Hala
+Achandi, Esther L.
 Achdiawan, R.
 Achicanoy, Harold A
 Acosta, Mariola
-Adamseged, Muluken
+Adam, Rahma
 Adamseged, Muluken Elias
 Adamtey, Noah
 Addison, Chris
@@ -321,6 +322,7 @@ Bryan, Elizabeth
 Buah, S.S.J.
 Buisson, Marie-Charlotte
 Buitrago, J.A.
+Bullock, Renee
 Bunn, Christian
 Burgos, G.
 Burkart, Stefan
@@ -336,6 +338,7 @@ Cajiao V., César Hernando
 Calle, F
 Calvert, Lee A.
 Campbell, Bruce M.
+Campbell, Zoë A.
 Capistrano, D.
 Cardona Mejía, César
 Cardoso, Juan Andrés
@@ -567,6 +570,7 @@ Duncan, Alan J.
 Dunston, Shahnila
 Duque E., Myriam Cristina
 Durkin, J.W.
+DuttaGupta, Tanaya
 Dwinger, R.H.
 Dykstra, D.P.
 East Africa Dairy Development Project
@@ -1225,7 +1229,6 @@ Manohar, Swetha
 Manthrithilake, Herath
 Manyong, Victor M.
 Mao, Ruiz
-Mapedza, Everisto
 Mapedza, Everisto D.
 Mapfumo, Paul
 Maqsood, Aarish
@@ -1338,7 +1341,7 @@ MPM, Deepa
 Mrode, Raphael A.
 Mtimet, Nadhem
 Mude, Andrew G.
-Mudege, N.N.
+Mudege, Netsayi N.
 Mudyahoto, Bho
 Mueller, Valerie
 Mugabo, Serge
@@ -1422,6 +1425,7 @@ Nin-Pratt, Alejandro
 Nirmal, Rajalakshmi
 Niyonsingiza, Josue
 Njarui, Donald M.G.
+Njiru, Nelly
 Njuki, Jemimah
 Njukwe, E.
 Nkamleu, G.B.
@@ -1539,6 +1543,7 @@ Pauw, Karl
 Pavelic, Paul
 Paz, Cynthia
 Paz, Florencia
+Pazos, Mateo
 Peacock, C.P.
 Pearson, T.W.
 Peden, Donald G.
@@ -1927,6 +1932,7 @@ Tegegne, Desalegn
 Tembely, S.
 Tenkouano, A.
 Tenywa, M.M.
+Terfa, Zelalem
 Tergas, LE
 Termote, C.
 Tesfaye, Haleluya
