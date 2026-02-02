@@ -531,7 +531,6 @@ Dione, Michel M.
 Diop, Insa
 Diop, Loty
 Diressie, Michael Tedla
-Dirwai, Tinashe
 Dirwai, Tinashe Lindel
 Dissanayaka, Sujeewa
 Diwediga, Badabate
@@ -576,7 +575,6 @@ Dykstra, D.P.
 East Africa Dairy Development Project
 Eastern Africa Grain Council
 Eba'a Atyi, R.
-Ebrahim, Girma
 Ebrahim, Girma Yimer
 Ecker, Olivier
 Edeh, Hyacinth O.
@@ -703,7 +701,6 @@ Gebrekirstos, Aster
 Gebremedhin, Berhanu
 Gebretsadik, Yohannes
 Gebreyesus, Kirubel
-Gebrezgabher, Solomie
 Gebrezgabher, Solomie A.
 Gebru, G.
 Gedil, M.
@@ -731,7 +728,6 @@ Gill, Sitara
 Giller, Ken E.
 Gillespie, Stuart
 Gilligan, Daniel O.
-Giordano, M.
 Giordano, Mark
 Giordano, Meredith A.
 Giri, Ravinder Kumar
@@ -784,7 +780,6 @@ Haan, Stef de
 Hafeez, Mohsin
 Hagos, Fitsum
 Hahn, S.K.
-Haile, Alemseged
 Haile, Alemseged Tamiru
 Haile, Aynalem
 Haile, Beliyou
@@ -1155,7 +1150,6 @@ Leroy, Jef L.
 Lescuyer, G.
 Levang, P.
 Levine, G.
-Liaqat, Umar
 Liaqat, Umar Waqas
 Light, D.E.
 Lilja, N.
@@ -1177,7 +1171,7 @@ López Noriega, Isabel
 Lore, Tezira A.
 Lorenzen, J.H.
 Love, D.
-Low, J.W.
+Low, Jan W.
 Lozano, J.C.
 Luedeling, Eike
 Lukuyu, Ben A.
@@ -1197,7 +1191,6 @@ Maehl, J.H.H.
 Mafla, G.
 Magalhaes, Marilia
 Magezi, Sylvia Ruhweza
-Magombeyi, Manuel
 Magombeyi, Manuel Simba
 Mahan, S.M.
 Mahapatra, Smaranika
@@ -1265,7 +1258,6 @@ Maziya-Dixon, B.
 Mazloum, Alaa
 Mbagurire, Jean Pierre
 Mbuthia, Juneweenex
-McCartney, Matthew
 McCartney, Matthew P.
 McCord, Dedrick
 McCornick, Peter G.
@@ -1362,7 +1354,6 @@ Mulligan, M.
 Munir, Sarfraz
 Muoki, Penina Ngusye
 Mupangwa, W.
-Mupangwa, Walter
 Murdiyarso, Daniel
 Murphy, Mike
 Murphy, N.B.
@@ -1516,7 +1507,6 @@ Pace, Kathryn
 Pacheco, P.
 Pachico, Douglas H.
 Pachón, Helena
-Padhee, Suman
 Padhee, Suman Kumar
 Padulosi, S.
 Pal, Barun Deb
@@ -1754,7 +1744,6 @@ Scheldeman, Xavier
 Schelling, E.
 Schmidt, A
 Schmidt, Emily
-Schmitter, Petra
 Schmitter, Petra S.
 Schoneveld, G.C.
 Schoonhoven, Aart van
@@ -1771,7 +1760,6 @@ Scott, Samuel P.
 Sebastian, Leocadio S.
 Seckler, D.
 Seid, Abdulkarim
-Sena, Dipaka
 Sena, Dipaka Ranjan
 Senaratna Sellamuttu, Sonali
 Sengupta, Debdatta
