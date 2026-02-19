@@ -18,6 +18,7 @@ Internal Document
 Journal Article
 Journal Item
 Logo
+Magazine Article
 Manual
 Manuscript-unpublished
 Map
