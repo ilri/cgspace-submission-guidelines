@@ -21,8 +21,8 @@ dependencies = [
 repository = "https://github.com/ilri/cgspace-submission-guidelines"
 homepage = "https://github.com/ilri/cgspace-submission-guidelines"
 
-[tool.uv]
-dev-dependencies = [
+[dependency-groups]
+dev = [
     "black==25.1.*",
     "isort==6.0.*",
     "flake8==7.3.*"
